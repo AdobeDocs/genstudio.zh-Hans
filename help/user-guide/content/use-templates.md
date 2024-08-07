@@ -2,9 +2,9 @@
 title: 使用模板
 description: 了解如何使用模板在GenStudio中创建引人入胜的体验。
 feature: Templates, Content
-source-git-commit: 423956d6fdbf5b31041d44eb434f90d55a87d7c0
+source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '443'
 ht-degree: 2%
 
 ---
@@ -12,11 +12,37 @@ ht-degree: 2%
 
 # 使用模板
 
-模板用于为电子邮件和社交媒体广告生成一致的内容。 它们通过提供包括预配置布局和设计元素在内的起点，显着减少了生成新内容所需的时间和精力。
+GenStudio模板对于使内容创建者能够快速生成一致的品牌营销内容至关重要。 使用模板可以提供一个包括预配置布局和设计元素在内的起点，从而显着减少生成新内容所需的时间和精力。
+
+本指南提供有关如何：
+
+* 准备[电子邮件模板](email-template.md)或元广告模板
+* 为GenStudio自定义[模板](customize-template.md)
+* [将模板](#upload-a-template)上传到GenStudio
+* [使用模板创建体验](#use-a-template)
+
+## 模板剖析
+
+基本模板设计包括以下元素：
+
+| 元素 | 函数 | 渠道模板 |
+| ------------ | ---------------------- | -------------------- |
+| 预编译标头 | 介于40-50个字符之间<br>充当辅助主题行，增强主主题行<br>在打开电子邮件之前，与主题一起显示在收件箱中 | 电子邮件 |
+| 页眉 | 打开电子邮件时，电子邮件收件人的顶部会看到<br>设置音调并为包含的内容提供上下文 | 电子邮件 |
+| 标题 | 第一个内容收件人看到<br>应具有吸引人才能吸引关注 | 元广告 |
+| 正文 | 传递主要消息的主内容区域<br>可以包括文本、图像和其他媒体 | 电子邮件<br>元广告 |
+| CTA | 鼓励收件人采取特定操作（如单击链接或购买）的号召性用语 | 电子邮件<br>元广告 |
+| 图像 | 增强视觉吸引力<br>分解文本<br>支持消息<br>应高品质且抢眼 | 电子邮件<br>元广告 |
+| 页脚 | 包含其他信息，如联系详情、社交媒体链接、免责声明和取消订阅选项 | 电子邮件 |
+| 文本叠加 | 图像<br>上的文本应支持并增强标题和正文 | 元广告 |
+
+>[!NOTE]
+> 
+>建议您在每个渠道的内容中包含特定字段，以确保GenStudio可以为内容占位符生成文本。 请参阅[可识别的字段名称](customize-template.md#recognized-field-names)，以查看建议包含哪些字段。
 
 ## 上传模板
 
-GenStudio接受HTML格式的模板。 了解如何为GenStudio[生成自定义模板](customize-template.md)。
+GenStudio接受HTML格式的模板。
 
 **添加模板**：
 
@@ -32,7 +58,7 @@ GenStudio接受HTML格式的模板。 了解如何为GenStudio[生成自定义�
 
    模板名称和渠道类型为必填项。
 
-   - **Meta**：需要宽高比
+   * **Meta**：需要宽高比
    <!-- **Display ads**: requires Dimensions -->
 
 1. 添加尽可能多的详细信息，以改进搜索和筛选中的模板识别。
@@ -53,7 +79,7 @@ GenStudio接受HTML格式的模板。 了解如何为GenStudio[生成自定义�
 
 >[!TIP]
 >
->有关使用电子邮件模板的完整教程，请参阅[[!DNL Create] 电子邮件体验](/help/tutorials/create-email-experience.md)。
+>有关使用模板的完整教程，请参阅[[!DNL Create] 电子邮件体验](/help/tutorials/create-email-experience.md)或[[!DNL Create] 元广告体验](/help/tutorials/create-meta-ad.md)。
 
 <!--  The create button in Content Template view does not work yet.
 1. Click **[!UICONTROL Create Experience]** (paintbrush) from the upper right corner to use the template.
