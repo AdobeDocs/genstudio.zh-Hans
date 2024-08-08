@@ -2,7 +2,7 @@
 title: Publish批准的内容
 description: 了解如何发布批准的内容。
 feature: Approval, Content
-source-git-commit: 6da5eb91db34e3b91430d513f3af5de1cd380222
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 发布后
 
-所有GenStudio用户都可以在[!DNL Content]中访问已批准的资源或体验。 资产详细信息窗格标识资产的上传和审批历史记录。 这些属性标识保存的内容：
+所有GenStudio用户都可以在[!DNL Content]中访问已批准的资源或体验。 资产详细信息面板可识别资产的上传和审批历史记录。 这些属性标识保存的内容：
 
 * **上载日期**：标识上载内容的日期。
 * **上传者**：标识GenStudio资源创建者。

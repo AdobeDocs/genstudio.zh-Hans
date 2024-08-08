@@ -1,7 +1,7 @@
 ---
 title: 请求审查和批准
 description: 请求审核。
-source-git-commit: c9bd8bf434e493696e674900f403307260a65b02
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 如果您是内容创建者，草稿画布将显示&#x200B;**[!UICONTROL 管理审批]**&#x200B;按钮。 使用此按钮可打开一个弹出窗口，您可在审阅和批准流程中从中删除或添加批准者。
 
-启动审批请求后，审批者名称将以[!DNL Notified]状态列在此窗格中。 有关GenStudio批准任务的概述，请参阅[批准内容](./approve-content.md)。
+启动审批请求后，审批者名称将以[!DNL Notified]状态列在此视图中。 有关GenStudio批准任务的概述，请参阅[批准内容](./approve-content.md)。
 
 
 

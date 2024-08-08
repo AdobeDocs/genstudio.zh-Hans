@@ -2,7 +2,7 @@
 title: GenStudio [!DNL Personas]
 description: GenStudio [!DNL Personas] 真实地呈现了您的客户区段，反映了他们的兴趣、痛点、偏好和行为特征。
 feature: Personas Service, Guidelines
-source-git-commit: 21d0c7c6aab6f4d81fc4376251e85eb2d4be3f25
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 0%

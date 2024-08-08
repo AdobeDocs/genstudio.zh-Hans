@@ -4,9 +4,9 @@ description: 了解如何在Adobe [!DNL GenStudio]中添加准则 — [!DNL Bran
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: 3693d7dc3b9ee5c4b6c22bdc373f3c78bded4bef
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '913'
+source-wordcount: '907'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 您可以上传自己的品牌文档以在GenStudio中填充新品牌。
 
-请参阅[[!DNL Brands]](/help/user-guide/guidelines/brands.md)以查看示例品牌指南。
+请参阅[[!DNL Brands]](/help/user-guide/guidelines/brands.md)。
 
 **要上载品牌文档**：
 
@@ -110,7 +110,7 @@ GenStudio使用Adobe的创作AI技术，从您上传的文档中提取信息并�
    1. 从&#x200B;_图库_&#x200B;选项卡中的图库中选择图像。
 1. 单击&#x200B;**[!UICONTROL 使用图像]**。
 
-   要查看您创建的[!DNL Products]，请单击&#x200B;_产品_&#x200B;窗格顶部附近的向后箭头，以导航回&#x200B;_[!DNL Products]_主页。
+   要查看您创建的[!DNL Products]，请单击&#x200B;_产品_&#x200B;视图顶部附近的向后箭头，以导航回&#x200B;_[!DNL Products]_主页。
 
 ### 管理[!DNL Products]
 
@@ -137,7 +137,7 @@ GenStudio使用Adobe的创作AI技术，从您上传的文档中提取信息并�
    1. 从&#x200B;_图库_&#x200B;选项卡中的图库中选择图像。
 1. 单击&#x200B;**[!UICONTROL 使用图像]**。
 
-要查看您创建的[!DNL Personas]，请单击&#x200B;_角色_&#x200B;窗格顶部附近的向后箭头，以导航回&#x200B;_[!DNL Personas]_主页。
+要查看您创建的[!DNL Personas]，请单击&#x200B;_角色_&#x200B;视图顶部附近的向后箭头，以导航回&#x200B;_[!DNL Personas]_主页。
 
 ### 管理[!DNL Personas]
 

@@ -2,7 +2,7 @@
 title: 使用模板
 description: 了解如何使用模板在GenStudio中创建引人入胜的体验。
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '443'
 ht-degree: 2%
@@ -73,7 +73,7 @@ GenStudio接受HTML格式的模板。
 
 1. 在&#x200B;_[!DNL Content]_中，选择&#x200B;**[!UICONTROL 模板]**部分。
 
-   ![内容模板列表](../../assets/content-templates.png)
+   ![内容模板列表](../../assets/content-templates.png){width="650" zoomable="yes"}
 
 1. 选择模板以查看完整视图和详细信息列表。
 

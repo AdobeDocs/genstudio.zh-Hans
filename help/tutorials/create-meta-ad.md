@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '890'
+source-wordcount: '887'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,8 @@ ht-degree: 0%
 **选择元广告模板**：
 
 1. 在&#x200B;_[!DNL Create]_中，在_“今天要创建什么？”中单击&#x200B;**[!UICONTROL 元广告]**_节。
-1. 在&#x200B;_选择模板_&#x200B;视图中，将&#x200B;_渠道_&#x200B;筛选器切换为&#x200B;**[!UICONTROL 元广告]**。
 1. 使用&#x200B;_筛选器_&#x200B;旁边的搜索选项查找特定的元广告模板。
-1. 单击以选择模板，或切换选择多个模板，然后单击&#x200B;**[!UICONTROL 使用]**。 如果选择多个模板，则在生成变体时，所有选定的模板将用于为您提供选项。
+1. 单击以选择模板，然后单击&#x200B;**[!UICONTROL 使用]**。
 
    此操作将打开画布，它是内容创建的中心中心。
 
@@ -53,7 +52,7 @@ ht-degree: 0%
 
 ## 输入提示
 
-选择准则后，使用自然语言制作提示，开始为新的元广告体验生成内容。
+选择准则后，使用自然语言制作提示，开始为新的元广告体验生成内容。 详细提示比模糊或不描述性提示产生更高的输出质量。
 
 请参阅[编写有效提示](/help/user-guide/effective-prompts.md)，了解有关编写提示的详细信息。
 
@@ -62,7 +61,7 @@ ht-degree: 0%
 1. 在&#x200B;_“描述您要生成的体验”_&#x200B;提示框中输入提示。
 1. 单击&#x200B;**[!UICONTROL 生成]**。
 
-默认情况下，将生成四个生成的变体（全部由您添加的提示、指南和内容提供），并显示在画布中。
+默认情况下，将生成四个变体（全部由提示、指南和您添加的内容提供），并显示在画布中。
 
 ## 选择元广告渠道
 
@@ -76,6 +75,7 @@ ht-degree: 0%
 
 **要修订生成的变体**：
 
+* **要编辑元广告草稿名称**，请单击画布顶部的&#x200B;_无标题草稿_&#x200B;标题并输入新标题。
 * **要手动编辑元广告**，请双击任何广告片段（如主题行、标题或正文）并根据需要进行编辑。
 
   只需单击主题行和预页眉即可编辑，而页眉和正文副本则需要双击。
@@ -93,7 +93,7 @@ ht-degree: 0%
 1. 若要获取需要改进的片段的详细信息和指南，请单击&#x200B;**[!UICONTROL 查看]** _或_，单击顶部菜单栏中的“品牌验证”图标以打开&#x200B;[_品牌验证面板_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)。
 
 1. 切换每个广告，了解如何改进生成的内容以使内容更具品牌一致性。
-1. [手动修改电子邮件](#revise-generated-emails)以确保您的广告与品牌紧密一致。
+1. [手动修改广告](#revise-generated-meta-ads)以确保您的广告与品牌紧密一致。
 
 请参阅[品牌验证](/help/user-guide/guidelines/brand-validation.md)。
 

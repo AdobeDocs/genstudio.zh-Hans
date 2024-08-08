@@ -3,9 +3,9 @@ title: GenStudio入门
 description: 了解如何设置GenStudio以生成新的品牌整合营销内容。
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
-source-git-commit: 2501d1e36f76d1534a735b9147fb42f762a665e8
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '1066'
+source-wordcount: '1049'
 ht-degree: 1%
 
 ---
@@ -74,7 +74,7 @@ GenStudio是一个全面的平台，用于创建、评估和管理可反映并�
 
 ### 管理员
 
-管理员用户可创建用户并将其分配给任何GenStudio支持的角色。 他们可以根据需要向各个创建者或协作者分配新权限。 他们最关键的工作是完成初始入门培训任务，让您的组织做好部署GenStudio的准备。
+**管理员**&#x200B;创建用户并将其分配给GenStudio支持的任意角色。 他们可以根据需要向各个创建者或协作者分配新权限。 他们最关键的工作是完成初始入门培训任务，让您的组织做好部署GenStudio的准备。
 
 下表显示默认的GenStudio系统管理员权限：
 
@@ -91,9 +91,9 @@ GenStudio是一个全面的平台，用于创建、评估和管理可反映并�
 
 ## 准备GenStudio以生成内容
 
-系统管理员准备其组织的GenStudio环境，以便创建者和协作者创建活动资源。 这些初步设置任务包括：
+系统管理员准备其组织的GenStudio环境，以便创建者和协作者创建营销活动资源。 这些初步设置任务包括：
 
-1. [为[!DNL Brands]、[!DNL Products]和[!DNL Personas]设置准则](./guidelines/overview.md)。 设置贵组织3月&#x200B;**[的关键构建块将准则](./guidelines/overview.md)** （[!DNL Brands]、[!DNL Products]和[!DNL Personas]）添加到GenStudio。 设置组织品牌标识的关键构建块是GenStudio创建者和协作者工作的重要先决条件。 您可以上传品牌准则文档或手动输入品牌信息。
+1. [为[!DNL Brands]、[!DNL Products]和[!DNL Personas]添加准则](./guidelines/overview.md)。 设置组织品牌标识的关键构建块是GenStudio创建者和协作者工作的重要先决条件。 您可以上传品牌准则文档或手动输入品牌信息。
    * **准备您的指南文档**。 品牌指南的描述性越强、内容越全面，GenStudio的输出效果就越好。 包含您认为对品牌至关重要的功能的简短示例，并添加要从GenStudio内容创建中排除的行为描述。 GenStudio会从这些上传的文档中提取信息，并开始构建您的品牌。 品牌声音、渠道和图像指南等信息，将填充为GenStudio从您上传的文档中汇编每个指南。
    * **根据需要编辑或完成品牌指南字段**。 全面的品牌指南构成了GenStudio了解您组织品牌的基础。 GenStudio从品牌准则文档中提取所需信息后，系统会提示您手动编辑或填写提取信息的字段。 通过添加[!DNL Product]指定内容创建的各个产品焦点区域。 [!DNL Personas]指南帮助为定义的客户区段定制内容创建。
 

@@ -2,9 +2,9 @@
 title: 资源详细信息
 description: GenStudio使用丰富的元数据存储经批准的内容，以便进行可搜索性和性能跟踪。
 feature: Attributes, Assets
-source-git-commit: ba7dced9e62f797cd43a0bd8d8263828ec5c3d5e
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '402'
 ht-degree: 1%
 
 ---
@@ -46,8 +46,8 @@ GenStudio使用丰富的元数据存储经批准的内容，以便进行可发�
 | ------------- | ----------- | -------- | -------- |
 | 营销活动名称（项目名称） | 使用资源捕获和存储默认元数据 | Y | N |
 | 品牌名称 | [[!DNL Brands]](/help/user-guide/guidelines/brands.md)已添加到GenStudio并发布以供使用 | Y | N |
-| 产品 | [[!DNL Products]](/help/user-guide/guidelines/products.md)已添加到GenStudio以供使用 | Y | N |
-| 角色 | [[!DNL Personas]](/help/user-guide/guidelines/personas.md)已添加到GenStudio以供使用 | Y | N |
+| [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md)已添加到GenStudio以供使用 | Y | N |
+| [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md)已添加到GenStudio以供使用 | Y | N |
 | 渠道 | GenStudio中用于资源的内容类型，如电子邮件和元广告 | Y | N |
 | 时间范围 | 资产使用的时间范围，如季度、季度、年份等。 示例： `Winter 2023` | Y | N |
 | 区域 | 使用资产的区域。 示例： `North America`，`APAC`，`Italy` | Y | N |
@@ -66,7 +66,7 @@ GenStudio使用丰富的元数据存储经批准的内容，以便进行可发�
 
 >[!TIP]
 >
->您还可以从[!DNL Insights]查看资源详细信息。 分析提供各体验的使用情况统计和性能上下文。 在&#x200B;_[!DNL Insights]_中，选择&#x200B;**[!UICONTROL Assets]**部分。
+>您还可以从[!DNL Insights]查看资源详细信息。 [!DNL Insights]跨体验提供使用统计信息和性能上下文。 在&#x200B;_[!DNL Insights]_中，选择&#x200B;**[!UICONTROL Assets]**部分。
 
 <!-- ## History
 

@@ -1,9 +1,9 @@
 ---
 title: Adobe GenStudio用户指南
 description: 了解如何使用GenStudio和创作AI使内容供应链个性化。
-source-git-commit: 43b059fe65a06b1cb6bba03c4e811c83af75d6f3
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '178'
 ht-degree: 1%
 
 ---
@@ -11,9 +11,9 @@ ht-degree: 1%
 
 # GenStudio用户指南
 
-由创新型人工智能提供支持的Adobe GenStudio彻底改变了内容供应链，使您能够创建、衡量和管理体现品牌精髓的个性化体验。
+GenStudio是由Adobe的创作AI技术提供支持的综合性营销解决方案。 它使营销人员能够简化内容供应链，从构思到交付和绩效衡量。
 
-通过使用GenStudio，营销人员和团队可以轻松生成和优化符合品牌准则的高质量内容。 GenStudio可加快营销生命周期，从而节省宝贵的时间和资源。
+借助GenStudio，企业可以利用创新型人工智能加快内容创建，轻松查找和重用内容，并推动成功的全渠道营销活动。
 
 ## 探索GenStudio功能
 
