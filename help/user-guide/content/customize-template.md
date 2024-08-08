@@ -3,9 +3,9 @@ title: 自定义模板
 description: 了解如何为GenStudio构建自定义模板。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: 1b5b12615c52823aa2f1c10ad704e3fc0dabb1e9
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '809'
 ht-degree: 0%
 
 ---
@@ -73,6 +73,12 @@ GenStudio会自动填充模板中的某些字段，因此没有必要将它们�
 >[!WARNING]
 >
 >对于Instagram广告，生成的标题不会显示在最终体验中。
+
+#### 品牌徽标字段名称
+
+要在模板中添加品牌徽标，请使用以下代码呈现默认徽标：
+
+```{{#if brand_logo}}{{brand_logo}}{{else}} encoded inline logo {{/if}}```
 
 #### 手动字段名称
 

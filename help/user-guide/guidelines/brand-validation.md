@@ -2,9 +2,9 @@
 title: GenStudio中的品牌验证
 description: 了解内置品牌验证系统在GenStudio中的工作方式。
 feature: Brands Service, Guidelines
-source-git-commit: d7de679ce310dcdcec4a1b5ea814b2ca8b1fc413
+source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
 workflow-type: tm+mt
-source-wordcount: '603'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---
@@ -66,7 +66,7 @@ _品牌验证面板_&#x200B;显示以下信息：
 
 ## 改善品牌一致性
 
-若要最大限度地提高生成内容的效率并保持一致的品牌标识，请使用&#x200B;_品牌指南检查_&#x200B;和&#x200B;_品牌验证面板_。 您可以手动修改特定片段或[生成优化变体](/help/user-guide/create/generate-variants.md)，以符合您的[品牌准则](brands.md)。
+若要最大限度地提高生成内容的效率并保持一致的品牌标识，请使用&#x200B;_品牌指南检查_&#x200B;和&#x200B;_品牌验证面板_。 您可以手动修改特定片段，以符合[品牌指南](brands.md)。
 
 **要改善生成的内容变体的品牌一致性**：
 

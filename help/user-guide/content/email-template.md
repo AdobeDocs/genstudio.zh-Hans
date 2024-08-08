@@ -3,9 +3,9 @@ title: 为GenStudio准备电子邮件模板
 description: 了解如何为GenStudio构建自定义电子邮件模板。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,9 @@ ht-degree: 0%
 
 在准备元广告模板之前，请确保已将[准则](/help/user-guide/guidelines/overview.md)添加到您的GenStudio中，并为其填充了相关品牌的综合信息。 [品牌准则](/help/user-guide/guidelines/brands.md)直接影响生成的内容。
 
-> **示例**：如果您希望电子邮件模板正文不超过500个字符，请将该要求添加到“正文”字段的[渠道准则](/help/user-guide/guidelines/brands.md#channel-guidelines)中。
+**示例**：如果您希望电子邮件模板正文不超过500个字符，请将该要求添加到“正文”字段的[渠道准则](/help/user-guide/guidelines/brands.md#channel-guidelines)中。
+
+如果未将准则添加到GenStudio，则使用默认值。
 
 ## 对电子邮件模板进行编码
 

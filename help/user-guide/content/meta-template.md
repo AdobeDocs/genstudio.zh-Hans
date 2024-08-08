@@ -3,9 +3,9 @@ title: 为GenStudio准备元广告模板
 description: 了解如何为GenStudio构建自定义元广告模板。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 **示例**：如果您希望元广告模板正文不超过500个字符，请将该要求添加到“正文”字段的[渠道准则](/help/user-guide/guidelines/brands.md#channel-guidelines)中。
 
-如果未将准则添加到GenStudio，则将使用默认值。
+如果未将准则添加到GenStudio，则使用默认值。
 
 ## 设计模板
 

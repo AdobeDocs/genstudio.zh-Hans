@@ -4,7 +4,7 @@ description: 了解如何在Adobe [!DNL GenStudio]中添加准则 — [!DNL Bran
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: 121a567a6a45f6d17caa621e323cdc3a4aa3dcb4
+source-git-commit: 3693d7dc3b9ee5c4b6c22bdc373f3c78bded4bef
 workflow-type: tm+mt
 source-wordcount: '913'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 添加[!DNL Brands]
 
-要将品牌添加到GenStudio，您可以[上传品牌指南](#upload-brand-guidelines)或[通过选择指南并输入品牌详细信息来手动创建品牌](#manually-add-brand)。 [将品牌](#publish-brand)Publish到[!DNL Content]以使其可用于生成变体。
+要将品牌添加到GenStudio，您可以[上传品牌指南](#upload-brand-guidelines)或[通过选择指南并输入品牌详细信息来手动创建品牌](#manually-add-brand)。 [将品牌](#publish-brand)Publish到[!DNL Content]以使其可用于未来生成内容。
 
 在左侧导航区域中，单击&#x200B;**[!DNL Brands]**。 在&#x200B;_[!DNL Brands]_面板中，选择&#x200B;**添加品牌**。
 
@@ -82,7 +82,7 @@ GenStudio使用Adobe的创作AI技术，从您上传的文档中提取信息并�
 
 发布品牌后，将显示一条横幅，确认您的品牌已准备就绪：“*品牌已发布并可使用*”。
 
-发布的品牌现在可用于在&#x200B;_[!DNL Create]_或_[!DNL Content]_&#x200B;中生成变体。
+已发布的品牌现在可在&#x200B;_[!DNL Create]_或_[!DNL Content]_&#x200B;中使用。
 
 ### 管理[!DNL Brands]
 

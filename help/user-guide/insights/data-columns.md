@@ -3,10 +3,10 @@ title: ' [!DNL Insights]的数据列'
 description: 了解 [!DNL Insights] 网格中每一列所代表的含义。
 feature: Attributes, Insights
 recommendations: noDisplay
-source-git-commit: 52a37b83b6f13b16a2234e50827c8d08b9a86680
+source-git-commit: 4d5de6fc053297c823be9005c628dafcecc3f7a7
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 2%
+source-wordcount: '254'
+ht-degree: 3%
 
 ---
 
@@ -34,4 +34,3 @@ ht-degree: 2%
 | 展示次数 | 通过注册的展示次数向查看者显示促销活动广告的次数。 |
 | 目标 | 营销活动或项目的目标。 创建活动或项目时设置目标。<br>目标类型包括： `Awareness`、`Traffic`、`Engagement`、`Leads`、`App promotion`、`Sales` |
 | 支出 | 营销活动中所有广告的支出总额（以美元为单位）。 |
-| 视频播放 | 视频开始播放的次数。 当视频开始自动播放或有人单击播放视频时，可能会发生视频播放。 |
