@@ -2,9 +2,9 @@
 title: GenStudio [!DNL Personas]
 description: GenStudio [!DNL Personas] 真实地呈现了您的客户区段，反映了他们的兴趣、痛点、偏好和行为特征。
 feature: Personas Service, Guidelines
-source-git-commit: 423956d6fdbf5b31041d44eb434f90d55a87d7c0
+source-git-commit: 21d0c7c6aab6f4d81fc4376251e85eb2d4be3f25
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '380'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,9 @@ GenStudio中的![[!DNL Personas]准则](/help/assets/personas-guidelines.png){wi
 
 下表显示了[!DNL Personas]指南的每个类别和相关示例。
 
-| 准则类别 | 准则示例 |
-| ------------------| :---------- |
-| 描述 | `Brand Uno's Curious Jobseekers are curious about finding a job within their immediate area and need assistance with learning how to find applicable positions, interviewing successfully, and researching transportation options. This prep work will prepare the Curious Jobseeker to take the next step in applying to fitting job opportunities and entering the interview process with confidence.` |
-| 消息首选项 | `Curious Jobseekers respond to communications and marketing messaging when they feel the Empower Outreach program's capabilities are affordable and successful in helping them obtain the job they desire. They enjoy visuals/graphics and short punchy headlines crafted to get their attention.` |
+| 准则类别 | 准则示例 | 最佳实践 |
+| ------------------| :---------- |-------------|
+| 角色名称 | 代表量身定制营销材料的特定受众区段 | 添加简洁明了的角色名称。<br><br>_示例_：“零售业的CMO”、“未来的护理学生”、“新的储蓄帐户客户” |
+| 描述 | 定义关键特征、需求和行为的简短摘要 | 使用简洁的语言清晰地描述角色和独特的受众分段（1-2个句子）。<br><br>关注此受众区段的驱动因素（需求、核心特征等）<br><br>保持描述简洁且没有深层人口统计数据或额外信息。 |
+| 消息首选项 | 明确总结与特定角色产生共鸣的首选通信样式 | 定义角色的独特消息传送要求和动机，重点关注角色更喜欢如何接收通信并与通信交互。<br><br>在列表中提供特定的消息首选项（每个列表项1-2句子）。<br><br>将列表限制为总共10句或更少，确保突出显示最关键的信息。<br><br>_示例_：“精通技术的专业人员的消息偏好设置：<li>更喜欢简洁、没有术语的沟通。</li><li>积极响应数据驱动型洞察和切实可行的建议。</li><li>首选可视化（如信息图和图表）以快速掌握复杂信息。<li><li>以诚实、直截了当的方式重视透明度。</li>” |
+| 其他详细信息 | 捕获对个性化内容生成非常重要的关键信息 | 提供对内容个性化至关重要的其他详细信息（1-3个句子），并确保信息直接有助于内容的有效性。<br><br>注重清晰和简洁。 |

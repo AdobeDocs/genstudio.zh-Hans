@@ -4,9 +4,9 @@ description: 了解如何在Adobe [!DNL GenStudio]中添加准则 — [!DNL Bran
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: fa89422db3e1679516a377c9bfd9f05ab6e63428
+source-git-commit: 121a567a6a45f6d17caa621e323cdc3a4aa3dcb4
 workflow-type: tm+mt
-source-wordcount: '895'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
@@ -62,7 +62,6 @@ GenStudio使用Adobe的创作AI技术，从您上传的文档中提取信息并�
 
    或者，单击&#x200B;**[!UICONTROL 添加类别]**&#x200B;以添加自定义指南类别，如照片或插图。
 
-1. 在&#x200B;_标志_&#x200B;部分中添加标志。
 1. 单击&#x200B;_新品牌_&#x200B;标题并输入描述性品牌名称。
 
 要查看您创建的[!DNL Brands]，请单击&#x200B;_Brand_&#x200B;面板顶部附近的向后箭头以导航回&#x200B;_[!DNL Brands]_主页。
@@ -105,6 +104,7 @@ GenStudio使用Adobe的创作AI技术，从您上传的文档中提取信息并�
 1. 单击&#x200B;**[!UICONTROL 无标题]**&#x200B;并输入[!DNL Product]的名称。
 1. 单击&#x200B;_描述_&#x200B;并输入此[!DNL Product]的描述。
 1. 单击&#x200B;_价值主张_&#x200B;并输入有关产品价值的详细信息。
+1. 单击&#x200B;_其他详细信息_&#x200B;并输入对生成个性化内容至关重要的详细信息。
 1. 要编辑缩略图，请将鼠标悬停在图像缩略图上，然后从缩略图操作菜单中选择&#x200B;**[!UICONTROL 编辑缩略图]**。
    1. 在&#x200B;_上传_&#x200B;选项卡中上传新图像或删除现有已上传图像。
    1. 从&#x200B;_图库_&#x200B;选项卡中的图库中选择图像。
@@ -131,6 +131,7 @@ GenStudio使用Adobe的创作AI技术，从您上传的文档中提取信息并�
 1. 单击&#x200B;**[!UICONTROL 无标题]**&#x200B;并输入[!DNL Persona]的名称。
 1. 单击&#x200B;_描述_&#x200B;并输入此[!DNL Persona]的描述。
 1. 单击&#x200B;_消息首选项_&#x200B;并输入[!DNL Persona]的消息详细信息。
+1. 单击&#x200B;_其他详细信息_&#x200B;并输入对生成个性化内容至关重要的详细信息。
 1. 要编辑缩略图，请将鼠标悬停在图像缩略图上，然后从&#x200B;_缩略图操作_&#x200B;菜单中选择&#x200B;**[!UICONTROL 编辑缩略图]**。
    1. 在&#x200B;_上传_&#x200B;选项卡中上传新图像或删除现有已上传图像。
    1. 从&#x200B;_图库_&#x200B;选项卡中的图库中选择图像。

@@ -2,9 +2,9 @@
 title: GenStudio [!DNL Products]
 description: GenStudio [!DNL Products] 整合了产品的所有方面（图像、描述和价值主张），以创建相关内容来重点展示产品优势并保持产品消息的一致性。
 feature: Products Service, Guidelines
-source-git-commit: 423956d6fdbf5b31041d44eb434f90d55a87d7c0
+source-git-commit: 21d0c7c6aab6f4d81fc4376251e85eb2d4be3f25
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '455'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,9 @@ GenStudio中的![[!DNL Products]准则](/help/assets/products-guidelines.png){wi
 
 下表显示了[!DNL Products]指南的每个类别和相关示例。
 
-| 准则类别 | 准则示例 |
-| ------------------| :---------- |
-| 描述 | `Brand Uno's Empower Outreach is a product/service that enables under-supported youth to apply for, obtain transportation for, and retain employment in "transport-desert" inner-city areas of McBellville.` |
-| 价值主张 | `Comprehensive and knowledgeable assistance to support youth in surmounting obstacles to securing long term employment.` |
+| 准则类别 | 描述 | 最佳实践 |
+| ------------------| ----------------| :---------- |
+| 产品名称 | 是指企业向客户提供的服务、解决方案或有形商品 | 确保产品名称清晰且用户能够轻松了解产品选项&#x200B;<br><br>_示例_：“Photoshop”（SaaS公司）<br>“管理硕士”（教育机构）<br>“财富管理计划”（金融公司）<br>“Home Essentials装饰”（零售） |
+| 描述 | 简要而清晰的摘要，重点介绍产品及其用途 | 使用简洁的语言清晰地描述产品（1-2个句子），为潜在用户提供清晰的上下文。 不要包含详细的功能信息或规范。<br><br>_示例_：“产品XYZ是一种通用的、基于云的项目管理工具，旨在帮助团队组织任务、跟踪进度和无缝协作。 XYZ为小型企业和大型企业提供了简单易用的界面，以便从头到尾管理项目。” |
+| 价值主张 | 清楚的摘要（少于10个句子），说明产品如何解决问题、提供特定优势和提供价值 | 用引人入胜的语言清楚地定义产品的好处/优势，强调与竞争对手的区别。<br><br>以列表格式提供值建议，在列表的开头提供最有效的值prop。<br><br>_示例_：“XYZ的值建议：<br><li>在一个直观的平台上集中管理项目管理任务，无需使用多种工具</li><li>将团队工作效率提高30%</li><li>与您喜爱的工具无缝集成，确保流畅的工作流程</li><li>提供实时更新和协作功能，使团队保持一致”</li> |
+| 其他详细信息 | 捕获对个性化内容生成非常重要的关键信息 | 提供对内容个性化至关重要的其他详细信息（1-3个句子），并确保信息直接有助于内容的有效性。<br><br>注重清晰和简洁。 |
