@@ -1,7 +1,7 @@
 ---
 title: Adobe GenStudio用户指南
 description: 了解如何使用GenStudio和创作AI使内容供应链个性化。
-source-git-commit: f5b353ac807b5676fbeda593a3827c960facda3a
+source-git-commit: 214f54bcc15eb8d0c3b766784ac911790a8fb351
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 1%
@@ -123,3 +123,4 @@ GenStudio是由Adobe的创作AI技术提供支持的综合性营销解决方案�
    </p>
 </td>
 </table>
+
