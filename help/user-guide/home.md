@@ -1,18 +1,20 @@
 ---
 title: Adobe GenStudio用户指南
-description: 了解如何使用GenStudio和创作AI使内容供应链个性化。
-source-git-commit: 214f54bcc15eb8d0c3b766784ac911790a8fb351
+description: 使用GenStudio为营销人员和创意人士提供支持，Adobe的AI优先应用程序通过企业护栏和治理为高性能体验提供对品牌上内容的自助访问。
+source-git-commit: a0646480c863f9776aa7dfe1ef17eb9d23f269ea
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 1%
+source-wordcount: '234'
+ht-degree: 0%
 
 ---
 
 # GenStudio用户指南
 
-GenStudio是由Adobe的创作AI技术提供支持的综合性营销解决方案。 它使营销人员能够简化内容供应链，从构思到交付和绩效衡量。
+Adobe GenStudio是一个人工智能驱动的平台，它使企业能够自主生成和管理营销内容，这些内容符合其品牌标准，符合企业政策，并且无缝支持有效的营销策略。
 
-借助GenStudio，企业可以利用创新型人工智能加快内容创建，轻松查找和重用内容，并推动成功的全渠道营销活动。
+借助GenStudio，营销人员和创意人员可以简化内容创建流程，以创建具有吸引力、文化相关性和针对特定受众定制的营销内容，同时保持高质量和品牌完整性。
+
+通过利用AI技术，GenStudio提供了一套全面的工具，可简化内容创建和管理过程，以便创意人员可以专注于创新。
 
 ## 探索GenStudio功能
 
@@ -28,7 +30,7 @@ GenStudio是由Adobe的创作AI技术提供支持的综合性营销解决方案�
          </a>
       </div>
       <p>
-         <em>使用描述性语言、品牌资产和其他标准制作提示。</em>
+         <em>制作可生成品牌上数字体验的描述性提示。</em>
       </p>
    </td>
    <td valign="top">
@@ -41,7 +43,7 @@ GenStudio是由Adobe的创作AI技术提供支持的综合性营销解决方案�
          </a>
       </div>
       <p>
-         <em>创建高性能、品牌内图像和内容。</em>
+         <em>创建高性能、品牌内电子邮件和元广告。</em>
       </p>
    </td>
    <td valign="top">
@@ -54,7 +56,7 @@ GenStudio是由Adobe的创作AI技术提供支持的综合性营销解决方案�
          </a>
       </div>
       <p>
-         <em>审阅并批准营销活动组件和品牌资产。</em>
+         <em>编排营销资产的简化审核和批准。</em>
       </p>
    </td>
    <td valign="top">
@@ -80,7 +82,7 @@ GenStudio是由Adobe的创作AI技术提供支持的综合性营销解决方案�
          </a>
       </div>
       <p>
-         <em>根据实时使用情况优化内容性能。</em>
+         <em>分析付费媒体渠道的内容有效性。</em>
       </p>
    </td>
 </tr>
@@ -97,7 +99,7 @@ GenStudio是由Adobe的创作AI技术提供支持的综合性营销解决方案�
       </a>
    </div>
    <p>
-      <em>了解如何向GenStudio添加准则。</em>
+      <em>了解如何向GenStudio添加准则（品牌、产品和角色）。</em>
    </p>
 </td>
 <td valign="top">

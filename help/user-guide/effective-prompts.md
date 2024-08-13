@@ -2,9 +2,9 @@
 title: 编写有效提示
 description: 了解如何为GenStudio编写有效的提示。
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
-source-git-commit: d7de679ce310dcdcec4a1b5ea814b2ca8b1fc413
+source-git-commit: 5e17996ee3a86cf664ee468d6b9cf178c8853992
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '483'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 与创新型人工智能进行通信对于在GenStudio中有效工作至关重要。
 
-每次有机会创建或修改资源时，GenStudio都会提供创作AI提示。 有效提示的组件应包括描述性语言、示例和配置准则中未提供的信息。
+每次有机会修改资源时，GenStudio都会提供创作AI提示。 有效提示的组件应包括描述性语言、示例和配置准则中未提供的信息。
 
-作为最佳实践，请使用[准则](/help/user-guide/guidelines/overview.md)向GenStudio提供您的品牌信息，然后您可以充分利用创作AI来生成与品牌一致的内容。
+作为最佳实践，请使用[准则](/help/user-guide/guidelines/overview.md)向GenStudio提供您的品牌信息，然后您可以充分利用创作AI来生成与品牌一致的内容体验。
 
 ## 描述性语言
 
