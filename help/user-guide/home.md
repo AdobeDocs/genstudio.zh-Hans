@@ -1,7 +1,7 @@
 ---
 title: Adobe GenStudio用户指南
 description: 使用GenStudio为营销人员和创意人士提供支持，Adobe的AI优先应用程序通过企业护栏和治理为高性能体验提供对品牌上内容的自助访问。
-source-git-commit: a0646480c863f9776aa7dfe1ef17eb9d23f269ea
+source-git-commit: 1e30db88fac8e6d47a845d4eb5d54defcc256244
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -125,4 +125,3 @@ Adobe GenStudio是一个人工智能驱动的平台，它使企业能够自主�
    </p>
 </td>
 </table>
-
