@@ -3,9 +3,9 @@ title: 自定义模板
 description: 了解如何为GenStudio构建自定义模板。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: d7d11077d35a4c1924e4be456c00b1fae24e0a1b
+source-git-commit: 5c43cf2014c1f93bdb9988ddefb503630714e522
 workflow-type: tm+mt
-source-wordcount: '808'
+source-wordcount: '812'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ ht-degree: 0%
 | `cta` | 行动号召 | 电子邮件（推荐）<br>元广告 |
 | `on_image_text` | 在图像文本上 | 元广告（推荐） |
 | `image` | 图像 | 电子邮件（推荐）<br>元广告（推荐） |
-| `brand_logo` | 所选品牌的徽标 | 元广告 |
+| `brand_logo` | 所选品牌的徽标 | 电子邮件<br>元广告 |
 
 GenStudio会自动填充模板中的某些字段，因此没有必要将它们包含在模板设计中：
 
@@ -76,15 +76,33 @@ GenStudio会自动填充模板中的某些字段，因此没有必要将它们�
 
 #### 品牌徽标字段名称
 
-要在模板中添加品牌徽标，请使用以下代码呈现默认徽标：
+要在模板中添加品牌徽标，请使用以下方法之一来呈现默认徽标。
 
-```{{#if brand_logo}}{{brand_logo}}{{else}} encoded inline logo {{/if}}```
+_示例_：
+
+```bash
+<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default image>{{/if}}" alt="WKND" style="max-width: 88px; margin: 10px auto; display: block;"> 
+```
+
+_示例_：
+
+```bash
+{{#if brand_logo}}
+
+                    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+
+                {{else}}
+
+                    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+
+                {{/if}}
+```
 
 #### 手动字段名称
 
 所有其他字段名称均被视为手动填充的字段。 如果希望某个节是可编辑的，请在要编辑的节周围添加双括号。
 
-> 示例： ``{{customVariable}}`` （customVariable是手动可编辑的部分）
+_示例_： ``{{customVariable}}`` （`customVariable`是可手动编辑的部分）
 
 ## 区域或组
 
