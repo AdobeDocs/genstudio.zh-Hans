@@ -3,9 +3,9 @@ title: 自定义模板
 description: 了解如何为GenStudio构建自定义模板。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 5c43cf2014c1f93bdb9988ddefb503630714e522
+source-git-commit: c9cf7da078e84cf7696f32ca2278aa71b7b1b7cc
 workflow-type: tm+mt
-source-wordcount: '812'
+source-wordcount: '810'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 自定义模板
 
-您可以使用&#x200B;_Handlebars_ HTML语言调整模板以用于GenStudio。 Handlebars语法使用带双大括号的常规文本作为内容占位符。 请参阅&#x200B;_Handlebars语言指南_&#x200B;中的[`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars)以了解如何准备模板。
+使用&#x200B;_Handlebars_ HTML语言调整模板以用于GenStudio。 Handlebars语法使用带双大括号的常规文本作为内容占位符。 请参阅&#x200B;_Handlebars语言指南_&#x200B;中的[`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars)以了解如何准备模板。
 
 <!-- This is for email. In the future, maybe use tabs to provide guidance for other template types.
 -->If you do not have an HTML template ready to use in GenStudio, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
