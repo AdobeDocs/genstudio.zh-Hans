@@ -2,17 +2,17 @@
 title: ' [!DNL Insights]概述'
 description: 了解如何基于实时内容性能指标优化体验。
 feature: Attributes, Insights, Experiences, Assets
-source-git-commit: 423956d6fdbf5b31041d44eb434f90d55a87d7c0
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '484'
 ht-degree: 0%
 
 ---
 
 
-# GenStudio [!DNL Insights]
+# 面向性能营销人员的Adobe GenStudio[!DNL Insights]
 
-GenStudio [!DNL Insights]提供对内容性能的高级分析和见解，可帮助您做出数据驱动型决策。
+性能营销人员[!DNL Insights]的Adobe GenStudio提供了对内容性能的高级分析和见解，可帮助您制定数据驱动型决策。
 
 从[!DNL Insights]仪表板中，您可以：
 
@@ -22,7 +22,7 @@ GenStudio [!DNL Insights]提供对内容性能的高级分析和见解，可帮�
 
 >[!TIP]
 >
->请参阅[Connect渠道帐户](connect-channel.md)，了解如何让GenStudio接收来自您当前营销活动、资源和体验的数据。
+>有关让GenStudio for Performance营销人员能够接收来自您当前营销活动、资源和体验的数据的步骤，请参阅[连接渠道帐户](connect-channel.md)。
 
 ## 仪表板
 

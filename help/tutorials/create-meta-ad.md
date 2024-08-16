@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '887'
+source-wordcount: '897'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 # 创建元广告体验
 
-本教程演示如何使用GenStudio [[!DNL Create]](/help/user-guide/create/overview.md)生成品牌化的元广告体验（左侧导航区域中的画笔图标）。
+本教程将演示如何使用GenStudio为性能营销人员[[!DNL Create]](/help/user-guide/create/overview.md)生成品牌化的元广告体验（左侧导航区域中的画笔图标）。
 
-在开始生成元广告体验之前，务必要在GenStudio中[引入准则](/help/user-guide/guidelines/add-guidelines.md)，并熟悉[创建提示符](/help/user-guide/effective-prompts.md)的基础知识。
+在开始生成元广告体验之前，务必要在GenStudio中为性能营销人员[引入准则](/help/user-guide/guidelines/add-guidelines.md)，并熟悉[创建提示符](/help/user-guide/effective-prompts.md)的基础知识。
 
 ## 选择模板
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 1. 单击&#x200B;_参数_&#x200B;图标以展开提示区域。
 1. 在&#x200B;_参数_&#x200B;部分中，选择准则 — [!DNL Brands]、[!DNL Personas]和[!DNL Products] — 以通知内容创建。
 
-   如果这些菜单中没有可用的品牌、角色或产品，请[将准则添加到您的GenStudio](/help/user-guide/guidelines/add-guidelines.md)。
+   如果这些菜单中没有可用的品牌、角色或产品，请[将准则添加到您的GenStudio中以提供给性能营销人员](/help/user-guide/guidelines/add-guidelines.md)。
 
 1. 单击&#x200B;**[!UICONTROL 选择内容]**&#x200B;可添加要在体验&#x200B;*中使用的内容，单击*&#x200B;可影响内容生成。
    * 单击&#x200B;**[!UICONTROL 从内容中选择]**&#x200B;以选择已发布到[!DNL Content]的资源（图像）。 使用筛选器进一步缩小搜索结果的范围。
@@ -120,8 +120,8 @@ ht-degree: 0%
 
 有关详细信息，请参阅[[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content)。
 
-## 将Meta连接到GenStudio
+## 连接元
 
-您可以将GenStudio连接到Meta以接收高级分析和[对内容性能的分析](/help/user-guide/insights/overview.md)。
+您可以将GenStudio性能营销人员连接到Meta以接收高级分析和[对内容性能的分析](/help/user-guide/insights/overview.md)。
 
 有关详细信息，请参阅[连接渠道帐户](/help/user-guide/insights/connect-channel.md)。

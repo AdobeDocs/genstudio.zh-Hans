@@ -1,19 +1,19 @@
 ---
-title: GenStudioTutorials
-description: 了解如何按照GenStudio教程完成端到端流程，例如创建电子邮件体验。
-source-git-commit: 43b059fe65a06b1cb6bba03c4e811c83af75d6f3
+title: 针对性能营销人员Tutorials的Adobe GenStudio
+description: 了解如何按照针对性能营销人员的GenStudio教程，完成端到端流程，例如创建电子邮件体验。
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
 
-# [!DNL GenStudio]教程
+# 面向性能营销人员的Adobe GenStudio教程
 
-GenStudio教程遵循基本的分步工作流程，这些工作流程包含指向用户指南中更深入概念的链接。
+Adobe GenStudio绩效营销人员教程遵循基本的分步工作流程，这些工作流程包含指向用户指南中更深入概念的链接。
 
-本指南中的教程详细介绍了在GenStudio中成功生成高质量营销内容所需的概念、先决条件、最佳实践以及各个步骤。
+本指南中的教程详细介绍了在GenStudio中为Performance Marketers成功生成高质量营销内容所需的概念、先决条件、最佳实践和各个步骤。
 
 <table style="table-layout:fixed">
 <td valign="top">

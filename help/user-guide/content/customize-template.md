@@ -1,11 +1,11 @@
 ---
 title: 自定义模板
-description: 了解如何为GenStudio构建自定义模板。
+description: 了解如何为性能营销人员构建自定义Adobe GenStudio模板。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: c9cf7da078e84cf7696f32ca2278aa71b7b1b7cc
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '810'
+source-wordcount: '851'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,10 @@ ht-degree: 0%
 
 # 自定义模板
 
-使用&#x200B;_Handlebars_ HTML语言调整模板以用于GenStudio。 Handlebars语法使用带双大括号的常规文本作为内容占位符。 请参阅&#x200B;_Handlebars语言指南_&#x200B;中的[`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars)以了解如何准备模板。
+使用&#x200B;_Handlebars_ HTML语言调整您的模板以适应性能营销人员的Adobe GenStudio。 Handlebars语法使用带双大括号的常规文本作为内容占位符。 请参阅&#x200B;_Handlebars语言指南_&#x200B;中的[`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars)以了解如何准备模板。
 
 <!-- This is for email. In the future, maybe use tabs to provide guidance for other template types.
--->If you do not have an HTML template ready to use in GenStudio, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
+-->If you do not have an HTML template ready to use in GenStudio for Performance Marketers, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
 
 ```html
 <!DOCTYPE html>
@@ -35,11 +35,11 @@ ht-degree: 0%
 
 >[!TIP]
 >
->在接下来的几个部分中，为电子邮件字段添加内容占位符，请参阅示例模板，在预览中隐藏不必要的元素，以及管理指向静态内容的链接。 模板准备就绪后，您可以[将其上传到GenStudio](use-templates.md#upload-a-template)，并开始根据您的自定义模板生成个性化电子邮件。
+>在接下来的几个部分中，为电子邮件字段添加内容占位符，请参阅示例模板，在预览中隐藏不必要的元素，以及管理指向静态内容的链接。 模板准备就绪后，您可以[将其上传到GenStudio以供性能营销人员使用](use-templates.md#upload-a-template)，并开始根据您的自定义模板生成个性化电子邮件。
 
 ## 内容占位符
 
-在模板的head或body中，可以使用Handlebars语法插入内容占位符，其中需要GenStudio使用实际内容填充模板。 GenStudio根据字段名称自动识别和解释内容占位符。
+在模板的head或body中，可以使用Handlebars语法插入内容占位符，其中您需要使用GenStudio for Performance营销人员使用实际内容填充模板。 GenStudio性能营销人员根据字段名称自动识别和解释内容占位符。
 
 例如，您可以使用`{{ headline }}`来指示电子邮件标题的放置位置：
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 #### 可识别的字段名称
 
-下表列出了GenStudio识别用于填充到模板中的字段名称。
+下表列出了GenStudio识别的字段名称，这些字段可用于将性能营销人员填充到模板中。
 
 | 字段 | 角色 | 渠道模板 |
 | -------------- | ---------------------- | -------------------- |
@@ -65,7 +65,7 @@ ht-degree: 0%
 | `image` | 图像 | 电子邮件（推荐）<br>元广告（推荐） |
 | `brand_logo` | 所选品牌的徽标 | 电子邮件<br>元广告 |
 
-GenStudio会自动填充模板中的某些字段，因此没有必要将它们包含在模板设计中：
+GenStudio for Performance营销人员会自动填充模板中的某些字段，因此无需将它们包含在模板设计中：
 
 * `subject`字段（电子邮件模板）
 * `headline`、`body`和`CTA`字段（元广告模板）
@@ -106,7 +106,7 @@ _示例_： ``{{customVariable}}`` （`customVariable`是可手动编辑的部�
 
 ## 区域或组
 
-_节_&#x200B;通知GenStudio，此节中的字段需要高度一致性。 建立这种关系有助于AI生成与部分中的创意元素匹配的内容。
+_节_&#x200B;通知GenStudio性能营销人员此节中的字段需要高度一致性。 建立这种关系有助于AI生成与部分中的创意元素匹配的内容。
 
 在字段名称中使用您选择的前缀来指示字段是部分或组的一部分。
 
@@ -126,13 +126,13 @@ _节_&#x200B;通知GenStudio，此节中的字段需要高度一致性。 建立
 * `news_headline`
 * `news_body`
 
-GenStudio了解`spotlight_headline`与`spotlight_body`的关系比`news_body`更密切。
+GenStudio性能营销人员了解`spotlight_headline`与`spotlight_body`的关系比`news_body`更密切。
 
 ## 模板示例
 
 +++示例：带一个部分的电子邮件模板
 
-以下是包含一节的电子邮件的HTML模板的基本示例。 标头包含用于样式设置的简单内联CSS。 正文包含`pre-header`、`headline`和`image` [占位符](#content-placeholders)，供GenStudio在电子邮件生成过程中用于插入内容。
+以下是包含一节的电子邮件的HTML模板的基本示例。 标头包含用于样式设置的简单内联CSS。 正文包含一个`pre-header`、`headline`和`image` [占位符](#content-placeholders)，供GenStudio for Performance营销人员在电子邮件生成过程中插入内容。
 
 ```handlebars {line-numbers="true" highlight="13"}
 <!DOCTYPE html>
@@ -293,9 +293,9 @@ GenStudio了解`spotlight_headline`与`spotlight_body`的关系比`news_body`更
 
 ## 静态内容
 
-电子邮件和元模板通常链接到托管在GenStudio外部的图像和CSS文件。 当GenStudio为这些模板或从中派生的体验生成缩略图时，如果外部资源没有正确的跨源资源共享(CORS)标头，则可能会忽略这些外部资源。
+电子邮件和元模板通常链接到托管在GenStudio之外的图像和CSS文件，以供性能营销人员使用。 当GenStudio for Performance营销人员为这些模板或从中派生的体验生成缩略图时，如果外部资源没有正确的跨源资源共享(CORS)标头，则可能会忽略这些外部资源。
 
 要确保这些资源在缩略图生成过程中可用，请考虑两个选项：
 
-1. **使用CORS标头**：主机服务器必须发送响应，其中生产环境的`Access-Control-Allow-Origin`标头设置为`https://experience.adobe.com`值。 此方法允许GenStudio访问并包含资源。
+1. **使用CORS标头**：主机服务器必须发送响应，其中生产环境的`Access-Control-Allow-Origin`标头设置为`https://experience.adobe.com`值。 此方法允许GenStudio性能营销人员访问和包含资源。
 1. **使用数据URL**：使用数据URL将外部资源直接嵌入模板。 此方法绕过CORS限制，并确保资源在生成缩略图期间可用。

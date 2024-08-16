@@ -1,22 +1,22 @@
 ---
 title: Adobe GenStudio用户指南
-description: 使用GenStudio为营销人员和创意人士提供支持，Adobe的AI优先应用程序通过企业护栏和治理为高性能体验提供对品牌上内容的自助访问。
-source-git-commit: 1e30db88fac8e6d47a845d4eb5d54defcc256244
+description: 使用GenStudio for Performance Marketers为营销人员和创意人员提供支持，这是Adobe人工智能优先的应用程序，通过企业护栏和治理为高性能体验提供对品牌上内容的自助访问。
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
 
-# GenStudio用户指南
+# 《Adobe GenStudio性能营销人员用户指南》
 
-Adobe GenStudio是一个人工智能驱动的平台，它使企业能够自主生成和管理营销内容，这些内容符合其品牌标准，符合企业政策，并且无缝支持有效的营销策略。
+面向绩效营销人员的Adobe GenStudio是一个人工智能驱动的平台，它使企业能够自主生成和管理营销内容，这些内容符合其品牌标准、符合企业政策并且无缝支持有效的营销策略。
 
-借助GenStudio，营销人员和创意人员可以简化内容创建流程，以创建具有吸引力、文化相关性和针对特定受众定制的营销内容，同时保持高质量和品牌完整性。
+借助GenStudio for Performance营销人员、营销人员和创意人员可以简化内容创建过程，以创建吸引人、与文化相关且针对特定受众定制的营销内容，同时保持高质量和品牌完整性。
 
-通过利用AI技术，GenStudio提供了一套全面的工具，可简化内容创建和管理过程，以便创意人员可以专注于创新。
+通过利用AI技术，GenStudio性能营销人员提供了一整套工具，可简化内容创建和管理过程，以便创意人员可以专注于创新。
 
-## 探索GenStudio功能
+## 浏览功能
 
 <table style="table-layout:fixed">
 <tr style="border: 0;">
@@ -99,7 +99,7 @@ Adobe GenStudio是一个人工智能驱动的平台，它使企业能够自主�
       </a>
    </div>
    <p>
-      <em>了解如何向GenStudio添加准则（品牌、产品和角色）。</em>
+      <em>了解如何向GenStudio添加针对性能营销人员的准则（品牌、产品和角色）。</em>
    </p>
 </td>
 <td valign="top">

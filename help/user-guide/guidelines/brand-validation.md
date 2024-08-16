@@ -1,10 +1,10 @@
 ---
-title: GenStudio中的品牌验证
-description: 了解内置品牌验证系统在GenStudio中的工作方式。
+title: 面向绩效营销人员的Adobe GenStudio中的品牌验证
+description: 了解内置品牌验证系统如何在GenStudio中用于性能营销人员。
 feature: Brands Service, Guidelines
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '612'
 ht-degree: 0%
 
 ---
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # 品牌验证
 
-在GenStudio中，品牌验证是与创作AI功能和准则 — [[!DNL Brands]](/help/user-guide/guidelines/brands.md)、[[!DNL Products]](/help/user-guide/guidelines/products.md)和[[!DNL Personas]](/help/user-guide/guidelines/personas.md) — 协作的基本组件。 它可确保您的所有内容与品牌标识保持一致。
+在面向性能营销人员的GenStudio中，品牌验证是与创作AI功能和准则 — [[!DNL Brands]](/help/user-guide/guidelines/brands.md)、[[!DNL Products]](/help/user-guide/guidelines/products.md)和[[!DNL Personas]](/help/user-guide/guidelines/personas.md) — 协作的基本组件。 它可确保您的所有内容与品牌标识保持一致。
 
-GenStudio从多个方面开展品牌验证，包括：
+GenStudio for Performance营销人员从多个方面开展品牌验证，包括：
 
 * 特定于每个客户的品牌准则
 * 为不同的渠道平台复制准则

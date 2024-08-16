@@ -1,27 +1,27 @@
 ---
-title: ' [!DNL Create]概述'
-description: 在GenStudio [!DNL Create]中使用generative AI快速生成高性能、按品牌显示的内容。
+title: 面向性能营销人员的GenStudio概述 [!DNL Create]
+description: 使用创作AI在Adobe GenStudio中为性能营销人员 [!DNL Create]快速生成高性能、按品牌划分的内容。
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
-source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '503'
 ht-degree: 1%
 
 ---
 
 
-# GenStudio [!DNL Create]
+# 面向性能营销人员的GenStudio [!DNL Create]
 
-GenStudio [!DNL Create]利用AdobeGenAI的强大功能，使营销人员和分散的团队能够创建高性能、品牌化的体验。
+GenStudio性能营销人员[!DNL Create]利用AdobeGenAI的强大功能，使营销人员和分散的团队能够创建高性能、品牌化的体验。
 
-使用GenStudio [!DNL Create]，您可以为以下渠道生成内容：
+通过[!DNL Create]，您可以为以下渠道生成内容：
 
 * 电子邮件
 * 元广告
 <!-- * Social media images and ads
 * Display ads -->
 
-除了GenStudio [指南](/help/user-guide/guidelines/overview.md)—[!DNL Brands]、[!DNL Products]和[!DNL Personas]—[内容](/help/user-guide/content/overview.md)、[审核和批准](/help/user-guide/approvals/overview.md)以及[分析](/help/user-guide/insights/overview.md)、[!DNL Create]的强大功能外，还有助于创建有效的品牌一致营销内容。
+除了[指南](/help/user-guide/guidelines/overview.md)—[!DNL Brands]、[!DNL Products]和[!DNL Personas]—[内容](/help/user-guide/content/overview.md)、[审核和批准](/help/user-guide/approvals/overview.md)和[分析](/help/user-guide/insights/overview.md)、[!DNL Create]的强大功能外，还有助于创建有效的品牌一致营销内容。
 
 ## [!DNL Create] 用例
 
@@ -60,13 +60,13 @@ GenStudio [!DNL Create]利用AdobeGenAI的强大功能，使营销人员和分�
 </tr>
 </table>
 
-GenStudio使营销人员能够&#x200B;**创建新的营销内容**。 在此使用案例中，使用定义的[指南](/help/user-guide/guidelines/overview.md)和灵感图像来指导创建品牌一致的内容。
-<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio and use the power of Adobe generative AI technology to revise and improve existing content. 
+GenStudio for Performance营销人员允许营销人员&#x200B;**创建新的营销内容**。 在此使用案例中，使用定义的[指南](/help/user-guide/guidelines/overview.md)和灵感图像来指导创建品牌一致的内容。
+<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio for Performance Marketers and use the power of Adobe generative AI technology to revise and improve existing content. 
 * **Generate variants of approved content** - In this use case, [generate variations of content that is approved by stakeholders](generate-variants.md) and published to [!DNL Content]. -->
 
 ## [!DNL Create]功能
 
-GenStudio [!DNL Create]集成了GenStudio的各种组件以帮助用户生成内容。
+[!DNL Create]集成了GenStudio for Performance Marketers的各种组件以帮助用户生成内容。
 
 ### 草稿
 
@@ -88,15 +88,15 @@ GenStudio [!DNL Create]集成了GenStudio的各种组件以帮助用户生成内
 
 ### 参数
 
-在提示区域中，您可以添加&#x200B;_参数_&#x200B;或资源来影响生成的体验，例如[!DNL Brands]、[!DNL Products]和[!DNL Personas](GenStudio准则)。
+在提示区域中，您可以添加&#x200B;_参数_（如[!DNL Brands]、[!DNL Products]和[!DNL Personas]）（准则）或资产来影响生成的体验。
 
 _参数_&#x200B;中上传的图像用于生成的变体中，并通知为变体生成的复制内容（文本）。
 
-这些添加的参数将[准则](/help/user-guide/guidelines/overview.md)和资产注入生成过程，确保内容已自定义以符合品牌的综合标识。 建议向GenStudio添加准则并在内容生成过程中使用，因为它们可以极大地增强合适品牌内内容的创建过程。
+这些添加的参数将[准则](/help/user-guide/guidelines/overview.md)和资产注入生成过程，确保内容已自定义以符合品牌的综合标识。 建议向GenStudio的绩效营销人员添加准则并在内容生成过程中使用，因为这些准则可显着增强创建合适的品牌内内容。
 
 ### 品牌验证
 
-GenStudio对品牌标识的各个方面进行品牌验证（如[指南](/help/user-guide/guidelines/overview.md)中所定义）。 [品牌验证](/help/user-guide/guidelines/brand-validation.md)信息可用于任何生成的内容，指示其符合品牌准则以及文本和图像的一致性。 您可以使用此信息修改或改进生成的体验，更好地与您的品牌保持一致。
+GenStudio绩效营销人员对品牌标识的各个方面进行品牌验证（如[指南](/help/user-guide/guidelines/overview.md)中所定义）。 [品牌验证](/help/user-guide/guidelines/brand-validation.md)信息可用于任何生成的内容，指示其符合品牌准则以及文本和图像的一致性。 您可以使用此信息修改或改进生成的体验，更好地与您的品牌保持一致。
 
 ### 审阅和批准
 

@@ -1,10 +1,10 @@
 ---
 title: 使用模板
-description: 了解如何使用模板在GenStudio中创建引人入胜的体验。
+description: 了解如何使用模板在Adobe GenStudio中为性能营销人员创建引人入胜的体验。
 feature: Templates, Content
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: b383295810d4bd1b37227cf689ee76687e940f03
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '459'
 ht-degree: 2%
 
 ---
@@ -17,8 +17,8 @@ GenStudio模板对于使内容创建者能够快速生成一致的品牌营销�
 本指南提供有关如何：
 
 * 准备[电子邮件模板](email-template.md)或元广告模板
-* 为GenStudio自定义[模板](customize-template.md)
-* [将模板](#upload-a-template)上传到GenStudio
+* 为GenStudio for Performance Marketerstudio [自定义模板](customize-template.md)
+* 将模板[上传](#upload-a-template)到GenStudio中以供性能营销人员使用
 * [使用模板创建体验](#use-a-template)
 
 ## 模板剖析
@@ -38,11 +38,11 @@ GenStudio模板对于使内容创建者能够快速生成一致的品牌营销�
 
 >[!NOTE]
 > 
->建议您在每个渠道的内容中包含特定字段，以确保GenStudio可以为内容占位符生成文本。 请参阅[可识别的字段名称](customize-template.md#recognized-field-names)，以查看建议包含哪些字段。
+>建议您在每个渠道的内容中包含特定字段，以确保GenStudio for Performance营销人员可以为内容占位符生成文本。 请参阅[可识别的字段名称](customize-template.md#recognized-field-names)，以查看建议包含哪些字段。
 
 ## 上传模板
 
-GenStudio接受HTML格式的模板。
+GenStudio for Performance营销人员接受HTML格式的模板。
 
 **添加模板**：
 
@@ -80,7 +80,6 @@ GenStudio接受HTML格式的模板。
 >[!TIP]
 >
 >有关使用模板的完整教程，请参阅[[!DNL Create] 电子邮件体验](/help/tutorials/create-email-experience.md)或[[!DNL Create] 元广告体验](/help/tutorials/create-meta-ad.md)。
-
 <!--  The create button in Content Template view does not work yet.
 1. Click **[!UICONTROL Create Experience]** (paintbrush) from the upper right corner to use the template.
 -->

@@ -2,9 +2,9 @@
 title: 批准内容
 description: 了解如何批准内容。
 feature: Approval
-source-git-commit: 0d6eff35e66d3657aa4f5fda65f91f0caab4a7e1
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -24,5 +24,5 @@ ht-degree: 0%
 
 1. 将草稿状态从&#x200B;**需要工作**&#x200B;更改为&#x200B;**已批准**。
 
-您作为审批者的工作已完成。 GenStudio会向草稿创建者发出警报，提醒您审批。 有关保存到[!DNL Content]或&#x200B;_发布_&#x200B;的过程的概述，请参阅[Publish内容](./publish-content.md)。
+您作为审批者的工作已完成。 GenStudio for Performance Marketers会向草稿创建者发出警报，提醒您审批。 有关保存到[!DNL Content]或&#x200B;_发布_&#x200B;的过程的概述，请参阅[Publish内容](./publish-content.md)。
 

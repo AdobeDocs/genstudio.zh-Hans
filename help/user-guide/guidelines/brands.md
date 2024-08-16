@@ -1,20 +1,20 @@
 ---
-title: GenStudio [!DNL Brands]
-description: GenStudio [!DNL Brands] 是品牌资源的全面集合，包括营销文案、图像、体验等，用于在GenStudio中创建与品牌相关的内容。
+title: 面向性能营销人员的GenStudio [!DNL Brands]
+description: GenStudio for Performance Marketers [!DNL Brands] 是一系列全面的品牌资产，包括营销文案、图像、体验等，可用于指导创建品牌一致的内容。
 feature: Brands Service, Guidelines
-source-git-commit: c90cec72bd4cad505b7374e0ae81bafc383102e9
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '778'
+source-wordcount: '800'
 ht-degree: 1%
 
 ---
 
 
-# GenStudio [!DNL Brands]
+# 面向性能营销人员的GenStudio [!DNL Brands]
 
 品牌可将组织、产品、服务或概念与其他人区分开来。 品牌的某些方面是客观的，如商标，而其他方面则是主观的，如语调。
 
-GenStudio使用来自您品牌的丰富品牌信息，与[!DNL Product]和[!DNL Persona]信息合作，并构建全面的品牌标识。 此品牌标识用于指导使用Adobe的创作AI技术创作on-brand内容。
+GenStudio for Performance营销人员使用来自您品牌的丰富品牌信息，将其与[!DNL Product]和[!DNL Persona]信息配合使用，并构建全面的品牌识别。 此品牌标识用于指导使用Adobe的创作AI技术创作on-brand内容。
 
 **要查看或修改品牌**：
 
@@ -22,11 +22,11 @@ GenStudio使用来自您品牌的丰富品牌信息，与[!DNL Product]和[!DNL 
 1. 要查看品牌的概述信息，请单击以打开已定义的品牌。
 1. 要查看个人详细信息或修改品牌，请单击顶部的&#x200B;**[!UICONTROL 品牌语音指南]**、**[!UICONTROL 渠道指南]**、**[!UICONTROL 图像指南]**&#x200B;或&#x200B;**[!UICONTROL 徽标]**。
 
-您可以将品牌准则文档(最多三个PDF或DOC文件)上传到GenStudio以自动创建品牌。 请参阅[添加准则](add-guidelines.md)，了解如何向GenStudio添加品牌、修改品牌和发布品牌等。
+您可以将品牌准则文档(最多三个PDF或DOC文件)上传到GenStudio，以便性能营销人员自动创建品牌。 请参阅[添加准则](add-guidelines.md)，了解如何向GenStudio性能营销人员添加品牌、修改品牌并进行发布等。
 
 ## [!DNL Brands]指南
 
-准则为GenStudio提供了您特定于品牌的方法、语调、视觉感受等的清晰描述。
+准则让GenStudio绩效营销人员能够清楚地了解您特定于品牌的方法、语调、视觉感受等。
 
 以下指南部分详细介绍了每个指南类别、示例指南和潜在结果。 准则示例是塑造结果输出的输入示例（下面是结果示例） — 使用这些示例来指导您自己的品牌准则。
 
@@ -72,16 +72,16 @@ You can create your own categories, like Photos, Product, or Illustration imager
 | Color and tone | Specify color or color theme, palette, color interpretation and accessibility | `Use bright and bold color palette, Ensure high contrast` |
 | Lighting   | Describe how highlights and shadows affect different objects| `Use natural light, Avoid using shadows` |
 
-![Image guidelines in GenStudio](/help/assets/image-guidelines.png){width="650" zoomable="yes"} 
+![Image guidelines in GenStudio for Performance Marketers](/help/assets/image-guidelines.png){width="650" zoomable="yes"} 
 
 ### Logos
 
 Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
-![Logo guidelines in GenStudio](/help/assets/logos.png){width="650" zoomable="yes"} -->
+![Logo guidelines in GenStudio for Performance Marketers](/help/assets/logos.png){width="650" zoomable="yes"} -->
 
 ## 品牌验证
 
-在GenStudio中，品牌验证与[!DNL Brands]、[!DNL Products]和[!DNL Personas]的创作AI功能一起发挥着关键作用。 它可确保您的所有内容与品牌标识保持一致。
+在面向性能营销人员的GenStudio中，品牌验证与[!DNL Brands]、[!DNL Products]和[!DNL Personas]的创作AI功能结合起来发挥着关键作用。 它可确保您的所有内容与品牌标识保持一致。
 
 请参阅[品牌验证](/help/user-guide/guidelines/brand-validation.md)。

@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '779'
+source-wordcount: '788'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 # 创建电子邮件体验
 
-本教程将演示如何使用GenStudio [[!DNL Create]](/help/user-guide/create/overview.md)（左侧导航区域中的画笔图标）生成品牌电子邮件体验。
+本教程将演示如何使用GenStudio为性能营销人员[[!DNL Create]](/help/user-guide/create/overview.md)生成品牌化电子邮件体验（左侧导航区域中的画笔图标）。
 
-若要创建有效的电子邮件体验，建议您[将准则添加到GenStudio](/help/user-guide/guidelines/add-guidelines.md)中，并在开始之前[复习构建提示的基础知识](/help/user-guide/effective-prompts.md)。
+若要创建有效的电子邮件体验，建议您[向GenStudio中添加性能营销人员指南](/help/user-guide/guidelines/add-guidelines.md)，并在开始之前复习有关创建提示符](/help/user-guide/effective-prompts.md)的[基础知识。
 
 ## 选择模板
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 1. 单击&#x200B;_参数_&#x200B;图标以展开提示区域。
 1. 在&#x200B;_参数_&#x200B;部分中，选择准则 — [!DNL Brands]、[!DNL Personas]和[!DNL Products] — 以通知内容创建。
 
-   如果这些菜单中没有可用的品牌、角色或产品，请[将准则添加到您的GenStudio](/help/user-guide/guidelines/add-guidelines.md)。
+   如果这些菜单中没有可用的品牌、角色或产品，请[将准则添加到您的GenStudio中以提供给性能营销人员](/help/user-guide/guidelines/add-guidelines.md)。
 
 1. 单击&#x200B;**[!UICONTROL 选择内容]**&#x200B;可添加要在体验&#x200B;*中使用的内容，单击*&#x200B;可影响内容生成。
    * 单击&#x200B;**[!UICONTROL 从内容中选择]**&#x200B;以选择已发布到[!DNL Content]的资源（图像）。 使用筛选器进一步缩小搜索结果的范围。

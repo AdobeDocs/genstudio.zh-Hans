@@ -1,20 +1,20 @@
 ---
-title: GenStudio概念
-description: 了解Adobe GenStudio概念和术语。
+title: Adobe GenStudio绩效营销人员概念
+description: 了解性能营销人员概念和术语的Adobe GenStudio。
 feature: Workflow, Generative AI
-source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
 
-# GenStudio概念
+# 概念
 
-GenStudio是一款独立的企业产品，它体现了Adobe的内容供应链，以简化营销活动。 大规模构建经品牌批准的个性化内容、监控效果和快速适应不断变化的市场具有挑战性。 GenStudio在一个应用程序中将Creative Cloud和Experience Cloud整合在一起，该应用程序利用创作AI作为企业营销团队的绩效提升器。
+GenStudio for Performance Marketers是一款独立的企业产品，它包含了Adobe的内容供应链以简化营销活动。 大规模构建经品牌批准的个性化内容、监控效果和快速适应不断变化的市场具有挑战性。 GenStudio for Performance营销人员在一个应用程序中将Creative Cloud和Experience Cloud整合在一起，该应用程序利用创作AI作为企业营销团队的绩效倍增器。
 
-借助GenStudio，您可以：
+借助GenStudio高性能营销人员，您可以：
 
 - 使用自然语言提示创建品牌上内容
 - 与利益相关者协作以审查和批准生成的内容
@@ -23,13 +23,13 @@ GenStudio是一款独立的企业产品，它体现了Adobe的内容供应链，
 
 ## 创新型人工智能技术
 
-GenStudio利用创新型人工智能的强大功能来加快内容创建过程并确保高质量内容生成。 创意资产的迭代生命周期会产生越来越准确且与品牌一致的内容，从而引起目标受众的共鸣。
+GenStudio for Performance营销人员利用创作AI的强大功能加快内容创建过程并确保高质量内容生成。 创意资产的迭代生命周期会产生越来越准确且与品牌一致的内容，从而引起目标受众的共鸣。
 
-首先，通过强大的品牌准则功能，有效地培训GenStudio有关您组织的品牌、客户角色和产品描述的信息。 请参阅[准则概述](../user-guide/guidelines/overview.md)，了解如何准备和上传这些准则。
+首先，通过强大的品牌指南功能，有效地为GenStudio绩效营销人员提供有关您组织的品牌、客户角色和产品描述方面的培训。 请参阅[准则概述](../user-guide/guidelines/overview.md)，了解如何准备和上传这些准则。
 
-## GenStudio内容生命周期
+## 内容生命周期
 
-对于以更快的速度在多个渠道中获得高质量体验的需求很高。 GenStudio将内容供应链简化为营销人员组织良好的工作流程。 GenStudio在生命周期的每个阶段都利用Adobe技术。
+对于以更快的速度在多个渠道中获得高质量体验的需求很高。 GenStudio高性能营销人员可将内容供应链简化为营销人员组织良好的工作流程。 GenStudio高性能营销人员在生命周期的每个阶段都利用Adobe技术。
 
 <table style="table-layout:fixed">
 <tr style="border: 0;">

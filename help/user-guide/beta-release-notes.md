@@ -1,9 +1,9 @@
 ---
 title: 面向性能营销人员的Adobe GenStudioBeta发行说明
 description: 了解面向Performance Marketers的Adobe GenStudio的最新功能和增强功能。
-source-git-commit: cbae3aeb1b8282fb64f2a6405a7ad9e07a48dbbd
+source-git-commit: 75d966e8474687e8e88ccec6fe6a96fda030dbcf
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # 面向性能营销人员的Adobe GenStudioBeta发行说明
 
-这些说明重点介绍在截至8月16日的一周内进行的重大Adobe GenStudio修复和增强功能。
+这些说明重点指出了在截至8月16日的一周内为性能营销人员修复和增强功能提供的重大Adobe GenStudio。
 
 ## 高亮
 
@@ -26,8 +26,6 @@ ht-degree: 0%
 * **已更新品牌提取界面**：品牌提取现在以百分比显示提取流程的完成情况。
 
 * **在提取期间增量加载品牌**：品牌指南现在增量加载到用户界面中。
-
-* **复制准则架构的简化**：已从复制准则架构中删除`unique attributes`和`frequent keywords`字段，从而简化了准则设置过程。
 
 ### [!DNL Create]
 
@@ -57,19 +55,8 @@ ht-degree: 0%
 
 GenStudio for Performance Marketers GA版本将解决以下已知问题。
 
-### 分析
-
-* 当前未跟踪由&#x200B;**[!UICONTROL 添加模板]**&#x200B;和&#x200B;**[!UICONTROL 上传]**&#x200B;按钮触发的操作。<!-- GS-3505 -->
-
 ### [!DNL Insights]
 
 * 无法从&#x200B;_Assets_&#x200B;播放视频。<!-- GS-3846 -->
 
 * 用户还必须登录两次Facebook。 **解决方法**：在登录到[!DNL Insights]之前注销Facebook。
-
-* 营销活动级别的&#x200B;**支出**&#x200B;值不准确。 目前，Facebook广告管理器与数据湖之间的数据不一致。<!-- GS-3202 -->
-
-### [!DNL Reviews and Approvals]
-
-* 创建者可以在获得批准后在发布之前更改资产。 这些更改不会通知批准者。
-

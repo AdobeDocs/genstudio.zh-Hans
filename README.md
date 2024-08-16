@@ -1,13 +1,13 @@
 ---
-source-git-commit: 135502f6743f2d45860c900a49a8c19a024a58dc
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 37%
+source-wordcount: '310'
+ht-degree: 36%
 
 ---
-# GenStudio文档
+# GenStudio性能营销人员文档
 
-本网站包含有关GenStudio产品的最新文档。
+此网站包含适用于GenStudio for Performance Marketers产品的最新文档。
 
 ## Adobe 开源行为准则
 
@@ -37,8 +37,8 @@ ht-degree: 37%
 
 此存储库中的所有文章都使用GitHub风格的Markdown。 如果您不熟悉标记，请参阅：
 
-- [标记基础知识](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [可打印标记备忘单](https://docs.github.com/en/get-started/getting-started-with-git/git-cheatsheet)
+- [Markdown 基础知识](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [可打印的 Markdown 速查表](https://docs.github.com/en/get-started/getting-started-with-git/git-cheatsheet)
 
 ## 标签
 

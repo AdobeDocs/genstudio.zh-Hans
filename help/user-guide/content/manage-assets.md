@@ -2,9 +2,9 @@
 title: 管理资源和体验
 description: 简化并增强对品牌认可资产的管理，以在您的数字营销历程中使用和重复使用。
 feature: Content, Assets, Experiences
-source-git-commit: ba7dced9e62f797cd43a0bd8d8263828ec5c3d5e
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 管理资源和体验
 
-GenStudio [!DNL Content]简化并增强了对品牌批准资源的管理，以便在您的数字营销历程中使用和重复使用。
+绩效营销人员[!DNL Content]的Adobe GenStudio简化并增强了用于数字营销历程中的品牌批准资源的管理。
 
 ## 添加资源
 
@@ -26,11 +26,11 @@ GenStudio [!DNL Content]简化并增强了对品牌批准资源的管理，以�
 
 1. 为了提高可发现性，请在&#x200B;**更多详细信息**&#x200B;部分中添加可选详细信息，如&#x200B;_品牌名称_、_角色_、_区域_&#x200B;和&#x200B;_关键字_。
 
-   您提供的详细信息越多，就越能体验GenStudio的强大功能。 从列表中选择一个或多个详细信息，或在适用的情况下输入新详细信息，例如使用关键字。 您添加的每个详细信息都显示在列表下方。 单击&#x200B;**`x`**&#x200B;可删除详细信息。
+   您提供的详细信息越多，就越能体验GenStudio为性能营销人员提供的强大功能。 从列表中选择一个或多个详细信息，或在适用的情况下输入新详细信息，例如使用关键字。 您添加的每个详细信息都显示在列表下方。 单击&#x200B;**`x`**&#x200B;可删除详细信息。
 
    您添加的任何详细信息都适用于在此操作中添加的所有资源。
 
-   查看[元数据详细信息](/help/user-guide/content/asset-details.md#genstudio-metadata)。
+   查看[元数据详细信息](/help/user-guide/content/asset-details.md#system-metadata)。
 
 1. 单击&#x200B;**[!UICONTROL 添加资源]**。
 1. 完成资产上传后，单击&#x200B;**完成**。
@@ -59,7 +59,3 @@ In the future, need guidance on template upload errors. For now, the UI just say
 1. 选择资源以获取完整视图和详细信息列表。
 
    单击&#x200B;**[!UICONTROL 下载]**（向下箭头）以在本地工作站中使用资产。
-
-<!-- 
-There is more here, but not ready yet.
--->
