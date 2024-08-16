@@ -1,9 +1,9 @@
 ---
 title: 面向性能营销人员的Adobe GenStudioBeta发行说明
 description: 了解Adobe GenStudio的最新功能和增强功能。
-source-git-commit: 382026b07e123a1e49813b766f69496f6a8f38eb
+source-git-commit: 5505e3fdc78e217dd1eb73ed5bffa5e43d4f3084
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '356'
 ht-degree: 2%
 
 ---
@@ -28,8 +28,6 @@ GenStudio功能开发快速且持续。 重要的新功能包括：
 * _在提取期间增量加载品牌_：品牌指南现在增量加载到用户界面中。
 
 * _复制指南架构的简化_：已从复制指南架构中删除`unique attributes`和`frequent keywords`字段，从而简化了指南设置过程。
-
-* _图像生成：类别选择_：用户现在可以选择特定于其图像生成需求的图像准则。
 
 ### 创建
 
@@ -63,22 +61,15 @@ GenStudio for Performance Marketers GA版本将解决以下已知问题。
 
 * 当前未跟踪由&#x200B;**[!UICONTROL 添加模板]**&#x200B;和&#x200B;**[!UICONTROL 上传]**&#x200B;按钮触发的操作。<!-- GS-3505 -->
 
-### 品牌
-
-* 创建者可以成功发布品牌，但组织成员看不到品牌。<!-- XI-2197 -->
-
-### 创建
-
-* 元广告中的图像裁剪不一致。<!-- GS-3739 -->
-
-* 由多组页面元素组成的模板无法通过品牌验证。<!-- GS-4037 -->
-
 ### 见解
 
-* `/admin/addOffer`终结点（设置服务）发生拒绝访问错误。 **已解决8/12**。<!-- GS-4047 -->
+* 无法从&#x200B;_Assets_&#x200B;播放视频。<!-- GS-3846 -->
+
+* 用户还必须登录两次Facebook。 **解决方法**：在登录到Insights之前注销Facebook。
 
 * 营销活动级别的&#x200B;**支出**&#x200B;值不准确。 目前，Facebook广告管理器与数据湖之间的数据不一致。<!-- GS-3202 -->
 
 ### 审阅和批准
 
-* 创建者可以在批准后更改资产，然后再发布资产。 这些更改不会通知批准者。
+* 创建者可以在获得批准后在发布之前更改资产。 这些更改不会通知批准者。
+
