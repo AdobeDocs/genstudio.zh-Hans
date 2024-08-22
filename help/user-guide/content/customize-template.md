@@ -3,9 +3,9 @@ title: 自定义模板
 description: 了解如何为性能营销人员构建自定义Adobe GenStudio模板。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 44390d551e638fcff47cff5844fcfda4ed9f98f3
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '908'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,7 @@ ht-degree: 0%
 
 使用&#x200B;_Handlebars_ HTML语言调整您的模板以适应性能营销人员的Adobe GenStudio。 Handlebars语法使用带双大括号的常规文本作为内容占位符。 请参阅&#x200B;_Handlebars语言指南_&#x200B;中的[`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars)以了解如何准备模板。
 
-<!-- This is for email. In the future, maybe use tabs to provide guidance for other template types.
--->If you do not have an HTML template ready to use in GenStudio for Performance Marketers, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
+如果您没有可在GenStudio中使用的Performance MarketersHTML模板，则可以使用HTML标签定义模板的结构：`DOCTYPE`、`html`、`head`和`body`。 以下是基本电子邮件模板，其中包含用于自定义外观的CSS样式：
 
 ```html
 <!DOCTYPE html>
@@ -30,8 +29,6 @@ ht-degree: 0%
 </body>
 </html>
 ```
-
-请参阅[模板示例](#template-examples)。
 
 >[!TIP]
 >
@@ -47,11 +44,9 @@ ht-degree: 0%
 <div>{{ headline }}</div>
 ```
 
-### 字段名称
+### 可识别的字段名称
 
 自定义模板中允许的最大字段数为20。
-
-#### 可识别的字段名称
 
 下表列出了GenStudio识别的字段名称，这些字段可用于将性能营销人员填充到模板中。
 
@@ -63,12 +58,12 @@ ht-degree: 0%
 | `cta` | 行动号召 | 电子邮件（推荐）<br>元广告 |
 | `on_image_text` | 在图像文本上 | 元广告（推荐） |
 | `image` | 图像 | 电子邮件（推荐）<br>元广告（推荐） |
-| `brand_logo` | 所选品牌的徽标 | 电子邮件<br>元广告 |
+| `brand_logo` | 所选品牌<br>的徽标有关建议用法，请参阅[字段名](#brand-logo-field-name)。 | 电子邮件<br>元广告 |
 
 GenStudio for Performance营销人员会自动填充模板中的某些字段，因此无需将它们包含在模板设计中：
 
-* `subject`字段（电子邮件模板）
-* `headline`、`body`和`CTA`字段（元广告模板）
+- `subject`字段（电子邮件模板）
+- `headline`、`body`和`CTA`字段（元广告模板）
 
 >[!WARNING]
 >
@@ -76,33 +71,31 @@ GenStudio for Performance营销人员会自动填充模板中的某些字段，�
 
 #### 品牌徽标字段名称
 
-要在模板中添加品牌徽标，请使用以下方法之一来呈现默认徽标。
+以下示例演示了两种方法，它们有条件地呈现Brand徽标、验证源、提供默认或替代徽标以防无法使用brand徽标并应用样式：
 
-_示例_：
+_示例_：在HTML`img src`定义中
 
-```bash
-<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default image>{{/if}}" alt="WKND" style="max-width: 88px; margin: 10px auto; display: block;"> 
+```html
+<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default-image>{{/if}}" alt="img alt text" style="max-width: 88px; margin: 10px auto; display: block;"> 
 ```
 
-_示例_：
+_示例_：在Handlebars条件下
 
-```bash
+```handlebars
 {{#if brand_logo}}
-
-                    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
-
-                {{else}}
-
-                    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
-
-                {{/if}}
+    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+    {{else}}
+    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+{{/if}}
 ```
 
 #### 手动字段名称
 
-所有其他字段名称均被视为手动填充的字段。 如果希望某个节是可编辑的，请在要编辑的节周围添加双括号。
+所有其他字段名称均被视为手动填充的字段。 要创建可编辑的节，请在节名称两侧添加双括号：
 
-_示例_： ``{{customVariable}}`` （`customVariable`是可手动编辑的部分）
+```handlebars
+{{customVariable}}
+```
 
 ## 区域或组
 
@@ -112,19 +105,19 @@ _节_&#x200B;通知GenStudio性能营销人员此节中的字段需要高度一�
 
 例如，您可能希望突出显示区域中显示的内容：
 
-* `spotlight_headline`
-* `spotlight_body`
+- `spotlight_headline`
+- `spotlight_body`
 
 每个部分只能有一个字段类型。 在上述示例中，`spotlight`前缀只能有一个`spotlight_headline`字段。
 
 一个模板最多可以包含三个部分：
 
-* `headline`
-* `body`
-* `spotlight_headline`
-* `spotlight_body`
-* `news_headline`
-* `news_body`
+- `headline`
+- `body`
+- `spotlight_headline`
+- `spotlight_body`
+- `news_headline`
+- `news_body`
 
 GenStudio性能营销人员了解`spotlight_headline`与`spotlight_body`的关系比`news_body`更密切。
 
@@ -263,7 +256,6 @@ GenStudio性能营销人员了解`spotlight_headline`与`spotlight_body`的关�
     <div class="ad-body">"{{ body }}"</div>
     <a href="(https://example.com)" class="ad-cta">"{{ CTA }}"</a>
 </div>
-
 </body>
 </html>
 ```

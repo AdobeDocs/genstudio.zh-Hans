@@ -3,7 +3,7 @@ title: 为性能营销人员准备用于Adobe GenStudio的电子邮件模板
 description: 了解如何为性能营销人员构建自定义电子邮件模板Adobe GenStudio。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 5bbc089fa7441ad8ce4cd84dd92889d1a22c0f61
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 0%
@@ -48,13 +48,13 @@ ht-degree: 0%
 要定义生成的内容区域，请执行以下操作：
 
 * 确定GenStudio for Performance营销人员应自动生成的模板中的文本元素，例如标题或CTA。
-* 通过使用Handblebars语法在HTML模板中插入占位符来调整模板。
+* 通过使用Handlebars语法在HTML模板中插入占位符来调整模板。
 
 请参阅[内容占位符](/help/user-guide/content/customize-template.md#content-placeholders)。
 
 ## 预览模板
 
-利用内置帮助程序控制特定内容区域的可见性。 例如，您可以在导出的模板中包含指向链接的跟踪参数，同时保持预览链接干净。
+使用内置帮助程序控制特定内容区域的可见性。 例如，您可以在导出的模板中包含指向链接的跟踪参数，同时保持预览链接干净。
 
 请参阅[模板预览](/help/user-guide/content/customize-template.md#template-preview)。
 

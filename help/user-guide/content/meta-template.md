@@ -3,9 +3,9 @@ title: 为性能营销人员准备Adobe GenStudio元广告模板
 description: 了解如何为性能营销人员构建自定义Adobe GenStudio元广告模板。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 5bbc089fa7441ad8ce4cd84dd92889d1a22c0f61
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -52,18 +52,18 @@ GenStudio性能营销人员支持对元广告采用以下宽高比：
 要定义生成的内容区域，请执行以下操作：
 
 * 确定GenStudio for Performance营销人员应自动生成的模板中的文本元素，例如标题或CTA。
-* 通过使用Handblebars语法在HTML模板中插入占位符来调整模板。
+* 通过使用Handlebars语法在HTML模板中插入占位符来调整模板。
 
 请参阅[内容占位符](/help/user-guide/content/customize-template.md#content-placeholders)。
 
 ## 预览模板
 
-利用内置帮助程序控制特定内容区域的可见性。 例如，您可以在导出的模板中包含指向链接的跟踪参数，同时保持预览链接干净。
+使用内置帮助程序控制特定内容区域的可见性。 例如，在导出模板中包含指向链接的跟踪参数，同时保持预览链接干净。
 
 请参阅[模板预览](/help/user-guide/content/customize-template.md#template-preview)。
 
 ## 上传和使用模板
 
-设计、编码、测试和预览模板后，您可以将其上传到GenStudio以提高性能营销人员，以用于生成全新的营销内容。
+设计、编码、测试和预览模板后，将其上传到GenStudio以提高性能营销人员，用于生成全新的营销内容。
 
 请参阅[使用模板](use-templates.md)。
