@@ -1,7 +1,7 @@
 ---
 title: 面向性能营销人员的Adobe GenStudioBeta发行说明
 description: 了解面向Performance Marketers的Adobe GenStudio的最新功能和增强功能。
-source-git-commit: 44cee6fa5b543372b1264745dd42ca6d3c754ec5
+source-git-commit: 17d2cb3afd6c3ce8a8c5efe8c5b406f6cdf5aa76
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 0%
@@ -27,7 +27,7 @@ GenStudio for Performance Marketers GA版本中计划解决以下已知问题。
 
 ### 已解决的已知问题
 
-* 在电子邮件创建过程中，“提示”区域([!DNL Brands])下拉菜单会在([!DNL Brands])列表的末尾显示一个旋转图标。 （固定8/22） <!-- GS-4077 -->
+* 在电子邮件创建过程中，“提示”区域([!DNL Brands])下拉菜单在([!DNL Brands])列表的末尾显示一个旋转图标。 （固定8/22） <!-- GS-4077 -->
 
 ## 早期Beta版本
 
@@ -51,7 +51,7 @@ GenStudio for Performance Marketers GA版本中计划解决以下已知问题。
 
 * _体验详细信息_&#x200B;页面馈送放置名称现在指定了Facebook或Instagram馈送。 (8/16)
 
-* 现在，当用户从&#x200B;_资源概述_&#x200B;视图导航到&#x200B;_资源详细信息_&#x200B;视图时，大图像和视频的裁剪是一致的。  (8/16)
+* 现在，当用户从&#x200B;_资源概述_&#x200B;视图导航到&#x200B;_资源详细信息_&#x200B;视图时，大图像和视频的裁剪是一致的。 (8/16)
 
 * 在用户登录之前，“属性”屏幕搜索结果计数不再显示`0 of`。  (8/16) <!-- GS- 3665 -->
 
