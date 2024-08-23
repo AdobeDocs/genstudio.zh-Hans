@@ -1,9 +1,9 @@
 ---
 title: 面向性能营销人员的Adobe GenStudioBeta发行说明
 description: 了解面向Performance Marketers的Adobe GenStudio的最新功能和增强功能。
-source-git-commit: 72103c750a7708d97be87bed144bfe053ceeaa0f
+source-git-commit: 071871f91f0624c1bdb3be3f5ed2d9742352afea
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,10 @@ GenStudio for Performance Marketers GA版本中计划解决以下已知问题。
 * 无法从&#x200B;_Assets_&#x200B;播放视频。<!-- GS-3846 -->
 
 * 用户还必须登录两次Facebook才能登录渠道元广告帐户。 **解决方法**：在登录到渠道元广告帐户之前，注销Facebook。
+
+### 已解决的已知问题
+
+* 在电子邮件创建期间，“提示”区域([!DNL Brands])下拉菜单在([!DNL Brands])列表的末尾显示一个旋转图标。 （固定8/22） <!-- GS-4077 -->
 
 ## 先前的Beta版本
 
