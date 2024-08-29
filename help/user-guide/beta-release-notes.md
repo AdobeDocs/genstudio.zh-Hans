@@ -1,9 +1,9 @@
 ---
 title: 面向性能营销人员的Adobe GenStudioBeta发行说明
 description: 了解面向Performance Marketers的Adobe GenStudio的最新功能和增强功能。
-source-git-commit: 17d2cb3afd6c3ce8a8c5efe8c5b406f6cdf5aa76
+source-git-commit: f30eaea46a0cbb45f1ba04e393219b843c356e10
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '511'
 ht-degree: 0%
 
 ---
@@ -11,23 +11,44 @@ ht-degree: 0%
 
 # 面向性能营销人员的Adobe GenStudioBeta发行说明
 
-这些说明重点指出了在截至8月23日的一周内为性能营销人员修复和增强功能提供的重大Adobe GenStudio。
+这些说明重点指出了在截至8月30日的一周内为性能营销人员修复和增强功能提供的重大Adobe GenStudio。
+
+## 高亮
+
+* instagram和Facebook渠道准则已合并到元品牌准则中。
+
+* 已简化“创建画布”导航元素。 ([!DNL Create])登陆页面显示左侧导航面板，但用户现在使用&#x200B;**[!UICONTROL 后退]**&#x200B;按钮从其他“创建”工作区导航到此共享空间。 <!-- GS-1189 -->
+
+* 导航元素已得到增强，可在执行整个产品（包括以下产品领域）中的任务时支持用户聚焦：
+
+   * ([!DNL Content])中的资产、体验、模板详细信息
+   * ([!DNL Insights])中的体验、资产、属性详细信息
+   * ([!DNL Brands])中的品牌详细信息
+   * ([!DNL Products])和([!DNL Personas]) <!-- GS-1189 -->中的产品和角色详细信息
+
+* 用户无需再单击&#x200B;**[!UICONTROL 刷新]**&#x200B;按钮即可查看([!DNL Content])中体验的更新。<!-- GS-4218 -->
+
+* “体验详细信息”页面现在将外部资源缩略图呈现为HTML。<!-- GS-3092 -->
+
+* 添加或删除Assets和体验后的UI延迟已得到改进。<!-- GS-3389 -->
+
+* 模板预览现在包含更具描述性的默认文本。<!-- GS-4028 -->
 
 ## 已知问题
 
 GenStudio for Performance Marketers GA版本中计划解决以下已知问题。
 
-* 由于ACP存储平台问题，品牌指南上传失败。<!-- GS-4369 -->
+* MetaAds画布预览和导出的视图之间存在差异。<!-- GS-4492 4401 -->
+
+* ([!DNL Insights])视图中缺少营销活动缩略图。<!-- GS-4648 -->
 
 * 用户当前可以选择需要调整大小的小型资源，但不支持放大这些资源。<!-- GS-3131 -->
-
-* 无法从&#x200B;_Assets_&#x200B;播放视频。<!-- GS-3846 -->
 
 * 用户还必须登录两次Facebook才能登录渠道元广告帐户。 **解决方法**：在登录到渠道元广告帐户之前，注销Facebook。
 
 ### 已解决的已知问题
 
-* 在电子邮件创建过程中，“提示”区域([!DNL Brands])下拉菜单在([!DNL Brands])列表的末尾显示一个旋转图标。 （固定8/22） <!-- GS-4077 -->
+* 当用户尝试在([!DNL Insights])视图中输入凭据时，GenStudio显示错误。 （固定8/29） <!-- GS-4689 -->
 
 ## 早期Beta版本
 
@@ -56,3 +77,10 @@ GenStudio for Performance Marketers GA版本中计划解决以下已知问题。
 * 在用户登录之前，“属性”屏幕搜索结果计数不再显示`0 of`。  (8/16) <!-- GS- 3665 -->
 
 * 单击&#x200B;**[!UICONTROL [!DNL Insights]]** > **[!UICONTROL 资产]**&#x200B;计数字段不再清除搜索和筛选设置。 (8/16) <!-- GS-3476 -->
+
+### 过去Beta版本中已解决的已知问题
+
+* 由于ACP存储平台问题，品牌指南上传失败。 （固定8/22） <!-- GS-4369 -->
+
+* 在电子邮件创建过程中，“提示”区域([!DNL Brands])下拉菜单在([!DNL Brands])列表的末尾显示一个旋转图标。 （固定8/22） <!-- GS-4077 -->
+
