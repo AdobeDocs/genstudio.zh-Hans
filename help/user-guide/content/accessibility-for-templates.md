@@ -1,10 +1,10 @@
 ---
 title: 创建无障碍模板
-description: 构建能够联系所有受众的模板，以便用于Adobe GenStudio性能营销人员。
+description: 在Adobe GenStudio中为性能营销人员构建模板，这些模板能够吸引更多受众并提供最佳体验。
 feature: Templates, Content
-source-git-commit: 26d1b9c7b392e93e87ffcd9444f391c2980d1c3c
+source-git-commit: c891f876fe5a7c75487fcba6552a213533f0b609
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---

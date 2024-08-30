@@ -1,11 +1,11 @@
 ---
 title: 自定义模板
-description: 了解如何为性能营销人员构建自定义Adobe GenStudio模板。
+description: 了解如何个性化和优化您的模板以进行高性能营销人员的Adobe GenStudio。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 44390d551e638fcff47cff5844fcfda4ed9f98f3
+source-git-commit: 909ac53580e672df1adf0c73e67a32f2c045dc35
 workflow-type: tm+mt
-source-wordcount: '908'
+source-wordcount: '1032'
 ht-degree: 0%
 
 ---
@@ -13,73 +13,66 @@ ht-degree: 0%
 
 # 自定义模板
 
-使用&#x200B;_Handlebars_ HTML语言调整您的模板以适应性能营销人员的Adobe GenStudio。 Handlebars语法使用带双大括号的常规文本作为内容占位符。 请参阅&#x200B;_Handlebars语言指南_&#x200B;中的[`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars)以了解如何准备模板。
+使用&#x200B;_Handlebars_ HTML语言调整您的模板以适应性能营销人员的Adobe GenStudio。 [!DNL Handlebars]语法使用带双大括号的常规文本作为内容占位符。 请参阅&#x200B;_Handlebars语言指南_&#x200B;中的[`What is [!DNL Handlebars]?`](https://handlebarsjs.com/guide/#what-is-handlebars)以了解如何准备模板。
 
-如果您没有可在GenStudio中使用的Performance MarketersHTML模板，则可以使用HTML标签定义模板的结构：`DOCTYPE`、`html`、`head`和`body`。 以下是基本电子邮件模板，其中包含用于自定义外观的CSS样式：
-
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Title</title>
-    <style>
-    </style>
-</head>
-<body>
-</body>
-</html>
-```
-
->[!TIP]
->
->在接下来的几个部分中，为电子邮件字段添加内容占位符，请参阅示例模板，在预览中隐藏不必要的元素，以及管理指向静态内容的链接。 模板准备就绪后，您可以[将其上传到GenStudio以供性能营销人员使用](use-templates.md#upload-a-template)，并开始根据您的自定义模板生成个性化电子邮件。
+接下来的几个部分将说明如何添加内容占位符、在预览中隐藏不必要的元素和管理指向静态内容的链接。 模板准备就绪后，您可以[将其上传到GenStudio以供性能营销人员使用](use-templates.md#upload-a-template)，并开始根据您的自定义模板生成个性化电子邮件。
 
 ## 内容占位符
 
-在模板的head或body中，可以使用Handlebars语法插入内容占位符，其中您需要使用GenStudio for Performance营销人员使用实际内容填充模板。 GenStudio性能营销人员根据字段名称自动识别和解释内容占位符。
+GenStudio for Performance营销人员可以识别模板中的某些[元素](use-templates.md#template-elements)，但前提是使用可识别的字段名称标识它们。
 
-例如，您可以使用`{{ headline }}`来指示电子邮件标题的放置位置：
+在模板的head或body中，您可以使用[!DNL Handlebars]语法作为内容占位符，其中您需要使用GenStudio for Performance营销人员使用实际内容填充模板。 GenStudio性能营销人员根据[可识别的&#x200B;_字段_&#x200B;名称](#recognized-field-names)来识别和解释内容占位符。
+
+例如，您可以使用带有[!DNL Handlebars]语法的`{{ headline }}`来指示电子邮件标题的放置位置：
 
 ```handlebars
-<div>{{ headline }}</div>
+<div>{{headline}}</div>
 ```
 
 ### 可识别的字段名称
 
-自定义模板中允许的最大字段数为20。
-
-下表列出了GenStudio识别的字段名称，这些字段可用于将性能营销人员填充到模板中。
+下表列出了GenStudio识别的字段名称，这些字段可用于将性能营销人员填充到模板中。 使用[!DNL Handlebars]语法将这些字段名称添加到您的模板，您需要GenStudio才能让性能营销人员生成内容。
 
 | 字段 | 角色 | 渠道模板 |
-| -------------- | ---------------------- | -------------------- |
-| `pre_header` | 预标题 | 电子邮件（推荐） |
-| `headline` | 标题 | 电子邮件（推荐）<br>元广告 |
-| `body` | 正文 | 电子邮件（推荐）<br>元广告 |
-| `cta` | 行动号召 | 电子邮件（推荐）<br>元广告 |
-| `on_image_text` | 在图像文本上 | 元广告（推荐） |
-| `image` | 图像 | 电子邮件（推荐）<br>元广告（推荐） |
-| `brand_logo` | 所选品牌<br>的徽标有关建议用法，请参阅[字段名](#brand-logo-field-name)。 | 电子邮件<br>元广告 |
+| -------------- | ---------------------- | ------------------------------ |
+| `pre_header` | 预标题 | 电子邮件 |
+| `headline` | 标题 | 电子邮件<br>元广告 |
+| `body` | 正文 | 电子邮件<br>元广告 |
+| `cta` | 行动号召 | 电子邮件<br>元广告 |
+| `on_image_text` | 在图像文本上 | 元广告 |
+| `image` | 图像 | 电子邮件<br>元广告 |
+| `brand_logo` | 所选品牌的徽标<br>请参阅[品牌徽标字段名称](#brand-logo-field-name)以了解建议用法。 | 电子邮件<br>元广告 |
 
-GenStudio for Performance营销人员会自动填充模板中的某些字段，因此无需将它们包含在模板设计中：
+GenStudio for Performance营销人员会自动填充以下模板中的某些字段：
 
-- `subject`字段（电子邮件模板）
-- `headline`、`body`和`CTA`字段（元广告模板）
+- **电子邮件模板**&#x200B;不需要您识别`subject`字段
+- **元广告模板**&#x200B;不要求您识别`headline`、`body`和`CTA`字段
+
+<!--
+- **Display Ads template** does not require you to idenitify the `CTA` field
+-->
 
 >[!WARNING]
 >
 >对于Instagram广告，生成的标题不会显示在最终体验中。
 
+将模板上传到GenStudio以进行性能营销时，有20个字段的限制。 由于`subject`字段是在电子邮件中自动生成的，因此它计为一个字段。 这意味着电子邮件模板中允许有19个字段。
+
+>[!TIP]
+>
+>您可以使用面向绩效营销人员的GenStudio中的[模板预览](#template-preview)来验证您的模板。
+
 #### 品牌徽标字段名称
 
-以下示例演示了两种方法，它们有条件地呈现Brand徽标、验证源、提供默认或替代徽标以防无法使用brand徽标并应用样式：
+此时，您无法选择用于模板上传的品牌徽标。 以下示例演示了两种有条件地呈现品牌徽标的方法。 每种方法都验证源，提供默认或替代图像（如果品牌徽标不可用），并应用样式：
 
-_示例_：在HTML`img src`定义中
+**示例1**：直接在HTML`img src`属性中使用[!DNL Handlebars]内置帮助程序条件：
 
 ```html
-<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default-image>{{/if}}" alt="img alt text" style="max-width: 88px; margin: 10px auto; display: block;"> 
+<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default-image>{{/if}}" alt="img alt text" style="max-width: 88px; margin: 10px auto; display: block;">
 ```
 
-_示例_：在Handlebars条件下
+**示例2**：使用[!DNL Handlebars]内置条件语句包装HTML`img`标记：
 
 ```handlebars
 {{#if brand_logo}}
@@ -91,24 +84,24 @@ _示例_：在Handlebars条件下
 
 #### 手动字段名称
 
-所有其他字段名称均被视为手动填充的字段。 要创建可编辑的节，请在节名称两侧添加双括号：
+所有其他字段名称均被视为手动填充的字段。
+
+要创建可编辑的节，请在节名称两侧添加双括号：
 
 ```handlebars
 {{customVariable}}
 ```
 
-## 区域或组
+### 区域或组
 
 _节_&#x200B;通知GenStudio性能营销人员此节中的字段需要高度一致性。 建立这种关系有助于AI生成与部分中的创意元素匹配的内容。
 
-在字段名称中使用您选择的前缀来指示字段是部分或组的一部分。
-
-例如，您可能希望突出显示区域中显示的内容：
+在字段名称中使用您选择的前缀来指示字段是部分或组的一部分。 例如，您可能希望突出显示区域中显示的内容：
 
 - `spotlight_headline`
 - `spotlight_body`
 
-每个部分只能有一个字段类型。 在上述示例中，`spotlight`前缀只能有一个`spotlight_headline`字段。
+每个部分只能使用每种字段类型中的一种。 在上述示例中，`spotlight`节只能使用一个`spotlight_headline`字段。
 
 一个模板最多可以包含三个部分：
 
@@ -120,6 +113,45 @@ _节_&#x200B;通知GenStudio性能营销人员此节中的字段需要高度一�
 - `news_body`
 
 GenStudio性能营销人员了解`spotlight_headline`与`spotlight_body`的关系比`news_body`更密切。
+
+## 模板预览
+
+当您[上传HTML](use-templates.md#upload-a-template)模板时，GenStudio for Performance Marketers将扫描模板文件中是否存在可识别的字段。 使用该预览查看您的[模板元素](use-templates.md#template-elements)，并确认您使用[可识别的字段名称](#recognized-field-names)正确识别了这些元素。
+
+电子邮件模板的示例预览：
+
+![检测到预览字段](../../assets/template-detected-fields.png){width="650"}
+
+### 控件预览
+
+您可以使用内置帮助程序（执行特定操作的[!DNL Handlebars]模板语言中的特殊表达式）控制特殊内容的可见性。 例如，您可以添加一个条件语句，该语句可在保持预览链接干净的同时，将跟踪参数添加到导出模板中的链接。
+
+在呈现模板时设置`_genStudio.browser`值，在导出模板时设置`genStudio.export`值。 例如，当模板用于导出时，您可以决定在电子邮件顶部使用条件包装器包含某些内容：
+
+```handlebars
+{{#if _genStudio.export}}
+<%@ include view='emailParent' %>
+{{/if}}
+```
+
+另一个示例可能是为了防止在GenStudio中为性能营销人员预览模板时使用跟踪代码。 以下示例说明如何在保持预览链接整洁的同时向导出的模板中的链接添加跟踪参数：
+
+```handlebars
+<a class="button" {{#if _genStudio.browser }}
+   href="{{ link }}"{{/if}}{{#if _genStudio.export }}
+   href="{{ link }}?trackingid=<%=getTrackingId()%>&mv=email"{{/if}}
+   target="_blank">{{ cta }}</a>
+```
+
+## 静态内容
+
+电子邮件和元模板通常链接到托管在GenStudio之外的图像和CSS文件，以供性能营销人员使用。 当GenStudio for Performance营销人员为这些模板或从中派生的体验生成缩略图时，如果外部资源没有正确的跨源资源共享(CORS)标头，则可能会忽略这些外部资源。
+
+要确保这些资源在缩略图生成过程中可用，请考虑两个选项：
+
+1. **使用CORS标头**：主机服务器必须发送响应，其中生产环境的`Access-Control-Allow-Origin`标头设置为`https://experience.adobe.com`值。 此方法允许GenStudio性能营销人员访问和包含资源。
+
+1. **使用数据URL**：使用数据URL将外部资源直接嵌入模板。 此方法绕过CORS限制，并确保资源在生成缩略图期间可用。
 
 ## 模板示例
 
@@ -262,32 +294,3 @@ GenStudio性能营销人员了解`spotlight_headline`与`spotlight_body`的关�
 
 +++
 
-## 模板预览
-
-使用内置帮助程序（Handlebars模板语言中可执行特定操作的特殊表达式）控制特殊内容的可见性。 例如，您可以向导出的模板中的链接添加跟踪参数，同时保持预览链接干净。
-
-在呈现模板时设置`_genStudio.browser`值，在导出模板时设置`genStudio.export`值。 例如，当模板用于导出时，您可以决定在电子邮件顶部使用条件包装器包含某些内容：
-
-```handlebars
-{{#if _genStudio.export}}
-<%@ include view='emailParent' %>
-{{/if}}
-```
-
-另一个示例可能是为了防止在GenStudio中预览模板时使用跟踪代码。 此示例说明如何在保持预览链接干净的同时向导出的模板中的链接添加跟踪参数：
-
-```handlebars
-<a class="button" {{#if _genStudio.browser }}
-   href="{{ link }}"{{/if}}{{#if _genStudio.export }}
-   href="{{ link }}?trackingid=<%=getTrackingId()%>&mv=email"{{/if}}
-   target="_blank">{{ cta }}</a>
-```
-
-## 静态内容
-
-电子邮件和元模板通常链接到托管在GenStudio之外的图像和CSS文件，以供性能营销人员使用。 当GenStudio for Performance营销人员为这些模板或从中派生的体验生成缩略图时，如果外部资源没有正确的跨源资源共享(CORS)标头，则可能会忽略这些外部资源。
-
-要确保这些资源在缩略图生成过程中可用，请考虑两个选项：
-
-1. **使用CORS标头**：主机服务器必须发送响应，其中生产环境的`Access-Control-Allow-Origin`标头设置为`https://experience.adobe.com`值。 此方法允许GenStudio性能营销人员访问和包含资源。
-1. **使用数据URL**：使用数据URL将外部资源直接嵌入模板。 此方法绕过CORS限制，并确保资源在生成缩略图期间可用。

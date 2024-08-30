@@ -3,9 +3,9 @@ title: 为性能营销人员准备用于Adobe GenStudio的电子邮件模板
 description: 了解如何为性能营销人员构建自定义电子邮件模板Adobe GenStudio。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 5bbc089fa7441ad8ce4cd84dd92889d1a22c0f61
+source-git-commit: 09431d6f5f5b00c1b84cf69667a337ce51683c1d
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 通常，设计人员会在设计程序(如Adobe XD)中创建模板的可视化设计。 设计、编码和测试电子邮件模板后，您可以准备将其上传并用于GenStudio中的性能营销人员。
 
-查看[模板剖析](/help/user-guide/content/use-templates.md#anatomy-of-a-template)。
+查看[模板元素](use-templates.md#template-elements)。
 
 ## 添加准则
 

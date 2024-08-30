@@ -2,9 +2,9 @@
 title: 面向绩效营销人员的Adobe GenStudio概述 [!DNL Content]
 description: 了解如何在一个直观的门户中查找、编辑、重用和共享品牌批准的资源。
 feature: Attributes, Content, Templates
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: c34fd3ac0925624c685ae27d56d9964896796786
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '300'
 ht-degree: 1%
 
 ---
@@ -20,45 +20,43 @@ GenStudio性能营销人员[!DNL Content]提供了一个中央位置，可用于
 <tr style="border: 0;">
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md#search">
-      <img alt="magnifier" src="../../assets/icons/icon-search.svg" width="35">
+         <img alt="magnifier" src="../../assets/icons/icon-search-35.svg" width="35">
       </a>
-      <div>
+      <p>
          <a href="../content/manage-assets.md#search">
          <strong>查找内容</strong>
          </a>
-      </div>
+      </p>
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md">
-      <img alt="带加号的图像" src="../../assets/icons/icon-addContent.svg" width="35">
+         <img alt="带加号的图像" src="../../assets/icons/icon-addContent-35.svg" width="35">
       </a>
-      <div>
+      <p>
          <a href="../content/manage-assets.md">
          <strong>添加资源</strong>
          </a>
-      </div>
+      </p>
    </td>
-<!--
    <td align="center" valign="top" width="100">
-      <a href="../content/manage-assets.md#search">
-      <img alt="sparkle and new asset" src="../../assets/icons/icon-AIVariation.svg" width="35">
+      <a href="../content/customize-template.md">
+         <img alt="资产上的发光螺钉" src="../../assets/icons/icon-template-35.svg" width="35">
       </a>
-      <div>
-         <a href="../content/manage-assets.md#search">
-         <strong>Refresh content</strong>
+      <p>
+         <a href="../content/customize-template.md">
+         <strong>自定义模板</strong>
          </a>
-      </div>
+      </p>
    </td>
--->
    <td align="center" valign="top" width="100">
       <a href="../content/use-templates.md">
-      <img alt="资产上的发光螺钉" src="../../assets/icons/icon-template.svg" width="35">
+         <img alt="带加号的资产上的发光螺钉" src="../../assets/icons/icon-addTemplate-35.svg" width="35">
       </a>
-      <div>
+      <p>
          <a href="../content/use-templates.md#upload-a-template">
          <strong>上载模板</strong>
          </a>
-      </div>
+      </p>
    </td>
 </tr>
 </table>
@@ -77,4 +75,4 @@ GenStudio性能营销人员[!DNL Content]使您可以轻松管理批准的资源
 
 ### 使用模板
 
-模板可加快创建过程，以便您可以跨多个渠道生成一致的内容。 模板为创建过程提供了一个起点，它提供了预配置的布局和设计元素。
+模板可加快创建过程，以便您可以跨多个渠道生成一致的内容。 上传您的自定义模板，以用作具有预配置布局和设计元素的创建过程的起点。
