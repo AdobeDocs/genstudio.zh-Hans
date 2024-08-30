@@ -2,7 +2,7 @@
 title: 面向绩效营销人员的Adobe GenStudio概述 [!DNL Content]
 description: 了解如何在一个直观的门户中查找、编辑、重用和共享品牌批准的资源。
 feature: Attributes, Content, Templates
-source-git-commit: c34fd3ac0925624c685ae27d56d9964896796786
+source-git-commit: 6ee651ab67a92e2eca9929c3cfc6c66fb90d785e
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 1%
@@ -20,7 +20,7 @@ GenStudio性能营销人员[!DNL Content]提供了一个中央位置，可用于
 <tr style="border: 0;">
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md#search">
-         <img alt="magnifier" src="../../assets/icons/icon-search-35.svg" width="35">
+         <img alt="magnifier" src="../../assets/icons/icon-search.png" width="35">
       </a>
       <p>
          <a href="../content/manage-assets.md#search">
@@ -30,7 +30,7 @@ GenStudio性能营销人员[!DNL Content]提供了一个中央位置，可用于
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md">
-         <img alt="带加号的图像" src="../../assets/icons/icon-addContent-35.svg" width="35">
+         <img alt="带加号的图像" src="../../assets/icons/icon-addContent.png" width="35">
       </a>
       <p>
          <a href="../content/manage-assets.md">
@@ -40,7 +40,7 @@ GenStudio性能营销人员[!DNL Content]提供了一个中央位置，可用于
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/customize-template.md">
-         <img alt="资产上的发光螺钉" src="../../assets/icons/icon-template-35.svg" width="35">
+         <img alt="资产上的发光螺钉" src="../../assets/icons/icon-template.png" width="35">
       </a>
       <p>
          <a href="../content/customize-template.md">
@@ -50,7 +50,7 @@ GenStudio性能营销人员[!DNL Content]提供了一个中央位置，可用于
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/use-templates.md">
-         <img alt="带加号的资产上的发光螺钉" src="../../assets/icons/icon-addTemplate-35.svg" width="35">
+         <img alt="带加号的资产上的发光螺钉" src="../../assets/icons/icon-addTemplate.png" width="35">
       </a>
       <p>
          <a href="../content/use-templates.md#upload-a-template">
