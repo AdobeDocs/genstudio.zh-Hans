@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 4745e7cab9cd605c3bc7e93cb610e510566c9302
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: '955'
 ht-degree: 0%
 
 ---
@@ -69,6 +69,8 @@ ht-degree: 0%
 
 将顶部菜单栏中的“元广告渠道”选项切换为&#x200B;**Facebook**&#x200B;或&#x200B;**Instagram**，以管理每个渠道生成的草稿。
 
+在[修订元广告](#revise-generated-meta-ads)时，您可以更改Facebook和Instagram广告的长宽比。
+
 ## 修订生成的元广告
 
 在选择要发送哪些内容以供审批或发布到[!DNL Content]之前，您可以编辑元广告或从生成的广告集中删除变体。
@@ -81,6 +83,7 @@ ht-degree: 0%
   只需单击主题行和预页眉即可编辑，而页眉和正文副本则需要双击。
 
 * **要更改或选择行动号召**，请单击行动号召按钮，然后从可用按钮中选择。
+* **要更改大小和纵横比**，请单击&#x200B;_[!UICONTROL 调整大小]_&#x200B;按钮（画布左侧带有按钮图标的框），然后选择要应用于所有变体的新大小和纵横比。 将复制变体并调整其大小。
 * **要删除元广告**，请单击以选择广告标题（例如，“Meta 4”），然后单击&#x200B;**[!UICONTROL 删除变体]**。
 
 ## 验证品牌一致性

@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 5026afb4eb71df73063559aee34971039511b31a
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '813'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 选择模板
 
-要开始创建新电子邮件体验，请使用可用的模板为您的内容提供框架。
+要创建新的电子邮件体验，请使用可用的模板为您的内容提供框架。
 
 **要选择电子邮件模板**：
 
@@ -47,6 +47,10 @@ ht-degree: 0%
    * 单击&#x200B;**[!UICONTROL 从内容中选择]**&#x200B;以选择已发布到[!DNL Content]的资源（图像）。 使用筛选器进一步缩小搜索结果的范围。
    * 单击&#x200B;**[!UICONTROL 上传]**&#x200B;浏览您的文件并选择要使用的资源。 在浏览设备的同时，您还可以从Microsoft OneDrive或Dropbox导入。
    * 将资产拖放到&#x200B;_Content_&#x200B;部分中。
+
+>[!NOTE]
+>
+>如果您的电子邮件模板有多个分区，请为&#x200B;_多分区电子邮件_&#x200B;中的每个电子邮件分区选择[!DNL Products]和内容（可视资产）。 多节电子邮件支持每节一个可视资产。
 
 添加完参数后，可通过再次单击&#x200B;_参数_&#x200B;图标来折叠提示区域。
 
