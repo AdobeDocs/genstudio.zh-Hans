@@ -2,9 +2,9 @@
 title: 编写有效提示
 description: 了解如何为性能营销人员编写有效的Adobe GenStudio提示。
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 306b64b44e69dbcec3984d1a0b54230fe0dbe48c
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '492'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 >[!NOTE]
 >
->如果在提示区域的&#x200B;_参数_&#x200B;中添加了准则，则无需在提示中包含对这些准则的引用。 GenStudio性能营销人员将在内容生成过程中利用这些[!DNL Brands]、[!DNL Products]和[!DNL Personas]。
+>如果在提示区域的&#x200B;_参数_&#x200B;中添加了准则，则无需在提示中包含对这些准则的引用。 GenStudio for Performance营销人员在内容生成中利用这些[!DNL Brands]、[!DNL Products]和[!DNL Personas]。
 
 ### 准则
 
@@ -57,15 +57,7 @@ GenStudio for Performance Marketers指南帮助创作AI个性化您的资源组�
 
 ## 重试
 
-提示是一个反复的过程。 如果结果不符合您的预期，请查看您的提示并进行一些更改或添加更多详细信息。 您可以通过提供URL作为示例或提供进一步信息的源来优化提示。
-
-```bash
-Write an email to motivate infrequent users of Photoshop to follow an in-app tutorial that teaches them to combine elements of two photos into a beautiful work of art. Highlight the generative AI capabilities of Photoshop and use references to natural imagery.
-
-Use information from https://www.adobe.com/products/photoshop.html to inspire users with the latest features.
-```
-
-或者，您可以粘贴营销活动简介中的各个部分。 您甚至可以请求面向性能营销人员的GenStudio避免使用某些词语、元素或主题。
+提示是一个反复的过程。 如果结果不符合您的预期，请查看您的提示并进行一些更改或添加更多详细信息。 或者，您可以粘贴营销活动简介中的各个部分。 您甚至可以请求面向性能营销人员的GenStudio避免使用某些词语、元素或主题。
 
 ## 最佳实践
 
