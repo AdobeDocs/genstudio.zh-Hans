@@ -1,13 +1,17 @@
 ---
 name: Topic update or clarification
 about: Request to clarify or correct a documentation topic
-source-git-commit: 4a73d0c55fc664c4c046f361c33be776ba2fd7b7
+source-git-commit: 5637f43a059fd747f7d656852d5428784525771a
 workflow-type: tm+mt
-source-wordcount: '28'
-ht-degree: 7%
+source-wordcount: '23'
+ht-degree: 0%
 
 ---
 
+
+# 主题更新
+
+<!-- Add link to topic. -->
 
 ## 描述问题
 
@@ -15,15 +19,12 @@ ht-degree: 7%
 
 请务必：
 
-- [ ]提供受影响内容的链接
 - [ ]添加屏幕截图
 - [ ]描述不正确或缺少的信息
 - [ ]提供指向源的链接
 
 ## 提出解决方案
 
-<!-- (OPTIONAL) What would a solution for this issue look like? -->
-
-## 附加信息
+<!-- (OPTIONAL) Describe your solution for this issue. -->
 
 <!-- Thank you for taking the time to report the issue. -->
