@@ -1,14 +1,14 @@
 ---
 title: ' [!DNL Insights]概述'
 description: 了解如何基于实时内容性能指标优化体验。
-feature: Attributes, Insights, Experiences, Assets
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+feature: Attributes, Insights, Experiences, Assets, Channels
+exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
+source-git-commit: 2a3085f535b4f161bd6e8bf321eac11357c44a5a
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '533'
 ht-degree: 0%
 
 ---
-
 
 # 面向性能营销人员的Adobe GenStudio[!DNL Insights]
 
@@ -26,21 +26,23 @@ ht-degree: 0%
 
 ## 仪表板
 
-[!DNL Insights]仪表板具有适用于每种内容类型的可配置网格：渠道、体验、Assets和属性。
+[!DNL Insights]仪表板具有适用于每种内容类型的可配置表： [!UICONTROL 渠道]、[!UICONTROL 体验]、[!UICONTROL Assets]和[!UICONTROL 属性]。
 
 ![[!DNL Insights]仪表板](/help/assets/insights-dashboard.png)
 
-每个视图都显示相应的网格，您可以按关键字、筛选和日期范围进行搜索。 您可以单击表格右侧上方的齿轮图标来切换可查看的列类型。 _[!UICONTROL Summary]_&#x200B;行可能显示列的合计或平均值。
+每个视图都显示一个相应的表，您可以按关键字、过滤和日期范围进行搜索。 您可以单击表格右侧上方的设置(cog)图标来切换可查看的列类型。 _[!UICONTROL Summary]_&#x200B;行可能显示列的合计或平均值。
 
-有关网格中每种列类型的说明，请参阅 [!DNL Insights]](data-columns.md)的[数据列。
+有关表中每种列类型的说明，请参阅 [!DNL Insights]](data-columns.md)的[数据列。
+
+[!UICONTROL 体验]、[!UICONTROL Assets]和[!UICONTROL 属性]包含库视图，通过库视图，您可以使用带有图像或视频缩略图的卡片扫描和排序资源。 每个信息卡上有一个选项可显示三个关键量度之一： `Click-through rate`、`Cost per click`和`Spend`。
 
 ### 渠道
 
-[!DNL Insights] _[!UICONTROL 渠道]_&#x200B;视图是默认视图，它显示活动详细信息（如目标、预算、启动日期和活动）的列表。
+[!DNL Insights] _[!UICONTROL 渠道]_&#x200B;视图是默认视图，它显示活动详细信息（如目标、预算、启动日期和活动）的列表。 请参阅[渠道概述](channels.md)。
 
 ### 体验
 
-[!DNL Insights] _[!UICONTROL 体验]_&#x200B;视图侧重于评估体验的有效性。 通过此视图，可基于指定日期范围内体验的广告投放位置分析体验的量度。 通过单击&#x200B;**[!UICONTROL 查看资产性能]**，您可以访问所选体验中使用的资产列表，从而识别哪些组件对其整体成功做出了贡献。
+[!DNL Insights] _[!UICONTROL 体验]_&#x200B;视图侧重于评估体验的有效性。 通过[!UICONTROL 体验]视图，可根据体验在指定日期范围内的广告投放位置分析该体验的量度。 通过单击&#x200B;_[!UICONTROL 广告名称]_，您可以访问所选体验中使用的资源列表，从而识别哪些组件对其整体成功做出了贡献。
 
 ### 资源
 
@@ -50,10 +52,10 @@ ht-degree: 0%
 
 ![资源视图](/help/assets/insights-asset-view.png){width="600" zoomable="yes"}
 
-在资产视图中，左侧显示资产的特写视图和属性列表。 有三个高亮显示的量度： `Click-through rate`、`Cost per click`和`Spend`。 性能突出显示显示实际值（实线）与所选时间段（默认为`Last 30 days`）的平均值（虚线）的比较结果。
+在资源视图中，左侧显示资源的缩略图和属性列表。 有三个高亮显示的量度： `Click-through rate`、`Cost per click`和`Spend`。 性能突出显示显示实际值（实线）与所选时间段（默认为`Last 30 days`）的平均值（虚线）的比较结果。
 
 ### 属性
 
-内容&#x200B;_属性_&#x200B;有助于通过固有详细信息(如颜色、色调、合成（主题、字体、视觉元素）和其他关键组件)识别资源。 属性通常是一组经过最少衡量和分析的内容信息。
+内容&#x200B;_属性_&#x200B;有助于通过固有详细信息(如颜色、色调、合成（如主题、字体、视觉元素）和其他关键组件)识别资源。 属性通常是一组经过最少衡量和分析的内容信息。
 
-[!DNL Insights] _[!UICONTROL 属性]_&#x200B;视图可以帮助您调查并确定哪些属性对特定受众、渠道、区域表现更好，并突出显示季节性趋势。 借助这些见解，您可以使用性能属性创建变体、定位特定受众或试验不同的营销活动策略。
+[!DNL Insights] _[!UICONTROL 属性]_&#x200B;视图可以帮助您调查并确定哪些属性对特定受众、渠道和区域表现更好，还可以帮助您突出季节性趋势。 借助这些见解，您可以使用性能属性创建变体、定位特定受众或试验不同的营销活动策略。
