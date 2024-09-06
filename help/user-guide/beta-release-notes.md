@@ -1,17 +1,23 @@
 ---
 title: 面向性能营销人员的Adobe GenStudioBeta发行说明
 description: 了解面向Performance Marketers的Adobe GenStudio的最新功能和增强功能。
-source-git-commit: 16f44baf646d696da3572ac2c17a5efb7c8f7fc6
+exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
+source-git-commit: ca5e746850925252679facc321d7522b251cd57a
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '735'
 ht-degree: 0%
 
 ---
 
-
 # 面向性能营销人员的Adobe GenStudioBeta发行说明
 
 这些说明重点指出了在截至9月6日的一周内为性能营销人员修复和增强功能提供的重大Adobe GenStudio。
+
+## 新增功能
+
+* GenStudio现在支持在[!DNL Insights]中预览媒体资源的选项。 视频缩略图包含一个带有静音选项的&#x200B;**播放**&#x200B;按钮。<!-- GS-4398 -->
+
+* 现在可以在[!DNL Insights]中按类型`video`筛选Assets。<!-- GS-4398 -->
 
 ## 已知问题
 
@@ -31,15 +37,48 @@ GenStudio for Performance Marketers GA版本中计划解决以下已知问题。
 
 * 用户还必须登录两次Facebook才能登录渠道元广告帐户。 **解决方法**：在登录到渠道元广告帐户之前，注销Facebook。
 
-### 已解决的已知问题
+* 上传的图像并不总是包含预期的智能标记。<!-- GS-4856 -->
 
-* 当用户尝试在[!DNL Insights]视图中输入凭据时，GenStudio显示错误。 （固定8/29） <!-- GS-4689 -->
+### 其他增强功能和修复的问题
+
+* _添加Assets_&#x200B;弹出窗口现在已按预期本地化。<!-- GS-3834 -->
+
+* 元广告体验模板的缩放问题已得到解决。<!-- GS-4174 -->
+
+* 为模板创建的内容片段模型现在可以在AEM中精确表示。<!-- GS-4716 -->
+
+* 多部分电子邮件CSV导出文件中的文本字段现在按预期排序。<!-- GS-4013 -->
+
+* 当用户反复按&#x200B;**退格键**&#x200B;以擦除搜索字段文本时，[!DNL Content]搜索字段不再消失。 <!-- GS-4543 -->
+
+* 当协作者在评论中添加@提及时，GenStudio现在会按预期加载用户。 以前，GenStudio未加载用户并显示此错误： `Unable to load users. Refresh the page`。<!-- GS-4113 -->
+
+* 当编辑者在提示区域中创建电子邮件期间单击&#x200B;**选择内容**&#x200B;时，GenStudio不再显示&#x200B;**发生错误**&#x200B;消息。<!-- GS-4879 -->
 
 ## 早期Beta版本
 
 早期Beta版本包括以下亮点和修复。
 
 ### 高亮
+
+* instagram和Facebook渠道准则已合并到元品牌准则中。
+
+* [!DNL Create]画布导航元素已简化。 [!DNL Create]登陆页面显示左侧导航面板，但用户现在使用&#x200B;**[!UICONTROL 后退]**&#x200B;按钮从其他[!DNL Create]工作区导航到此共享空间。
+
+* 导航元素已得到增强，可在执行整个产品（包括以下产品领域）中的任务时支持用户聚焦：
+
+   * [!DNL Content]中的资产、体验、模板详细信息
+   * [!DNL Insights]中的体验、资产、属性详细信息
+   * [!DNL Brands]中的品牌详细信息
+   * 产品和角色中的产品和角色详细信息
+
+* 用户无需再单击&#x200B;**[!UICONTROL 刷新]**&#x200B;按钮即可查看[!DNL Content]中体验的更新。
+
+* _Experience Details_&#x200B;页面现在将外部资源缩略图呈现为HTML。
+
+* 添加或删除Assets和体验后的UI延迟已得到改进。
+
+* 模板预览现在包含更具描述性的默认文本。 请参阅[自定义模板](https://experienceleague.adobe.com/en/docs/genstudio/user-guide/content/templates/customize-template#template-preview)。
 
 * **基于百分比的验证分数**：品牌验证现在以百分比的形式显示品牌验证分数，而不是通过/未通过值。 （固定8/16）
 
@@ -51,7 +90,7 @@ GenStudio for Performance Marketers GA版本中计划解决以下已知问题。
 
 * **元广告调整大小**：编辑器可以调整元广告长宽比。 （固定8/16）
 
-* **有限的Insights登录帐户**： Insights登录现在仅支持每个客户一个帐户。 （固定8/16）
+* **有限的[!DNL Insights]登录帐户**： [!DNL Insights]登录现在仅支持每个客户一个帐户。 （固定8/16）
 
 ### 其他增强功能和修复的问题
 
@@ -65,7 +104,8 @@ GenStudio for Performance Marketers GA版本中计划解决以下已知问题。
 
 ### 过去Beta版本中已解决的已知问题
 
+* 当用户尝试在[!DNL Insights]视图中输入凭据时，GenStudio显示错误。 （固定8/29） <!-- GS-4689 -->
+
 * 由于ACP存储平台问题，品牌指南上传失败。 （固定8/22） <!-- GS-4369 -->
 
 * 在电子邮件创建过程中，提示区域[!DNL Brands]下拉菜单会在[!DNL Brands]列表的末尾显示一个旋转图标。 （固定8/22） <!-- GS-4077 -->
-
