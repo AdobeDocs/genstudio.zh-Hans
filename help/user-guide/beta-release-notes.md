@@ -2,9 +2,9 @@
 title: 面向性能营销人员的Adobe GenStudioBeta发行说明
 description: 了解面向Performance Marketers的Adobe GenStudio的最新功能和增强功能。
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: ca5e746850925252679facc321d7522b251cd57a
+source-git-commit: 62793ab56b635f17e037b63beb56c09ff2d45621
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '731'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ## 新增功能
 
-* GenStudio现在支持在[!DNL Insights]中预览媒体资源的选项。 视频缩略图包含一个带有静音选项的&#x200B;**播放**&#x200B;按钮。<!-- GS-4398 -->
-
-* 现在可以在[!DNL Insights]中按类型`video`筛选Assets。<!-- GS-4398 -->
+* GenStudio现在支持在[!DNL Insights]表和图库视图中预览媒体资源的选项。 视频缩略图包含一个带有静音选项的&#x200B;**播放**&#x200B;按钮。<!-- GS-4398 -->
 
 ## 已知问题
 
