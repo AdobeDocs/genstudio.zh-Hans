@@ -2,9 +2,9 @@
 title: 面向性能营销人员的Adobe GenStudioBeta发行说明
 description: 了解面向Performance Marketers的Adobe GenStudio的最新功能和增强功能。
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: 2e40260db0f9972675b103c51f09acbfa83a1cb5
+source-git-commit: 2861dd76dde9428e0c39af18c1d5e21dc2b32b91
 workflow-type: tm+mt
-source-wordcount: '718'
+source-wordcount: '710'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ GenStudio for Performance Marketers GA版本中计划解决以下已知问题。
 
 * [!DNL Create Canvas]在元广告中错误地呈现图像。<!-- GS-4864 -->
 
-* 不含营销活动的Assets可以成功上传到[!DNL Content]，但用户可能无法看到。<!-- GS-4815 -->
+* 可以上传模板，但无法看到模板。<!-- GS-4815 -->
 
 * MetaAds画布预览和导出的视图之间存在差异。<!-- GS-4492 4401 -->
 
