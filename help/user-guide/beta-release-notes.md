@@ -2,9 +2,9 @@
 title: 面向性能营销人员的Adobe GenStudioBeta发行说明
 description: 了解面向Performance Marketers的Adobe GenStudio的最新功能和增强功能。
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: 62793ab56b635f17e037b63beb56c09ff2d45621
+source-git-commit: 2e40260db0f9972675b103c51f09acbfa83a1cb5
 workflow-type: tm+mt
-source-wordcount: '731'
+source-wordcount: '718'
 ht-degree: 0%
 
 ---
@@ -42,8 +42,6 @@ GenStudio for Performance Marketers GA版本中计划解决以下已知问题。
 * _添加Assets_&#x200B;弹出窗口现在已按预期本地化。<!-- GS-3834 -->
 
 * 元广告体验模板的缩放问题已得到解决。<!-- GS-4174 -->
-
-* 为模板创建的内容片段模型现在可以在AEM中精确表示。<!-- GS-4716 -->
 
 * 多部分电子邮件CSV导出文件中的文本字段现在按预期排序。<!-- GS-4013 -->
 
