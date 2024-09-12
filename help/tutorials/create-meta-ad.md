@@ -7,9 +7,9 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
+source-git-commit: 3827d8222bd548caf83288656d5f2af8d2248dec
 workflow-type: tm+mt
-source-wordcount: '1005'
+source-wordcount: '979'
 ht-degree: 0%
 
 ---
@@ -86,8 +86,8 @@ ht-degree: 0%
 
 * **要更改或选择行动号召**，请单击行动号召按钮，然后从可用按钮文本选项中选择。 在&#x200B;_[!UICONTROL 链接]_&#x200B;中，输入行动号召文本的链接。
 * **要[更改广告](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**&#x200B;的大小和纵横比，请单击&#x200B;_[!UICONTROL 调整大小]_&#x200B;按钮（画布左侧带有按钮图标的框），然后选择要应用于所有变体的新大小和纵横比。 将复制变体并调整其大小。
-* **要[重新生成变体的部分](/help/user-guide/create/manage-variants.md#re-generate-sections)**，请单击可编辑文本字段并使用&#x200B;_[!UICONTROL 建议的编辑]_&#x200B;选项，或者输入新提示并单击&#x200B;**[!UICONTROL 生成]**。
-<!-- * **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)** hover over an image, click **[!UICONTROL Apply Crop]**, and adjust the image size and placement. -->
+<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**.
+* **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)** hover over an image, click **[!UICONTROL Apply Crop]**, and adjust the image size and placement. -->
 * **要[删除元广告](/help/user-guide/create/manage-variants.md#delete-variant)**，请单击以选择广告标题（例如，“元4”），然后单击&#x200B;**[!UICONTROL 删除变体]**。
 
 ## 验证品牌一致性
