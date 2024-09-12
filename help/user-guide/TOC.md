@@ -4,9 +4,9 @@ breadcrumb-title: 用户指南
 user-guide-description: 了解如何根据实时内容性能见解快速查找和生成品牌内资产、创建变体并优化体验。
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: a7981565b23ea007b2634d8e050e921718bb1dcd
+source-git-commit: b71f53eca2a0fdd7bf353a2eaf0b1b4e657b18b0
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '129'
 ht-degree: 9%
 
 ---
@@ -29,6 +29,7 @@ ht-degree: 9%
    + [品牌验证](guidelines/brand-validation.md)
 + 创建{#create}
    + [[!DNL Create] 概述](create/overview.md)
+   + [管理变体](create/manage-variants.md)
 + 审阅和批准{#approve}
    + [审阅和批准概述](approvals/overview.md)
    + [请求审查和审批内容](approvals/request-review.md)
