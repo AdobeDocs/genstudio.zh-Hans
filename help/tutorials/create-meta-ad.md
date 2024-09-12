@@ -1,15 +1,15 @@
 ---
 title: 创建元广告体验
-description: 了解如何使用创作AI为Facebook或Instagram创建新的品牌上元广告体验。
-feature: Content, Brands Service, Guidelines, Content Generation
+description: 了解如何使用面向绩效营销人员的Adobe GenStudio为Facebook或Instagram创建新的品牌上元广告体验。
+feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: b71f53eca2a0fdd7bf353a2eaf0b1b4e657b18b0
+source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
 workflow-type: tm+mt
-source-wordcount: '1014'
+source-wordcount: '1005'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,7 @@ ht-degree: 0%
    * 单击&#x200B;**[!UICONTROL 从内容中选择]**&#x200B;以选择已发布到[!DNL Content]的资源（图像）。 使用筛选器进一步缩小搜索结果的范围。
    * 单击&#x200B;**[!UICONTROL 上传]**&#x200B;浏览您的文件并选择要使用的资源。 在浏览设备的同时，您还可以从Microsoft OneDrive或Dropbox导入。
    * 将资产拖放到&#x200B;_Content_&#x200B;部分中。
+1. 单击&#x200B;**[!UICONTROL 使用]**。
 
 添加完参数后，可通过再次单击&#x200B;_参数_&#x200B;图标来折叠提示区域。
 
@@ -67,7 +68,7 @@ ht-degree: 0%
 
 在生成元广告时，您可以在Facebook或Instagram广告之间进行选择。
 
-将顶部菜单栏中的“元广告渠道”选项切换为&#x200B;**Facebook**&#x200B;或&#x200B;**Instagram**，以管理每个渠道生成的草稿。
+切换右侧菜单栏中的“元广告”渠道选项(在&#x200B;**Facebook**&#x200B;和&#x200B;**Instagram**&#x200B;之间)以查看和管理每个渠道的变体(Facebook和Instagram图标)。
 
 在[修订元广告](#revise-generated-meta-ads)时，您可以更改Facebook和Instagram广告的长宽比。
 
@@ -77,6 +78,7 @@ ht-degree: 0%
 
 **要修订生成的变体**：
 
+
 * **要[编辑元广告草稿名称](/help/user-guide/create/manage-variants.md#change-draft-name)**，请单击画布顶部的&#x200B;_无标题草稿_&#x200B;标题并输入新标题。
 * **要[手动编辑元广告](/help/user-guide/create/manage-variants.md#manually-edit-text)**，请双击任意广告部分（如主题行、标题或正文）并根据需要进行编辑。
 
@@ -85,7 +87,7 @@ ht-degree: 0%
 * **要更改或选择行动号召**，请单击行动号召按钮，然后从可用按钮文本选项中选择。 在&#x200B;_[!UICONTROL 链接]_&#x200B;中，输入行动号召文本的链接。
 * **要[更改广告](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**&#x200B;的大小和纵横比，请单击&#x200B;_[!UICONTROL 调整大小]_&#x200B;按钮（画布左侧带有按钮图标的框），然后选择要应用于所有变体的新大小和纵横比。 将复制变体并调整其大小。
 * **要[重新生成变体的部分](/help/user-guide/create/manage-variants.md#re-generate-sections)**，请单击可编辑文本字段并使用&#x200B;_[!UICONTROL 建议的编辑]_&#x200B;选项，或者输入新提示并单击&#x200B;**[!UICONTROL 生成]**。
-* **要[裁切或重新定位图像](/help/user-guide/create/manage-variants.md#crop-assets)**&#x200B;将鼠标悬停在图像上，请单击&#x200B;**[!UICONTROL 应用裁切]**，然后调整图像大小和位置。
+<!-- * **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)** hover over an image, click **[!UICONTROL Apply Crop]**, and adjust the image size and placement. -->
 * **要[删除元广告](/help/user-guide/create/manage-variants.md#delete-variant)**，请单击以选择广告标题（例如，“元4”），然后单击&#x200B;**[!UICONTROL 删除变体]**。
 
 ## 验证品牌一致性

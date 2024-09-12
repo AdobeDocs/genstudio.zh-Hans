@@ -2,9 +2,9 @@
 title: 管理变体
 description: 根据您的数字营销需求，自定义和增强生成的变体和资产。
 feature: Content, Assets, Experiences
-source-git-commit: a6cf07179e888599860bc699ec17a3e8e4167e7b
+source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
 workflow-type: tm+mt
-source-wordcount: '726'
+source-wordcount: '684'
 ht-degree: 0%
 
 ---
@@ -55,30 +55,35 @@ GenStudio for Performance Marketers具有内置功能，可使用&#x200B;_[!UICO
 
    使用修订后的文本更新变体。
 
-## 裁切资源
+<!-- ## Crop assets
 
-您可以在单个生成的变量中手动裁切和重新定位图像资源。
+You can manually crop and reposition image assets in individual generated variants.
 
-**若要裁切和重新定位变量中的图像**：
+**To crop and reposition images in variants**:
 
-1. 生成一组变体后，将鼠标悬停在变体中的图像上。
-1. 单击&#x200B;**[!UICONTROL 应用裁切]**。
-1. 放大和缩小并将图像拖到所需位置。
-1. 单击&#x200B;**[!UICONTROL 应用]**。
+1. After generating a set of variants, hover over an image within a variant.
+1. Click **[!UICONTROL Apply Crop]**.
+1. Zoom in and out and drag the image into the desired position.
+1. Click **[!UICONTROL Apply]**.
 
-   裁剪的图像将自动保存并对变体可见。
+   The cropped image is automatically saved and visible for the variant. -->
 
 ## 更改宽高比
 
 您可以快速更改元广告的长宽比以适应所需的广告大小。
 
-可用的纵横比包括：
+可用的大小/长宽比包括：
 
-* 1:1正方形
-* 4:5垂直
-* 9:16垂直
+* 1:1方形(Meta)
+* 4:5垂直(Meta)
+* 9:16垂直(Meta)
+* 250 x 980（显示广告）
 
-**要更改生成的元广告的长宽比**：
+>[!NOTE]
+>
+>根据可用的模板，可以使用其他长宽比和尺寸。
+
+**要更改生成的变体的宽高比**：
 
 1. 生成一组变体后，选择画布左侧的长宽比调整大小图标（指向框角的箭头）。
 
