@@ -3,9 +3,9 @@ title: ' [!DNL Insights]概述'
 description: 了解如何基于实时内容性能指标优化体验。
 feature: Attributes, Insights, Experiences, Assets, Channels
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
-source-git-commit: 2a3085f535b4f161bd6e8bf321eac11357c44a5a
+source-git-commit: 0713b18ed1ca5a0b695fdcef4bd488cf87bf2040
 workflow-type: tm+mt
-source-wordcount: '533'
+source-wordcount: '522'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ### 体验
 
-[!DNL Insights] _[!UICONTROL 体验]_&#x200B;视图侧重于评估体验的有效性。 通过[!UICONTROL 体验]视图，可根据体验在指定日期范围内的广告投放位置分析该体验的量度。 通过单击&#x200B;_[!UICONTROL 广告名称]_，您可以访问所选体验中使用的资源列表，从而识别哪些组件对其整体成功做出了贡献。
+[!DNL Insights] _[!UICONTROL 体验]_&#x200B;视图侧重于评估体验的有效性。 通过[!UICONTROL 体验]视图，可根据体验在指定日期范围内的广告投放位置分析该体验的量度。 通过单击&#x200B;_[!UICONTROL 广告名称]_，您可以查看广告绩效指标、按广告投放位置列出的绩效以及属性。
 
 ### 资源
 

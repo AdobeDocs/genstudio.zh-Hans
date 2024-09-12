@@ -2,13 +2,13 @@
 title: 渠道概述
 description: 请参阅Adobe GenStudio中针对性能营销人员的营销活动的客户参与、性能、预算和支出的概述。
 feature: Insights, Channels
-source-git-commit: 2e76eadcc3281ea935dca383eb3db8c41b83e679
+exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
+source-git-commit: 13e49dd7bd36e842513baa6311373671da827926
 workflow-type: tm+mt
-source-wordcount: '675'
+source-wordcount: '688'
 ht-degree: 0%
 
 ---
-
 
 # 渠道概述
 
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 [!UICONTROL 渠道]表是使用基于渠道的广告营销活动来组织的。 表格左上方的筛选器（漏斗）图标会打开&#x200B;**[!UICONTROL 筛选器]**&#x200B;菜单，您可以从中从[!UICONTROL 帐户]、[!UICONTROL 状态]和[!UICONTROL 目标]列表中进行选择，以筛选表格中的促销活动。
 
-![渠道筛选器和表](../../assets/insights-channel-filter.png)
+![渠道筛选器和表](../../assets/insights-channels-filter.png)
 
-选择某个营销活动时，[!UICONTROL 体验]选项卡会打开并列出与该营销活动关联的广告名称。
+当您选择某个营销活动时，[[!UICONTROL 体验]选项卡](experiences.md)将打开一个与该营销活动关联的广告名称列表，通过该列表，您可以识别哪些体验为其整体成功做出了贡献。
 
 ## 目标
 
