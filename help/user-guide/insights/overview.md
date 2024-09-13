@@ -3,7 +3,7 @@ title: ' [!DNL Insights]概述'
 description: 了解如何基于实时内容性能指标优化体验。
 feature: Attributes, Insights, Experiences, Assets, Channels
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
-source-git-commit: 0713b18ed1ca5a0b695fdcef4bd488cf87bf2040
+source-git-commit: a531ef2a7869a3f8e19fccd17b7acda54a767f6b
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 0%
