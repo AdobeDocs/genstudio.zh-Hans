@@ -4,7 +4,7 @@ description: 了解如何为性能营销人员设置GenStudio以生成新的品�
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
-source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
+source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
 workflow-type: tm+mt
 source-wordcount: '1106'
 ht-degree: 1%
@@ -38,7 +38,7 @@ GenStudio for Performance Marketers是一个全面的平台，用于创建、评
 
 ### GenStudio编辑器
 
-**编辑者**&#x200B;具有为Performance Marketers [!DNL Brands]、[!DNL Campaigns]和[!DNL Content]资源创建GenStudio所需的核心权限。 他们还可以编辑和删除自己创建的资产。 GenStudio性能营销人员支持快速创建数百个内容。 这些用户可生成内容部分或整个体验，这些部分或体验可编排已批准内容的离散片段，以满足特定营销活动的需求。
+**编辑者**&#x200B;具有为Performance Marketers [!DNL Brands]、[!DNL Campaigns]和[!DNL Content]资源创建GenStudio所需的核心权限。 他们还可以编辑和删除自己创建的资产。 GenStudio性能营销人员支持快速创建数百个内容。 这些用户可以生成内容片段或整个体验，这些片段或体验可以编排已批准内容的离散片段，以满足特定营销活动的需求。
 
 编辑人员通过&#x200B;_提示_&#x200B;与GenStudio交互，以获得性能营销人员的创作AI技术。 画布中的提示区域提供了一些工具，用于在特定营销活动准则的上下文中放置提示。 因此，生成的内容的质量和成功部分取决于贵组织上传的品牌指南的质量以及提示的特定性。
 

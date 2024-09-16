@@ -2,9 +2,9 @@
 title: 针对性能营销人员Tutorials的Adobe GenStudio
 description: 了解如何按照针对性能营销人员的GenStudio教程，完成端到端流程，例如创建电子邮件体验。
 exl-id: f4afb6c8-67d0-4499-84e8-0ab819543b59
-source-git-commit: 1833ff2ee3f6fb6244d77c243fab6a09daa2dad3
+source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -37,16 +37,16 @@ Adobe GenStudio绩效营销人员教程遵循基本的分步工作流程，这�
    <p>
       <em>了解如何创建品牌一致的元广告体验。</em>
    </p>
-</td>
+</td><!-- 
 <td valign="top">
    <div>
-      <a href="create-display-ad.md">
-      <img alt="创意、书籍、铅笔、计算机" src="../assets/card-create-assets.png">
-      <strong>创建显示广告体验</strong>
+      <a href="create-email-experience.md">
+      <img alt="Ideas, books, pencil, computer" src="../assets/card-create-assets.png">
+      <strong>Create an email experience</strong>
       </a>
    </div>
    <p>
-      <em>了解如何创建品牌导向的显示广告体验。</em>
+      <em>Learn how to create an on-brand Email experience.</em>
    </p>
-</td>
+</td> -->
 </table>

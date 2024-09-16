@@ -3,9 +3,9 @@ title: 面向性能营销人员的GenStudio概述 [!DNL Create]
 description: 使用创作AI在Adobe GenStudio中为性能营销人员 [!DNL Create]快速生成高性能、按品牌划分的内容。
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
+source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '503'
 ht-degree: 1%
 
 ---
@@ -18,7 +18,8 @@ GenStudio性能营销人员[!DNL Create]利用AdobeGenAI的强大功能，使营
 
 * 电子邮件
 * 元广告
-* 显示广告
+<!-- * Social media images and ads
+* Display ads -->
 
 除了[指南](/help/user-guide/guidelines/overview.md)—[!DNL Brands]、[!DNL Products]和[!DNL Personas]—[内容](/help/user-guide/content/overview.md)、[审核和批准](/help/user-guide/approvals/overview.md)和[分析](/help/user-guide/insights/overview.md)、[!DNL Create]的强大功能外，还有助于创建有效的品牌一致营销内容。
 
@@ -103,17 +104,10 @@ GenStudio绩效营销人员对品牌标识的各个方面进行品牌验证（�
 
 生成完内容变体后，将草稿发送给利益相关者以供审批，以便将它们保存到[!DNL Content]并在营销工作中实施。
 
-### 管理变体
-
-GenStudio性能营销人员允许[全面控制各个变体的各个部分](/help/user-guide/create/manage-variants.md)。
-
-您可以修订单个变体的各个部分，重新生成各个部分的内容，并使用建议的编辑来改进消息、调整资源大小等等，所有这些都在画布中。
-
 ## 教程
 
 * [创建电子邮件体验](/help/tutorials/create-email-experience.md)
 * [创建元广告体验](/help/tutorials/create-meta-ad.md)
-* [创建显示广告体验](/help/tutorials/create-display-ad.md)
 
 <!-- ### Anatomy of an email experience
 

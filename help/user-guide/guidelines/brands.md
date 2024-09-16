@@ -3,10 +3,10 @@ title: 面向性能营销人员的GenStudio [!DNL Brands]
 description: GenStudio for Performance Marketers [!DNL Brands] 是一系列全面的品牌资产，包括营销文案、图像、体验等，可用于指导创建品牌一致的内容。
 feature: Brands Service, Guidelines
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
-source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
+source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
 workflow-type: tm+mt
 source-wordcount: '800'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -45,9 +45,9 @@ GenStudio for Performance营销人员使用来自您品牌的丰富品牌信息�
 
 每个渠道都有特定的内在准则，这些准则会影响渠道资产组合。
 
-下表显示了每个渠道部分、可用的渠道、部分描述、准则示例和示例结果。
+下表显示了每个渠道片段、可用的渠道、片段的描述、准则示例和示例结果。
 
-| 区域 | 渠道 | 描述 | 最佳实践 |
+| 片段 | 渠道 | 描述 | 最佳实践 |
 | ------------------| --------- | --------- | -------- |
 | 常规 | 电子邮件、社交广告 | 第二个主题行或电子邮件预览文本 | 定义总体语调/情绪以使其在整个电子邮件中保持一致（2-5准则）。<br>_示例_：“保持友好和亲切的语调”、“避免过于正式的语言”<br><br> |
 | 主题 | 电子邮件 | 用于总结电子邮件内容的引人入胜且有趣的标题 | 就语调、长度等提供具体指导（2-5条指南）。 在&#x200B;_示例_&#x200B;部分中添加以前成功的主题行，以获得更好的质量输出。<br>_示例_：“将主题与电子邮件正文对齐” |
