@@ -2,9 +2,9 @@
 title: 面向性能营销人员的Adobe GenStudioBeta发行说明
 description: 了解面向Performance Marketers的Adobe GenStudio的最新功能和增强功能。
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: 5f729070a3a4c162ebac0fde9814c649c9984b4d
+source-git-commit: d1904bfe6e5775f71290c2fc7aa185ac2a4a4668
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -33,11 +33,11 @@ GenStudio for Performance Marketers GA版本中计划解决以下已知问题。
 
 ### 其他增强功能和修复的问题
 
-* [!DNL Create]画布错误地呈现了元广告中的图像。<!-- GS-4864 -->
+* [!DNL Create]画布现在正确呈现元广告中的图像。<!-- GS-4864 -->
 
 * 尽管元广告画布预览和导出的视图之间可能存在差异，但导出的体验会按预期工作。<!-- GS-4492 4401 -->
 
-* 上传的图像并不总是包含预期的智能标记。<!-- GS-4856 -->
+* 现在，上传的图像包含预期的智能标记。<!-- GS-4856 -->
 
 * 元广告导出CSV文件现在按预期包含图像。 以前，ZIP文件包含CSV导出文件和NULL文件，而不是图像。 <!-- GS-5107 -->
 
