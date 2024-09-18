@@ -4,10 +4,10 @@ breadcrumb-title: 用户指南
 user-guide-description: 了解如何根据实时内容性能见解快速查找和生成品牌内资产、创建变体并优化体验。
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: b538268ec0238fd38c12ae8f32c0df551890d878
+source-git-commit: 476d36dd64607221be0b16f38f251db40e2cf907
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 10%
+source-wordcount: '132'
+ht-degree: 9%
 
 ---
 
@@ -39,8 +39,9 @@ ht-degree: 10%
    + [Publish批准的内容](approvals/publish-content.md)
 + 内容{#content}
    + [内容概述](content/overview.md)
-   + [资源详细信息](content/asset-details.md)
    + [管理资源](content/manage-assets.md)
+   + [连接AEM存储库](content/connect-aem-repo.md)
+   + [资源详细信息](content/asset-details.md)
    + 模板 {#templates}
       + [使用模板](content/use-templates.md)
       + [自定义模板](content/customize-template.md)
