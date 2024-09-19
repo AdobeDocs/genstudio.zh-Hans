@@ -3,10 +3,10 @@ title: 面向性能营销人员的GenStudio [!DNL Brands]
 description: GenStudio for Performance Marketers [!DNL Brands] 是一系列全面的品牌资产，包括营销文案、图像、体验等，可用于指导创建品牌一致的内容。
 feature: Brands Service, Guidelines
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
-source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
+source-git-commit: 1991e59c0badc0cdde92b863d6c8528e7ca31a38
 workflow-type: tm+mt
 source-wordcount: '800'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ GenStudio for Performance营销人员使用来自您品牌的丰富品牌信息�
 
 1. 在左侧导航区域中，单击&#x200B;**[!UICONTROL [!DNL Brands]]**。
 1. 要查看品牌的概述信息，请单击以打开已定义的品牌。
-1. 要查看个人详细信息或修改品牌，请单击顶部的&#x200B;**[!UICONTROL 品牌语音指南]**、**[!UICONTROL 渠道指南]**、**[!UICONTROL 图像指南]**&#x200B;或&#x200B;**[!UICONTROL 徽标]**。
+1. 要查看个人详细信息或修改品牌，请单击顶部的[**[!UICONTROL 品牌语音指南]**](#brand-voice-guidelines)、[**[!UICONTROL 渠道指南]**](#channel-guidelines)、**[!UICONTROL 图像指南]**&#x200B;或&#x200B;**[!UICONTROL 徽标]**。
 
 您可以将品牌准则文档(最多三个PDF或DOC文件)上传到GenStudio，以便性能营销人员自动创建品牌。 请参阅[添加准则](add-guidelines.md)，了解如何向GenStudio性能营销人员添加品牌、修改品牌并进行发布等。
 
@@ -45,9 +45,9 @@ GenStudio for Performance营销人员使用来自您品牌的丰富品牌信息�
 
 每个渠道都有特定的内在准则，这些准则会影响渠道资产组合。
 
-下表显示了每个渠道片段、可用的渠道、片段的描述、准则示例和示例结果。
+下表显示了每个渠道部分、可用的渠道、部分描述、准则示例和示例结果。
 
-| 片段 | 渠道 | 描述 | 最佳实践 |
+| 区域 | 渠道 | 描述 | 最佳实践 |
 | ------------------| --------- | --------- | -------- |
 | 常规 | 电子邮件、社交广告 | 第二个主题行或电子邮件预览文本 | 定义总体语调/情绪以使其在整个电子邮件中保持一致（2-5准则）。<br>_示例_：“保持友好和亲切的语调”、“避免过于正式的语言”<br><br> |
 | 主题 | 电子邮件 | 用于总结电子邮件内容的引人入胜且有趣的标题 | 就语调、长度等提供具体指导（2-5条指南）。 在&#x200B;_示例_&#x200B;部分中添加以前成功的主题行，以获得更好的质量输出。<br>_示例_：“将主题与电子邮件正文对齐” |

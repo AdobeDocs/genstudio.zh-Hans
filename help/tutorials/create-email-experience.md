@@ -1,15 +1,15 @@
 ---
 title: 创建电子邮件体验
-description: 了解如何在Adobe [!DNL GenStudio]中创建电子邮件体验。
-feature: Content, Brands Service, Guidelines, Content Generation
+description: 了解如何在Adobe [!DNL GenStudio] 中为性能营销人员创建电子邮件体验。
+feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
+source-git-commit: a00d4fcaabb97eae69294ddc9689179842d49512
 workflow-type: tm+mt
-source-wordcount: '813'
+source-wordcount: '853'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,7 @@ ht-degree: 0%
    * 单击&#x200B;**[!UICONTROL 从内容中选择]**&#x200B;以选择已发布到[!DNL Content]的资源（图像）。 使用筛选器进一步缩小搜索结果的范围。
    * 单击&#x200B;**[!UICONTROL 上传]**&#x200B;浏览您的文件并选择要使用的资源。 在浏览设备的同时，您还可以从Microsoft OneDrive或Dropbox导入。
    * 将资产拖放到&#x200B;_Content_&#x200B;部分中。
+1. 单击&#x200B;**[!UICONTROL 使用]**。
 
 >[!NOTE]
 >
@@ -69,16 +70,20 @@ ht-degree: 0%
 
 ## 修订生成的电子邮件
 
-在选择要发送哪些内容以供审批或发布到[!DNL Content]之前，您可以编辑电子邮件片段或从生成的电子邮件集中删除变体。
+在选择要发送哪些内容以供审批或发布到[!DNL Content]之前，您可以编辑电子邮件部分或从生成的电子邮件集中删除变体。
 
 **要修订生成的变体**：
 
-* **要编辑电子邮件草稿名称**，请单击画布顶部的&#x200B;_无标题草稿_&#x200B;标题并输入新标题。
-* **要手动编辑电子邮件**，请双击任何电子邮件片段（如主题行、标题或正文）并根据需要进行编辑。
+* **要[编辑电子邮件草稿名称](/help/user-guide/create/manage-variants.md#change-draft-name)**，请单击画布顶部的&#x200B;_无标题草稿_&#x200B;标题并输入新标题。
+* **要[手动编辑电子邮件](/help/user-guide/create/manage-variants.md#manually-edit-text)**，请双击任何可编辑的文本字段（如主题行、标题或正文）并根据需要进行编辑。
+<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
+* **要[删除电子邮件](/help/user-guide/create/manage-variants.md#delete-variant)**，请单击以选择电子邮件标题（例如，“电子邮件1/4”），然后单击&#x200B;**[!UICONTROL 删除变体]**。
 
-  只需单击主题行和预览标题即可编辑，而标题、正文和行动号召则需要双击。
+## 设备预览
 
-* **要删除电子邮件**，请单击以选择电子邮件标题（例如，“电子邮件1/4”），然后单击&#x200B;**[!UICONTROL 删除变体]**。
+在修订和准备电子邮件体验时，您可以在桌面视图和移动设备视图的预览之间切换，以确保草稿变体的一致性和视觉吸引力。
+
+**要预览桌面和移动设备的变体**，请在右侧菜单栏（计算机和电话图标）中切换设备预览选项（在&#x200B;**桌面**&#x200B;和&#x200B;**移动设备**&#x200B;之间）以预览变体的显示方式。
 
 ## 验证品牌一致性
 
@@ -87,7 +92,7 @@ ht-degree: 0%
 **验证品牌一致性**：
 
 1. 单击变体的[**[!UICONTROL [!DNL Brand]准则检查]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check)图标，并查看针对您的品牌检查该变体时的性能摘要。
-1. 若要获取需要改进的片段的详细信息和指南，请单击&#x200B;**[!UICONTROL 查看]** _或_，单击顶部菜单栏中的“品牌验证”图标以打开&#x200B;[_品牌验证面板_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)。
+1. 若要获取需要改进的部分和准则的详细信息，请单击&#x200B;**[!UICONTROL 查看]** _或_，单击顶部菜单栏中的“品牌验证”图标以打开&#x200B;[_品牌验证面板_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)。
 
 1. 切换每封电子邮件，了解如何改进生成的内容，使其更具品牌一致性。
 1. [手动修改电子邮件](#revise-generated-emails)以确保您的电子邮件与品牌紧密一致。

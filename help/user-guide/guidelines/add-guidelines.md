@@ -4,13 +4,13 @@ description: 了解如何在Adobe GenStudio中为性能营销人员添加准则�
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: b383295810d4bd1b37227cf689ee76687e940f03
+exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
+source-git-commit: 7fd93bae4d81021d328e941710152e7d3aa20b76
 workflow-type: tm+mt
-source-wordcount: '944'
+source-wordcount: '968'
 ht-degree: 0%
 
 ---
-
 
 # 添加准则
 
@@ -25,6 +25,9 @@ ht-degree: 0%
 若要向GenStudio性能营销人员添加品牌，您可以[上传品牌指南](#upload-brand-guidelines)或[通过选择指南并输入品牌详细信息来手动创建品牌](#manually-add-brand)。 [将品牌](#publish-brand)Publish到[!DNL Content]以使其可用于未来生成内容。
 
 在左侧导航区域中，单击&#x200B;**[!DNL Brands]**。 在&#x200B;_[!DNL Brands]_面板中，选择&#x200B;**添加品牌**。
+
+>[!TIP]
+>每个品牌独立运作，没有层级关系。 要在父品牌下创建子品牌，请在创建过程中包含父品牌的信息。
 
 ### 通过上传添加品牌
 
