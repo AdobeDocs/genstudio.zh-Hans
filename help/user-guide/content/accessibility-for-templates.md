@@ -2,13 +2,13 @@
 title: 创建无障碍模板
 description: 在Adobe GenStudio中为性能营销人员构建模板，这些模板能够吸引更多受众并提供最佳体验。
 feature: Templates, Content
-source-git-commit: c891f876fe5a7c75487fcba6552a213533f0b609
+exl-id: eaaa5d9f-ad45-4fd0-826d-c250deb6d238
+source-git-commit: 088049a25635f5e9469c16c6ddfe9db86afdc143
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
-
 
 # 创建无障碍模板
 
@@ -27,6 +27,13 @@ Adobe致力于为所有受众提供最佳体验。 请参阅Adobe](https://www.a
 ```
 
 ![创意拼贴、书籍、拿着巨铅笔的男人、计算机](../../assets/card-create-assets.png){width="400"}
+
+## 对比度
+
+在文本和背景之间提供相应的对比度。 使用以下最小对比度：
+
+- 文本的文本和图像：对比度至少为4.5:1
+- 大型文本和图像大型文本：对比度至少为3:1
 
 ## 链接目的（仅限链接）
 
