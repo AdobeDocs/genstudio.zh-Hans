@@ -1,13 +1,13 @@
 ---
-user-guide-title: 《Adobe GenStudio性能营销人员用户指南》
+user-guide-title: 面向 Performance Marketers 的 Adobe GenStudio 用户指南
 breadcrumb-title: 用户指南
-user-guide-description: 了解如何根据实时内容性能见解快速查找和生成品牌内资产、创建变体并优化体验。
+user-guide-description: 了解如何快速查找和生成品牌资产、创建变体并根据实时内容性能洞察优化体验。
 feature-set: GenStudio
 feature: Generative AI
 source-git-commit: 81cbd495027e50afae2a178d4465703f3df0c950
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 9%
+ht-degree: 29%
 
 ---
 

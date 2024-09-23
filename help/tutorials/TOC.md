@@ -7,12 +7,12 @@ feature: Generative AI
 source-git-commit: dab19da0063d6f4f4497112c4063bfc9c285e651
 workflow-type: tm+mt
 source-wordcount: '41'
-ht-degree: 4%
+ht-degree: 9%
 
 ---
 
 
-# Adobe[!DNL GenStudio]Tutorials {#learning}
+# Adobe [!DNL GenStudio] 教程 {#learning}
 
 + [[!DNL GenStudio] 教程](tutorials.md)
 + [创建电子邮件体验](create-email-experience.md)
