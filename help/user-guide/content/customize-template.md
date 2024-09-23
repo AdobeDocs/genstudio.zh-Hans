@@ -3,13 +3,13 @@ title: 自定义模板
 description: 了解如何个性化和优化您的模板以进行高性能营销人员的Adobe GenStudio。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 909ac53580e672df1adf0c73e67a32f2c045dc35
+exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
+source-git-commit: 8ea0c17b60b18928540070448ad1ce0206208b00
 workflow-type: tm+mt
 source-wordcount: '1032'
 ht-degree: 0%
 
 ---
-
 
 # 自定义模板
 
@@ -98,21 +98,21 @@ _节_&#x200B;通知GenStudio性能营销人员此节中的字段需要高度一�
 
 在字段名称中使用您选择的前缀来指示字段是部分或组的一部分。 例如，您可能希望突出显示区域中显示的内容：
 
-- `spotlight_headline`
-- `spotlight_body`
+- `pod1_headline`
+- `pod1_body`
 
-每个部分只能使用每种字段类型中的一种。 在上述示例中，`spotlight`节只能使用一个`spotlight_headline`字段。
+每个部分只能使用每种字段类型中的一种。 在上述示例中，`pod1`节只能使用一个`pod1_headline`字段。
 
 一个模板最多可以包含三个部分：
 
 - `headline`
 - `body`
-- `spotlight_headline`
-- `spotlight_body`
-- `news_headline`
-- `news_body`
+- `pod1_headline`
+- `pod1_body`
+- `pod2_headline`
+- `pod2_body`
 
-GenStudio性能营销人员了解`spotlight_headline`与`spotlight_body`的关系比`news_body`更密切。
+GenStudio性能营销人员了解`pod1_headline`与`pod1_body`的关系比`pod2_body`更密切。
 
 ## 模板预览
 
@@ -224,14 +224,18 @@ GenStudio性能营销人员了解`spotlight_headline`与`spotlight_body`的关�
                 width="600" height="600"
                 border="0"/></p>
         <p>{{ body }}</p>
+    <!-- Pod1 -->
         <div class="pod">
-            <h2>{{ pod1_headline }}</h2>
-            <p>This is Pod 1 content.</p>
+            <h2>{{ pod1_header }}</h2>
+            <p>{{ pod1_body }}</p>
         </div>
+        <!-- End of Pod1 -->
+    <!-- Pod2 -->
         <div class="pod">
-            <h2>{{ pod2_headline }}</h2>
-            <p>This is Pod 2 content.</p>
+            <h2>{{ pod2_header }}</h2>
+            <p>{{ pod2_body }}</p>
         </div>
+        <!-- End of Pod2 -->
     </div>
 </body>
 </html>
@@ -293,4 +297,3 @@ GenStudio性能营销人员了解`spotlight_headline`与`spotlight_body`的关�
 ```
 
 +++
-
