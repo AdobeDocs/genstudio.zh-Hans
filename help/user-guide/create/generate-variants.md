@@ -1,13 +1,13 @@
 ---
-title: 为性能营销人员内容生成Adobe GenStudio变量
-description: 了解如何在Adobe GenStudio中为性能营销人员生成所创建内容的变体。
+title: 为绩效营销内容生成Adobe GenStudio变体
+description: 了解如何在Adobe GenStudio中为性能营销生成所创建内容的变体。
 feature: Content, Brands Service, Variant Generation, Content Generation
 role: User
 level: Beginner
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: e99fadb7c440adbfa52759d6b392e08d0ee6d155
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ## 电子邮件
 
-默认情况下，GenStudio性能营销人员会生成四个电子邮件变体。 使用新提示和&#x200B;_参数_&#x200B;的组合可以手动修改或重新生成它们，以实现风格目标或品牌忠诚度。
+默认情况下，GenStudio for Performance Marketing会生成四个电子邮件变体。 使用新提示和&#x200B;_参数_&#x200B;的组合可以手动修改或重新生成它们，以实现风格目标或品牌忠诚度。
 
 **要修改生成的电子邮件变体：**
 

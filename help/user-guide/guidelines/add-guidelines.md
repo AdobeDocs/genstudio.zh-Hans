@@ -1,11 +1,11 @@
 ---
-title: 将准则添加到针对性能营销人员的Adobe GenStudio
-description: 了解如何在Adobe GenStudio中为性能营销人员添加准则（[!DNL Brands]、 [!DNL Products]和 [!DNL Personas]）。
+title: 向Adobe GenStudio中添加准则以进行性能营销
+description: 了解如何在Adobe GenStudio中为性能营销添加准则 — [!DNL Brands]、 [!DNL Products]和 [!DNL Personas]。
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
 exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
-source-git-commit: 7fd93bae4d81021d328e941710152e7d3aa20b76
+source-git-commit: 86f9c94956b7e4891aa237ad00428753903d2839
 workflow-type: tm+mt
 source-wordcount: '968'
 ht-degree: 0%
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 # 添加准则
 
-[[!DNL Brands]](/help/user-guide/guidelines/brands.md)、[[!DNL Products]](/help/user-guide/guidelines/products.md)和[[!DNL Personas]](/help/user-guide/guidelines/personas.md)是GenStudio中面向性能营销人员的用户定义的准则，可确保自定义任何AI生成的内容以符合品牌标识，从而实现内容的有效个性化。
+[[!DNL Brands]](/help/user-guide/guidelines/brands.md)、[[!DNL Products]](/help/user-guide/guidelines/products.md)和[[!DNL Personas]](/help/user-guide/guidelines/personas.md)是GenStudio中用于性能营销的用户定义准则，可确保自定义任何AI生成的内容以符合品牌标识，从而实现内容的有效个性化。
 
 请参阅[指南概述](/help/user-guide/guidelines/overview.md)。
 
-将准则添加到面向性能营销人员的GenStudio是创建过程中的重要步骤。 准则告知内容创建过程，以及用户定义的提示和Adobe创作AI技术，以制作有影响力的资源。
+将准则添加到GenStudio以进行性能营销是创建过程中的重要步骤。 准则告知内容创建过程，以及用户定义的提示和Adobe创作AI技术，以制作有影响力的资源。
 
 ## 添加[!DNL Brands]
 
-若要向GenStudio性能营销人员添加品牌，您可以[上传品牌指南](#upload-brand-guidelines)或[通过选择指南并输入品牌详细信息来手动创建品牌](#manually-add-brand)。 [将品牌](#publish-brand)Publish到[!DNL Content]以使其可用于未来生成内容。
+若要将品牌添加到GenStudio以进行性能营销，您可以[上传品牌指南](#upload-brand-guidelines)或[通过选择准则并输入品牌详细信息来手动创建品牌](#manually-add-brand)。 [将品牌](#publish-brand)Publish到[!DNL Content]以使其可用于未来生成内容。
 
 在左侧导航区域中，单击&#x200B;**[!DNL Brands]**。 在&#x200B;_[!DNL Brands]_面板中，选择&#x200B;**添加品牌**。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ### 通过上传添加品牌
 
-您可以上传自己的品牌文档，以在GenStudio中为性能营销人员填充新品牌。
+您可以上传自己的品牌文档，以在GenStudio中填充新品牌以进行性能营销。
 
 请参阅[[!DNL Brands]](/help/user-guide/guidelines/brands.md)。
 
@@ -44,13 +44,13 @@ ht-degree: 0%
 
 1. 选择&#x200B;**[!UICONTROL 添加品牌]**。
 
-使用Adobe的创作AI技术，GenStudio for Performance营销人员从您上传的文档中提取信息并开始构建您的品牌。 您会看到品牌信息（如品牌声音、渠道和图像指南）作为GenStudio填充以提高性能，营销人员会从品牌文档中汇编每个指南。
+使用Adobe的创作AI技术，GenStudio for Performance Marketing从您上传的文档中提取信息并开始构建您的品牌。 您会看到品牌信息（如品牌声音、渠道和图像指南）被填充为GenStudio以便进行高性能营销，这些信息组合来自您的品牌文档的每个指南。
 
 弹出窗口提醒您在[发布品牌](#publish-brand)之前查看提取的内容。
 
 ### 手动添加品牌
 
-您可以在GenStudio for Performance Marketers中手动添加品牌详细信息，而不是上传现有品牌文档，以填充新的[品牌](brands.md)。
+您可以在GenStudio中手动添加品牌详细信息以填充[品牌](brands.md)，而不是上传现有的品牌文档，以进行性能营销。
 
 **要手动添加品牌**：
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 要查看您创建的[!DNL Brands]，请单击&#x200B;_Brand_&#x200B;面板顶部附近的向后箭头以导航回&#x200B;_[!DNL Brands]_主页。
 
-您无需[发布](#publish-brand)您的品牌即可访问信息。 任何手动添加的信息在添加后立即可用。 对于贵组织中的其他人要在GenStudio中使用Performance Marketers中的品牌信息，您必须发布该品牌信息。
+您无需[发布](#publish-brand)您的品牌即可访问信息。 任何手动添加的信息在添加后立即可用。 对于贵组织中的其他人要在GenStudio中使用品牌信息进行Performance Marketing，您必须发布该品牌信息。
 
 ### Publish品牌
 
@@ -97,7 +97,7 @@ ht-degree: 0%
 
 ## 添加[!DNL Products]
 
-您可以在GenStudio中添加[!DNL Products]，以便性能营销人员在创建内容时指定各个产品关注区域。<!-- Add Rename, display, reposition functionality -->
+您可以在GenStudio for Performance Marketing中添加[!DNL Products]，以在创建内容时指定各个产品重点区域。<!-- Add Rename, display, reposition functionality -->
 
 请参阅[[!DNL Products]](products.md)。
 
@@ -124,7 +124,7 @@ ht-degree: 0%
 
 ## 添加[!DNL Personas]
 
-您可以在GenStudio中为性能营销人员添加[!DNL Persona]，以帮助将您创建的内容定位到您的理想受众。
+您可以在GenStudio for Performance Marketing中添加[!DNL Persona]，以帮助将您创建的内容定位到理想受众。
 
 请参阅[[!DNL Personas]](personas.md)。
 

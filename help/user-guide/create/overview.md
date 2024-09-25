@@ -1,18 +1,18 @@
 ---
-title: 面向性能营销人员的GenStudio概述 [!DNL Create]
-description: 使用创作AI在Adobe GenStudio中为性能营销人员 [!DNL Create]快速生成高性能、按品牌划分的内容。
+title: 面向性能营销的GenStudio概述 [!DNL Create]
+description: 使用创作AI在Adobe GenStudio中为性能营销 [!DNL Create]快速生成高性能、品牌内内容。
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: dab19da0063d6f4f4497112c4063bfc9c285e651
+source-git-commit: e99fadb7c440adbfa52759d6b392e08d0ee6d155
 workflow-type: tm+mt
 source-wordcount: '547'
 ht-degree: 1%
 
 ---
 
-# 面向性能营销人员的GenStudio [!DNL Create]
+# GenStudio性能营销[!DNL Create]
 
-GenStudio性能营销人员[!DNL Create]利用AdobeGenAI的强大功能，使营销人员和分散的团队能够创建高性能、品牌化的体验。
+GenStudio for Performance Marketing [!DNL Create]利用AdobeGenAI的强大功能，使营销人员和分散的团队能够创建高性能、品牌化的体验。
 
 通过[!DNL Create]，您可以为以下渠道生成内容：
 
@@ -60,13 +60,13 @@ GenStudio性能营销人员[!DNL Create]利用AdobeGenAI的强大功能，使营
 </tr>
 </table>
 
-GenStudio for Performance营销人员允许营销人员&#x200B;**创建新的营销内容**。 在此使用案例中，使用定义的[指南](/help/user-guide/guidelines/overview.md)和灵感图像来指导创建品牌一致的内容。
-<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio for Performance Marketers and use the power of Adobe generative AI technology to revise and improve existing content. 
+GenStudio for Performance Marketing使营销人员能够&#x200B;**创建新的营销内容**。 在此使用案例中，使用定义的[指南](/help/user-guide/guidelines/overview.md)和灵感图像来指导创建品牌一致的内容。
+<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio for Performance Marketing and use the power of Adobe generative AI technology to revise and improve existing content. 
 * **Generate variants of approved content** - In this use case, [generate variations of content that is approved by stakeholders](generate-variants.md) and published to [!DNL Content]. -->
 
 ## [!DNL Create]功能
 
-[!DNL Create]集成了GenStudio for Performance Marketers的各种组件以帮助用户生成内容。
+[!DNL Create]集成了GenStudio for Performance Marketing的各种组件以帮助用户生成内容。
 
 ### 草稿
 
@@ -92,11 +92,11 @@ GenStudio for Performance营销人员允许营销人员&#x200B;**创建新的营
 
 _参数_&#x200B;中上传的图像用于生成的变体中，并通知为变体生成的复制内容（文本）。
 
-这些添加的参数将[准则](/help/user-guide/guidelines/overview.md)和资产注入生成过程，确保内容已自定义以符合品牌的综合标识。 建议向GenStudio的绩效营销人员添加准则并在内容生成过程中使用，因为这些准则可显着增强创建合适的品牌内内容。
+这些添加的参数将[准则](/help/user-guide/guidelines/overview.md)和资产注入生成过程，确保内容已自定义以符合品牌的综合标识。 建议向GenStudio中添加准则以进行性能营销，并在内容生成过程中使用它们，因为它们可以极大地增强合适品牌内内容的创建过程。
 
 ### 品牌验证
 
-GenStudio绩效营销人员对品牌标识的各个方面进行品牌验证（如[指南](/help/user-guide/guidelines/overview.md)中所定义）。 [品牌验证](/help/user-guide/guidelines/brand-validation.md)信息可用于任何生成的内容，指示其符合品牌准则以及文本和图像的一致性。 您可以使用此信息修改或改进生成的体验，更好地与您的品牌保持一致。
+GenStudio for Performance Marketing对品牌标识的各个方面进行品牌验证（如[指南](/help/user-guide/guidelines/overview.md)中所定义）。 [品牌验证](/help/user-guide/guidelines/brand-validation.md)信息可用于任何生成的内容，指示其符合品牌准则以及文本和图像的一致性。 您可以使用此信息修改或改进生成的体验，更好地与您的品牌保持一致。
 
 ### 审阅和批准
 
@@ -106,7 +106,7 @@ GenStudio绩效营销人员对品牌标识的各个方面进行品牌验证（�
 
 ### 管理变体
 
-GenStudio性能营销人员允许[全面控制各个变体的各个部分](/help/user-guide/create/manage-variants.md)。
+GenStudio for Performance Marketing允许[全面控制各个变体](/help/user-guide/create/manage-variants.md)的各个部分。
 
 您可以修订单个变体的各个部分，重新生成各个部分的内容，并使用建议的编辑来改进消息、调整资源大小等等，所有这些都在画布中。
 

@@ -1,13 +1,13 @@
 ---
 title: 创建元广告体验
-description: 了解如何通过针对性能营销人员的Adobe GenStudio为Facebook或Instagram创建品牌上元广告体验。
+description: 了解如何通过针对性能营销的Adobe GenStudio为Facebook或Instagram创建品牌上元广告体验。
 feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: c102556fb1c95b70dc724252e4ecdc9ce10c89e7
+source-git-commit: c0fd13e26f44c44c4d63bf285c421ef3dd5da975
 workflow-type: tm+mt
 source-wordcount: '952'
 ht-degree: 0%
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 # 创建元广告体验
 
-本教程将演示如何使用GenStudio为性能营销人员[[!DNL Create]](/help/user-guide/create/overview.md)生成品牌化的元广告体验（左侧导航区域中的画笔图标）。
+本教程将演示如何使用GenStudio为性能营销[[!DNL Create]](/help/user-guide/create/overview.md)生成品牌化元广告体验（左侧导航区域中的画笔图标）。
 
-在开始生成元广告体验之前，务必要在GenStudio中为性能营销人员[引入准则](/help/user-guide/guidelines/add-guidelines.md)，并熟悉[创建提示符](/help/user-guide/effective-prompts.md)的基础知识。
+在开始生成元广告体验之前，请务必[将准则](/help/user-guide/guidelines/add-guidelines.md)纳入GenStudio以进行性能营销，并熟悉[创建提示](/help/user-guide/effective-prompts.md)的基础知识。
 
 ## 选择模板
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 1. 单击&#x200B;_参数_&#x200B;图标以展开提示区域。
 1. 在&#x200B;_参数_&#x200B;部分中，选择准则 — [!DNL Brands]、[!DNL Personas]和[!DNL Products] — 以通知内容创建。
 
-   如果这些菜单中没有可用的品牌、角色或产品，请[将准则添加到您的GenStudio中以提供给性能营销人员](/help/user-guide/guidelines/add-guidelines.md)。
+   如果这些菜单中没有可用的品牌、角色或产品，请[将准则添加到您的GenStudio以进行性能营销](/help/user-guide/guidelines/add-guidelines.md)。
 
 1. 单击&#x200B;**[!UICONTROL 选择内容]**&#x200B;可添加要在体验&#x200B;*中使用的内容，单击*&#x200B;可影响内容生成。
    * 单击&#x200B;**[!UICONTROL 从内容中选择]**&#x200B;以选择已发布到[!DNL Content]的资源（图像）。 使用筛选器进一步缩小搜索结果的范围。
@@ -125,6 +125,6 @@ ht-degree: 0%
 
 ## 连接元
 
-您可以将GenStudio性能营销人员连接到Meta以接收高级分析和[对内容性能的分析](/help/user-guide/insights/overview.md)。
+您可以将GenStudio性能营销连接到Meta以接收高级分析和[对内容性能的分析](/help/user-guide/insights/overview.md)。
 
 有关详细信息，请参阅[连接渠道帐户](/help/user-guide/insights/connect-channel.md)。

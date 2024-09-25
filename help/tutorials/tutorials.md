@@ -1,19 +1,19 @@
 ---
-title: 针对性能营销人员Tutorials的Adobe GenStudio
-description: 了解如何按照针对性能营销人员的GenStudio教程，完成端到端流程，例如创建电子邮件体验。
+title: 绩效营销TutorialsAdobe GenStudio
+description: 了解如何按照GenStudio的性能营销教程完成端到端流程，例如创建电子邮件体验。
 exl-id: f4afb6c8-67d0-4499-84e8-0ab819543b59
-source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
+source-git-commit: c0fd13e26f44c44c4d63bf285c421ef3dd5da975
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
-# 面向性能营销人员的Adobe GenStudio教程
+# Adobe GenStudio绩效营销教程
 
-Adobe GenStudio绩效营销人员教程遵循基本的分步工作流程，这些工作流程包含指向用户指南中更深入概念的链接。
+Adobe GenStudio性能营销教程遵循基本的分步工作流程，这些工作流程包含指向用户指南中更深入概念的链接。
 
-本指南中的教程详细介绍了在GenStudio中为Performance Marketers成功生成高质量营销内容所需的概念、先决条件、最佳实践和各个步骤。
+本指南中的教程详细介绍了在GenStudio中成功生成高质量营销内容以进行性能营销的概念、先决条件、最佳实践以及所需的各个步骤。
 
 <table style="table-layout:fixed">
 <td valign="top">

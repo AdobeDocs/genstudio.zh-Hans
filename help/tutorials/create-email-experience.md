@@ -1,24 +1,24 @@
 ---
 title: 创建电子邮件体验
-description: 了解如何在Adobe [!DNL GenStudio] 中为性能营销人员创建电子邮件体验。
+description: 了解如何在Adobe GenStudio中为性能营销创建电子邮件体验。
 feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: a00d4fcaabb97eae69294ddc9689179842d49512
+source-git-commit: c0fd13e26f44c44c4d63bf285c421ef3dd5da975
 workflow-type: tm+mt
-source-wordcount: '853'
+source-wordcount: '854'
 ht-degree: 0%
 
 ---
 
 # 创建电子邮件体验
 
-本教程将演示如何使用GenStudio为性能营销人员[[!DNL Create]](/help/user-guide/create/overview.md)生成品牌化电子邮件体验（左侧导航区域中的画笔图标）。
+本教程将演示如何使用GenStudio为Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md)生成品牌电子邮件体验（左侧导航区域中的画笔图标）。
 
-若要创建有效的电子邮件体验，建议您[向GenStudio中添加性能营销人员指南](/help/user-guide/guidelines/add-guidelines.md)，并在开始之前复习有关创建提示符](/help/user-guide/effective-prompts.md)的[基础知识。
+若要创建有效的电子邮件体验，建议您[向GenStudio添加准则以进行性能营销](/help/user-guide/guidelines/add-guidelines.md)，并在开始之前[复习构建提示的基础知识](/help/user-guide/effective-prompts.md)。
 
 ## 选择模板
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 1. 单击&#x200B;_参数_&#x200B;图标以展开提示区域。
 1. 在&#x200B;_参数_&#x200B;部分中，选择准则 — [!DNL Brands]、[!DNL Personas]和[!DNL Products] — 以通知内容创建。
 
-   如果这些菜单中没有可用的品牌、角色或产品，请[将准则添加到您的GenStudio中以提供给性能营销人员](/help/user-guide/guidelines/add-guidelines.md)。
+   如果这些菜单中没有可用的品牌、角色或产品，请[将准则添加到您的GenStudio以进行性能营销](/help/user-guide/guidelines/add-guidelines.md)。
 
 1. 单击&#x200B;**[!UICONTROL 选择内容]**&#x200B;可添加要在体验&#x200B;*中使用的内容，单击*&#x200B;可影响内容生成。
    * 单击&#x200B;**[!UICONTROL 从内容中选择]**&#x200B;以选择已发布到[!DNL Content]的资源（图像）。 使用筛选器进一步缩小搜索结果的范围。
