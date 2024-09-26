@@ -3,13 +3,13 @@ title: 为性能营销人员准备用于Adobe GenStudio的电子邮件模板
 description: 了解如何为性能营销人员构建自定义电子邮件模板Adobe GenStudio。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 09431d6f5f5b00c1b84cf69667a337ce51683c1d
+exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
+source-git-commit: 58833ed0c8e28061ab2584b7949f2a0cbd3d10cc
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---
-
 
 # 为性能营销人员准备Adobe GenStudio电子邮件模板
 
@@ -30,6 +30,14 @@ ht-degree: 0%
 设计模板后，使用HTML和内联CSS对其进行编码。 对于各种设备，代码应该是干净和响应式的。
 
 请参阅[模板示例](/help/user-guide/content/customize-template.md#template-examples)。
+
+### 多节电子邮件
+
+您可以在内容生成期间使用[结构化提示](/help/user-guide/effective-prompts.md#structured-prompts)来指示GenStudio for Performance Marketing在电子邮件的每个部分生成不同的内容。
+
+例如，如果电子邮件模板中的部分以`Pod`—`Pod1`和`Pod2`为前缀，则用于生成内容的结构化提示可以包含这些电子邮件部分的特定指令。 GenStudio for Performance Marketing会将提示中特定于部分的指令与相关电子邮件部分相匹配，并生成与指令一致的内容。
+
+请参阅[结构化提示](/help/user-guide/effective-prompts.md#structured-prompts)。
 
 ## 测试电子邮件模板
 

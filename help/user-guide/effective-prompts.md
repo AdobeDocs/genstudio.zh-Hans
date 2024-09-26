@@ -2,13 +2,13 @@
 title: 编写有效提示
 description: 了解如何为性能营销人员编写有效的Adobe GenStudio提示。
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
-source-git-commit: 306b64b44e69dbcec3984d1a0b54230fe0dbe48c
+exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
+source-git-commit: 016cd2b5415651ed3cf157244f868315234330fa
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '758'
 ht-degree: 0%
 
 ---
-
 
 # 编写有效提示
 
@@ -54,6 +54,44 @@ GenStudio for Performance Marketers指南帮助创作AI个性化您的资源组�
 >[!TIP]
 >
 >您可以控制面向性能营销人员的GenStudio如何使用您的[!DNL Brand]指南，以及何时使用。 请参阅[指南](/help/user-guide/guidelines/overview.md)以了解如何配置和管理您的品牌指南。
+
+### 结构化提示
+
+对于多节电子邮件，您可以构建提示以提供特定于节的说明，以便为电子邮件中的每个节生成各种内容。 结构化提示应直接引用电子邮件模板](/help/user-guide/content/email-template.md#multi-section-emails)中的[节名称，以便生成的内容可以插入到相应的内容占位符中。
+
+例如，您可以指示GenStudio for Performance Marketing在电子邮件的第一部分中生成推广新产品的内容，并在电子邮件的第二部分中生成详细说明该产品节省成本优势的内容。
+
+结构化提示应：
+
+- 在电子邮件模板中对节名称使用以下引用之一：
+   - Pod
+   - 组
+   - 分区
+   - 模块
+
+  例如，如果您的模板使用`moduleA`或`Group-3`作为节名称，则您可以在提示中引用这些节名称。
+
+- 遵循建议的规则/结构。 如果提示结构不符合提供的格式，则该提示将应用于&#x200B;*所有*&#x200B;电子邮件节，并且仍然有助于内容生成。
+- 使用在电子邮件模板](/help/user-guide/content/email-template.md#code-an-email-template)中定义的[节名称。 提示引用必须与电子邮件模板中编码的部分名称匹配。
+- 不区分大小写。 例如，您可以在电子邮件模板和结构化提示中使用`Pod`或`pod`。
+- 首先引用常规用户提示，然后引用特定于部分的指令。
+- 使用冒号、连字符、逗号或其他分隔(`,:;#$!~|@=-%&*^_`)作为节名引用和指令之间的分隔。 例如，您可以使用以下内容作为特定节的提示指令： `Pod1; Describe how to easily edit text and swap images.`
+
+下面是一个示例提示，它阐明了建议的提示结构，并利用一个电子邮件模板，该模板在`Pod1`、`Pod2`和`Pod3`中使用了标识词`Pod`。
+
+```properties
+Create an exciting multi-pod email focusing on Creative Cloud and its powerful generative AI capabilities.
+
+Encourage customers to convert to Photoshop or use a free Photoshop trial. We want to better educate them about app features.
+
+Pod1: Focus on Adobe Photoshop and its new generative AI tools that enable creators to bring images to life in minutes.
+
+Pod2: Focus on Adobe Illustrator and its new generative AI tools, such as Generative Shape Fill, which allows you to quickly fill your vector outline and explore a variety of options that match the look and feel of your own artwork.
+
+Pod3: Focus on Adobe Acrobat Pro. Make users aware that with Acrobat Pro they can edit images and text inside a PDF.
+```
+
+请参阅[准备电子邮件模板](/help/user-guide/content/email-template.md#code-an-email-template)。
 
 ## 重试
 
