@@ -2,9 +2,9 @@
 title: Adobe GenStudio for Performance Marketing Beta发行说明
 description: 了解Adobe GenStudio for Performance Marketing的最新功能和增强功能。
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: ca83beb4d6f5bd0d79a2da69658b6e18c3252f2e
+source-git-commit: f56f3733ead0bfcb4f37e10b66577e1ef597b76d
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -30,8 +30,6 @@ ht-degree: 0%
 * 可以上传模板，但无法看到模板。 **解决方法**：上载填充了&#x200B;**[!UICONTROL 促销活动]**&#x200B;字段的资产。 然后，再次上传模板。<!-- GS-4815 5650-->
 
 * 用户无法在调整元广告大小后手动裁切元广告。<!-- GS-5871 -->
-
-* 用户可以从[!DNL Content]工作流创建新的[!DNL Campaign]。<!-- GS-5650 -->
 
 * 用户还必须登录两次Facebook才能登录渠道元广告帐户。 解决方法：在登录到渠道元广告帐户之前注销Facebook。<!-- GS-3009 -->
 
@@ -68,7 +66,6 @@ ht-degree: 0%
 * 在导出后对元广告生成的图像的图像渲染进行了校正。<!-- GS-5749 -->
 
 * 现在，当用户在C[!DNL Create]画布中放大或缩小电子邮件变体时，`%`符号在DEU、FRA和ESP区域设置中正确呈现。<!-- GS-5007 -->
-
 
 #### 本地化
 
