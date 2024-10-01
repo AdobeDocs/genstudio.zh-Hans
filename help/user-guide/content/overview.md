@@ -1,18 +1,18 @@
 ---
-title: 面向绩效营销人员的Adobe GenStudio概述 [!DNL Content]
+title: Adobe GenStudio for Performance Marketing [!DNL Content]概述
 description: 了解如何在一个直观的门户中查找、编辑、重用和共享品牌批准的资源。
 feature: Attributes, Content, Templates
 exl-id: e44e9c2d-33ee-4621-93a2-27f49478a8c9
-source-git-commit: c8c23be561dfb77ceb8f1abe6a85b9321201bb40
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 1%
 
 ---
 
-# 面向性能营销人员的Adobe GenStudio[!DNL Content]
+# Adobe GenStudio for Performance Marketing [!DNL Content]
 
-GenStudio性能营销人员[!DNL Content]提供了一个中央位置，可用于存储、查找和共享所有品牌批准的资源、体验和模板。 您可以使用创作AI编辑和重新混合内容、洞察内容使用和情绪、刷新和重新调整现有资源的用途。
+GenStudio for Performance Marketing [!DNL Content]提供了一个中心位置，用于存储、查找和共享所有品牌批准的资源、体验和模板。 您可以使用创作AI编辑和重新混合内容、洞察内容使用和情绪、刷新和重新调整现有资源的用途。
 
 ## [!DNL Content] 用例
 
@@ -63,7 +63,7 @@ GenStudio性能营销人员[!DNL Content]提供了一个中央位置，可用于
 
 ## [!DNL Content]功能
 
-GenStudio性能营销人员[!DNL Content]使您可以轻松管理批准的资源并加快内容生命周期。 在&#x200B;**[!UICONTROL [!DNL Content]]**&#x200B;中，您可以搜索、查找和重用性能内容或选择资源或体验以快速启动为常青营销活动创建新变体。
+通过GenStudio for Performance Marketing [!DNL Content]，可以轻松管理已批准的资源并加快内容生命周期。 在&#x200B;**[!UICONTROL [!DNL Content]]**&#x200B;中，您可以搜索、查找和重用性能内容或选择资源或体验以快速启动为常青营销活动创建新变体。
 
 ### 上传资源
 
@@ -71,7 +71,7 @@ GenStudio性能营销人员[!DNL Content]使您可以轻松管理批准的资源
 
 ### 搜索并查找批准的内容
 
-在保存已批准的资产时，[!DNL Content]将维护富元数据、生成上下文和审核历史记录。 资源详细信息有助于使用过滤器和搜索字符串快速缩小搜索结果的范围。 GenStudio高性能营销人员的人工智能可自动标识和存储特定详细信息，例如颜色。 在搜索字段中搜索`blue`，可将内容列表缩小为标记为蓝色的资源。
+在保存已批准的资产时，[!DNL Content]将维护富元数据、生成上下文和审核历史记录。 资源详细信息有助于使用过滤器和搜索字符串快速缩小搜索结果的范围。 GenStudio for Performance Marketing的人工智能会自动识别和存储某些细节，如颜色。 在搜索字段中搜索`blue`，可将内容列表缩小为标记为蓝色的资源。
 
 ### 使用模板
 

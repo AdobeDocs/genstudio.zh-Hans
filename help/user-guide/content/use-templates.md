@@ -1,18 +1,18 @@
 ---
 title: 使用模板
-description: 了解如何在Adobe GenStudio中为性能营销人员有效使用模板简化您的创作过程。
+description: 了解如何在Adobe GenStudio for Performance Marketing中有效地使用模板来简化您的创作过程。
 feature: Templates, Content
-source-git-commit: 192568a65bbd5c8c2e9cfc050462eb2c3465245d
+exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '682'
 ht-degree: 1%
 
 ---
 
-
 # 使用模板
 
-GenStudio for Performance Marketers使内容创建者能够使用&#x200B;_模板_&#x200B;快速生成一致的品牌营销内容。 模板通过提供包括预配置布局和设计元素的起点，显着减少了生成新内容所需的时间和精力。
+GenStudio for Performance Marketing使内容创建者能够使用&#x200B;_模板_&#x200B;快速生成一致的品牌营销内容。 模板通过提供包括预配置布局和设计元素的起点，显着减少了生成新内容所需的时间和精力。
 
 ## 模板元素
 
@@ -71,17 +71,17 @@ GenStudio for Performance Marketers使内容创建者能够使用&#x200B;_模板
 
 >[!TIP]
 >
->查看GenStudio for Performance营销人员针对每种渠道类型的模板支持的[可识别的字段名称](customize-template.md#recognized-field-names)。
+>查看GenStudio for Performance Marketing支持的用于每种渠道类型模板的[可识别的字段名称](customize-template.md#recognized-field-names)。
 
 ## 配置渠道准则
 
-在使用GenStudio中的模板进行性能营销之前，最佳实践是为每个品牌配置[渠道准则](../guidelines/brands.md#channel-guidelines)。 渠道指南直接影响使用模板时生成的内容类型。 例如，您可以对电子邮件正文设置字符限制。
+在GenStudio for Performance Marketing中使用模板之前，最佳实践是为每个品牌配置[渠道准则](../guidelines/brands.md#channel-guidelines)。 渠道指南直接影响使用模板时生成的内容类型。 例如，您可以对电子邮件正文设置字符限制。
 
 ![正文规范](/help/assets/channel-email-body.png)
 
 ## 自定义模板
 
-您[通过插入生成AI用于插入内容的内容占位符或字段，自定义要在GenStudio for Performance Marketers中使用的模板](customize-template.md)。 GenStudio for Performance营销人员可识别某些字段，如`body`字段，并遵守为所选品牌配置的渠道准则。
+您[通过插入生成AI用于插入内容的内容占位符或字段自定义模板](customize-template.md)以便在GenStudio for Performance Marketing中使用。 GenStudio for Performance Marketing可识别某些字段，如`body`字段，并遵守为所选品牌配置的渠道准则。
 
 >[!TIP]
 >
@@ -89,7 +89,7 @@ GenStudio for Performance Marketers使内容创建者能够使用&#x200B;_模板
 
 ## 上传模板
 
-为GenStudio绩效营销人员准备模板时，可将[自定义模板](customize-template.md)用作指南。 有关为所有受众提供更好的体验的指导，请参阅模板[无障碍准则](accessibility-for-templates.md)。
+在为GenStudio for Performance Marketing准备模板时，使用[自定义模板](customize-template.md)作为指南。 有关为所有受众提供更好的体验的指导，请参阅模板[无障碍准则](accessibility-for-templates.md)。
 
 **添加模板**：
 
@@ -122,7 +122,7 @@ GenStudio for Performance Marketers使内容创建者能够使用&#x200B;_模板
 
 ## 使用模板创建
 
-在GenStudio中查找并使用现有模板以提高性能营销人员的工作效率，进而创造更多体验。
+在GenStudio for Performance Marketing中查找并使用现有模板来创建更多体验。
 
 **要使用模板创建体验**：
 

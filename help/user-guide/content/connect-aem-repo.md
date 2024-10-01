@@ -1,18 +1,18 @@
 ---
-title: 连接到AEM Assets Content Hub存储库
-description: 了解如何将面向性能营销人员的GenStudio连接到Adobe Experience Manager (AEM) Content Hub存储库并利用现有的已批准内容。
+title: “连接到 [!DNL AEM Assets Content Hub] 存储库”
+description: 了解如何将Adobe GenStudio for Performance Marketing连接到Adobe Experience Manager (AEM) [!DNL Content Hub] 存储库并利用现有的已批准内容。
 level: Experienced
 feature: Assets, Content
-source-git-commit: dc438085cfe7c93b20dc7fb0d5919d2dc8b3dcde
+source-git-commit: 0d8f04ab26e8d0dd533cfc4e388dd0b0a68adb3b
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
 
 # 连接到[!DNL AEM Assets Content Hub]存储库
 
-如果您在Adobe Experience Manager (AEM)中具有资源，则可以按照以下步骤进行操作，以便在GenStudio中访问这些资源以供性能营销人员使用。
+如果您在Adobe Experience Manager (AEM)中具有资源，则可以按照以下步骤在GenStudio for Performance Marketing中访问它们。
 
 >[!BEGINSHADEBOX]
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## 步骤3：批准资源
 
-批准资源以在[!DNL AEM Assets Content Hub]中使用，这样即可在GenStudio中为性能营销人员提供这些资源。 请参阅&#x200B;_AEM as a Cloud Service_&#x200B;文档中的[批准Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets)中的资源。
+批准资源以在[!DNL AEM Assets Content Hub]中使用，这使其在GenStudio for Performance Marketing中可用。 请参阅&#x200B;_AEM as a Cloud Service_&#x200B;文档中的[批准Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets)中的资源。
 
 ## 步骤4：配置资源可见性
 
@@ -45,4 +45,4 @@ ht-degree: 0%
 
 ## 步骤5：验证连接
 
-在GenStudio for Performance Marketers内容中，_[!UICONTROL 位置]_&#x200B;列表位于图库的右上方。 如果您没有访问权限，或者您的组织尚未部署和连接[!DNL AEM Assets Content Hub]存储库，则列表不可用。
+在GenStudio for Performance Marketing内容中，_[!UICONTROL 位置]_&#x200B;列表位于图库的右上方。 如果您没有访问权限，或者您的组织尚未部署和连接[!DNL AEM Assets Content Hub]存储库，则列表不可用。

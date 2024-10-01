@@ -3,7 +3,7 @@ title: 管理资源和体验
 description: 简化并增强对品牌认可资产的管理，以在您的数字营销历程中使用和重复使用。
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: dc438085cfe7c93b20dc7fb0d5919d2dc8b3dcde
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '722'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 管理资源和体验
 
-绩效营销人员[!DNL Content]的Adobe GenStudio简化并增强了用于数字营销历程中的品牌批准资源的管理。
+Adobe GenStudio for Performance Marketing [!DNL Content]简化并增强了对品牌批准资源的管理，以便在您的数字营销历程中使用和重复使用。
 
 ## Assets图库
 
@@ -24,13 +24,13 @@ ht-degree: 0%
 
 ### Assets位置
 
-默认情况下，您通过[!DNL Create]进程或通过上载添加到[!DNL Content]的资源存储在`GenStudio assets`存储库中。 `GenStudio assets`存储库是GenStudio中适用于Performance Marketers的读写存储库。 这意味着您可以保存、编辑和删除`GenStudio assets`存储库中的资源。
+默认情况下，您通过[!DNL Create]进程或通过上载添加到[!DNL Content]的资源存储在`GenStudio assets`存储库中。 `GenStudio assets`存储库是GenStudio for Performance Marketing中的读写存储库。 这意味着您可以保存、编辑和删除`GenStudio assets`存储库中的资源。
 
 右侧图库上方的&#x200B;**[!UICONTROL 位置]**&#x200B;列表允许您从连接的Adobe Experience Manager (AEM) [!DNL Assets Content Hub]存储库中进行选择。 选择AEM存储库时，库会显示该存储库中的资源清单，这样您就可以利用这些存储库中已批准的资源作为内容创建的输入。 筛选器选项会更改以反映[!DNL AEM Assets Content Hub]中配置的类别。
 
 AEM存储库是只读的，这意味着您不能将草稿、新资源或元数据保存到AEM存储库。 资产、体验和模板的所有草稿和最终更新都将使用新的[系统元数据](asset-details.md#system-metadata)保存到`GenStudio assets`存储库。
 
-有关将[!DNL AEM Assets Content Hub]存储库添加到GenStudio以进行性能营销的指导，请参阅[连接AEM存储库](connect-aem-repo.md)。
+有关将[!DNL AEM Assets Content Hub]存储库添加到GenStudio for Performance Marketing的指导，请参阅[连接AEM存储库](connect-aem-repo.md)。
 
 ## Assets管理
 
@@ -52,7 +52,7 @@ AEM存储库是只读的，这意味着您不能将草稿、新资源或元数�
 
 1. 为了提高可发现性，请在&#x200B;**更多详细信息**&#x200B;部分中添加可选详细信息，如&#x200B;_品牌名称_、_角色_、_区域_&#x200B;和&#x200B;_关键字_。
 
-   您提供的详细信息越多，就越能体验GenStudio为性能营销人员提供的强大功能。 从列表中选择一个或多个详细信息，或在适用的情况下输入新详细信息，例如使用关键字。 您添加的每个详细信息都显示在列表下方。 单击&#x200B;**`x`**&#x200B;可删除详细信息。
+   您提供的详细信息越多，就越能体验GenStudio for Performance Marketing的强大功能。 从列表中选择一个或多个详细信息，或在适用的情况下输入新详细信息，例如使用关键字。 您添加的每个详细信息都显示在列表下方。 单击&#x200B;**`x`**&#x200B;可删除详细信息。
 
    您添加的任何详细信息都适用于在此操作中添加的所有资源。
 
