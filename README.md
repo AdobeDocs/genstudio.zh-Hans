@@ -1,13 +1,13 @@
 ---
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 2bc505acc561e60ee2af928adf53c9193677c3f5
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 36%
 
 ---
-# GenStudio性能营销人员文档
+# GenStudio for Performance Marketing文档
 
-此网站包含适用于GenStudio for Performance Marketers产品的最新文档。
+本网站包含有关GenStudio for Performance Marketing产品的最新文档。
 
 ## Adobe 开源行为准则
 

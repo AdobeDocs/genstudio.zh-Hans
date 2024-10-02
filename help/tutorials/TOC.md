@@ -1,12 +1,12 @@
 ---
 user-guide-title: Adobe GenStudio绩效营销教程
 breadcrumb-title: 教程
-user-guide-description: 查看GenStudio for Performance Marketing的教程，这是一个端到端解决方案，通过创作AI和智能自动化加速并简化内容供应链。
+user-guide-description: 了解如何按照GenStudio的性能营销教程完成端到端流程，例如创建电子邮件体验。
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: c0fd13e26f44c44c4d63bf285c421ef3dd5da975
+source-git-commit: 1b0121a7006799cc5b2c2168fcb55a9a5ac10601
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '54'
 ht-degree: 1%
 
 ---

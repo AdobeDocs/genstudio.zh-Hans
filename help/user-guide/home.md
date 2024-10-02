@@ -1,24 +1,19 @@
 ---
 title: Adobe GenStudio用户指南
-description: 使用GenStudio for Performance Marketers为营销人员和创意人员提供支持，这是Adobe人工智能优先的应用程序，通过企业护栏和治理为高性能体验提供对品牌上内容的自助访问。
+description: 探索Adobe GenStudio for Performance Marketing的功能。 了解如何快速创建品牌内资产、生成变体和优化体验。
 exl-id: beae7802-09e6-4ca3-9ffa-b8494aea5ae4
-source-git-commit: b538268ec0238fd38c12ae8f32c0df551890d878
+source-git-commit: 845cf9321c92598f42a92e89cb6331a8b122a894
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 1%
+source-wordcount: '206'
+ht-degree: 0%
 
 ---
 
-# 《Adobe GenStudio性能营销人员用户指南》
+# Adobe GenStudio for Performance Marketing用户指南
 
-Adobe GenStudio绩效营销人员是一个人工智能驱动的平台，它使您能够生成和管理符合您的品牌标准并符合企业政策的营销内容。
+Adobe GenStudio for Performance Marketing是一个人工智能驱动的平台，它使您能够生成和管理符合您的品牌标准并符合企业政策的营销内容。
 
-通过利用Adobe人工智能技术，GenStudio for Performance Marketers提供了一套全面的工具，可简化内容创建和管理过程，以便创意人员可以专注于创新。
-
-## 新增功能
-
-- [[!DNL Insights Channels]](insights/channels.md) — 关于营销活动的客户参与、绩效、预算和支出的新概述。
-- [[!DNL Insights Experiences]](insights/experiences.md) — 关于与体验和广告效果相关的见解的新概述。
+通过利用Adobe人工智能技术，GenStudio for Performance Marketing提供了一套全面的工具，可简化内容创建和管理过程，以便创意人员可以专注于创新。
 
 ## 浏览功能
 
@@ -103,7 +98,7 @@ Adobe GenStudio绩效营销人员是一个人工智能驱动的平台，它使�
       </a>
    </div>
    <p>
-      <em>了解如何向GenStudio添加针对性能营销人员的准则（品牌、产品和角色）。</em>
+      <em>了解如何向GenStudio for Performance Marketing添加准则（品牌、产品和角色）。</em>
    </p>
 </td>
 <td valign="top">

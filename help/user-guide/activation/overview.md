@@ -3,7 +3,7 @@ title: 激活概述
 description: 了解如何使用Adobe Experience Cloud和第三方应用程序激活内容。
 feature: Assets, Approval, Experiences
 exl-id: 365fe253-d189-467e-a723-f54cd74ff60b
-source-git-commit: b1550c4b1f624287e432bf7b610f9d31892b13c0
+source-git-commit: 6a90b2b2615dbb0c2104195ff5ed2204cac72241
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 _激活_&#x200B;是使Adobe GenStudio for Performance Marketing生成的资源和体验可通过您选择的渠道和Adobe Experience Cloud产品交付的过程。 对于您在[!DNL Products]中包含的第三方应用程序，您可以轻松地以最佳格式从GenStudio for Performance Marketing导出批准的内容。
 
-GenStudio for Performance Marketers激活功能本机集成到Adobe的Experience Delivery产品中： Journey Optimizer、Journey Optimizer B2B版本、Experience Manager、Marketo和Target。
+GenStudio for Performance Marketing激活功能本机集成到Adobe的Experience Delivery产品中： Journey Optimizer、Journey Optimizer B2B版本、Experience Manager、Marketo和Target。
 
 **要激活已批准的资产**，请执行以下操作：
 
