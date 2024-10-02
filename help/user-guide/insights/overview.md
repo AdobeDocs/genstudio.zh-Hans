@@ -3,16 +3,16 @@ title: ' [!DNL Insights]概述'
 description: 了解如何基于实时内容性能指标优化体验。
 feature: Attributes, Insights, Experiences, Assets, Channels
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
-source-git-commit: a531ef2a7869a3f8e19fccd17b7acda54a767f6b
+source-git-commit: 723b1f826fe5ceefcf9c1beff09af9b3d56462c5
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
 
-# 面向性能营销人员的Adobe GenStudio[!DNL Insights]
+# Adobe GenStudio for Performance Marketing [!DNL Insights]
 
-性能营销人员[!DNL Insights]的Adobe GenStudio提供了对内容性能的高级分析和见解，可帮助您制定数据驱动型决策。
+Adobe GenStudio for Performance Marketing [!DNL Insights]提供对内容性能的高级分析和见解，可帮助您做出数据驱动型决策。
 
 从[!DNL Insights]仪表板中，您可以：
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->有关让GenStudio for Performance营销人员能够接收来自您当前营销活动、资源和体验的数据的步骤，请参阅[连接渠道帐户](connect-channel.md)。
+>请参阅[Connect渠道帐户](connect-channel.md)，了解如何让GenStudio for Performance Marketing接收来自您当前营销活动、资源和体验的数据。
 
 ## 仪表板
 
@@ -31,8 +31,6 @@ ht-degree: 0%
 ![[!DNL Insights]仪表板](/help/assets/insights-dashboard.png)
 
 每个视图都显示一个相应的表，您可以按关键字、过滤和日期范围进行搜索。 您可以单击表格右侧上方的设置(cog)图标来切换可查看的列类型。 _[!UICONTROL Summary]_&#x200B;行可能显示列的合计或平均值。
-
-有关表中每种列类型的说明，请参阅 [!DNL Insights]](data-columns.md)的[数据列。
 
 [!UICONTROL 体验]、[!UICONTROL Assets]和[!UICONTROL 属性]包含库视图，通过库视图，您可以使用带有图像或视频缩略图的卡片扫描和排序资源。 每个信息卡上有一个选项可显示三个关键量度之一： `Click-through rate`、`Cost per click`和`Spend`。
 
@@ -50,7 +48,7 @@ ht-degree: 0%
 
 单击资产可提供有关其在不同体验中的性能的更多上下文：
 
-![资源视图](/help/assets/insights-asset-view.png){width="600" zoomable="yes"}
+![资源详细信息](/help/assets/insights-asset-details.png){width="600" zoomable="yes"}
 
 在资源视图中，左侧显示资源的缩略图和属性列表。 有三个高亮显示的量度： `Click-through rate`、`Cost per click`和`Spend`。 性能突出显示显示实际值（实线）与所选时间段（默认为`Last 30 days`）的平均值（虚线）的比较结果。
 
