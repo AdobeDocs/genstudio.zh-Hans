@@ -3,9 +3,9 @@ title: 管理资源和体验
 description: 简化并增强对品牌认可资产的管理，以在您的数字营销历程中使用和重复使用。
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
+source-git-commit: af20efaa511ed403f5160956ff98b42beb64bb34
 workflow-type: tm+mt
-source-wordcount: '722'
+source-wordcount: '786'
 ht-degree: 0%
 
 ---
@@ -59,18 +59,22 @@ AEM存储库是只读的，这意味着您不能将草稿、新资源或元数�
    查看[元数据详细信息](/help/user-guide/content/asset-details.md#system-metadata)。
 
 1. 单击&#x200B;**[!UICONTROL 添加资源]**。
+
 1. 完成资产上传后，单击&#x200B;**完成**。
+
 1. 要查看您上传的新资源，请在画布底部的&#x200B;_可用新资源_&#x200B;通知中单击&#x200B;**[!UICONTROL 刷新]**。
 
 <!-- 
 In the future, need guidance on template upload errors. For now, the UI just says error.
 -->
 
-### 搜索资源
+### 搜索内容
 
-[!DNL Content]搜索界面快速且响应迅速，提供了高效的搜索优先体验。
+过滤器和搜索界面快速且响应迅速，提供了高效的搜索优先体验。 每个[!DNL Content]视图都提供筛选器选项，以缩小搜索范围，从而缩小搜索范围，以找到理想的资产、体验或模板。 对于资源和体验，您可以选择营销活动和特定准则，例如为特定产品制作的内容。
 
-应用过滤器并使用资源详细信息中的元数据标记来缩小搜索结果。 例如，您可能希望查找特定文件类型或主题的资产，以帮助您为营销策划构建新的体验。
+存在基于[关键字](asset-details.md#user-defined-metadata)和[属性](/help/user-guide/insights/attributes.md)的筛选器以缩小搜索结果范围。 例如，您可能希望查找特定文件类型或主题的资产，以帮助您为营销策划构建新的体验。
+
+在搜索&#x200B;_体验_&#x200B;时，您可以使用&#x200B;**[!UICONTROL 创建者]**&#x200B;筛选器将列表限制为仅显示您或特定人员创建的体验。
 
 **要搜索要重复使用的内容，请执行以下操作：**
 

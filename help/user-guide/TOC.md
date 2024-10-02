@@ -4,10 +4,10 @@ breadcrumb-title: 用户指南
 user-guide-description: 探索Adobe GenStudio for Performance Marketing的功能。 了解如何快速创建品牌内资产、生成变体和优化体验。
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: 059b464cb2a7b57557407bbaee6162b770107222
+source-git-commit: 967309ee0572365e9442c4e77816f9483e6522d3
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 11%
+source-wordcount: '137'
+ht-degree: 9%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 11%
    + [Publish批准的内容](approvals/publish-content.md)
 + 内容{#content}
    + [内容概述](content/overview.md)
-   + [管理资源](content/manage-assets.md)
+   + [管理资源和体验](content/manage-assets.md)
    + [连接AEM存储库](content/connect-aem-repo.md)
    + [资源详细信息](content/asset-details.md)
    + 模板 {#templates}
