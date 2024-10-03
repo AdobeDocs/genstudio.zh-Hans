@@ -7,9 +7,9 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: c16d9f611348d0eaf3a1d4af4948196d3a06b0a1
+source-git-commit: 8ca3cf0706e5b4646b3c95bbfd4bf6f9dd3c9f6b
 workflow-type: tm+mt
-source-wordcount: '1048'
+source-wordcount: '1074'
 ht-degree: 0%
 
 ---
@@ -90,6 +90,10 @@ ht-degree: 0%
 <!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
 * **要[裁切或重新定位图像](/help/user-guide/create/manage-variants.md#crop-assets)**，请将鼠标悬停在图像上，单击显示的裁切图标，然后调整图像大小和位置。
 * **要[删除元广告](/help/user-guide/create/manage-variants.md#delete-variant)**，请单击广告标题（例如，“Meta 4”），然后单击&#x200B;**[!UICONTROL 删除变体]**。
+
+## 提交生成反馈
+
+要[提交有关生成输出质量的反馈](/help/user-guide/create/manage-variants.md#generation-feedback)，请单击选项图标（三个点）并选择&#x200B;**[!UICONTROL 输出良好]**&#x200B;或&#x200B;**[!UICONTROL 输出不良]**。
 
 ## 验证品牌一致性
 

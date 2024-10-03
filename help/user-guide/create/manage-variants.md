@@ -2,9 +2,9 @@
 title: 管理变体
 description: 根据您的数字营销需求，自定义和增强生成的变体和资产。
 feature: Content, Assets, Experiences
-source-git-commit: 67a3fe86facf0fef12f1fd63d8cf79132b0f42b0
+source-git-commit: 8ca3cf0706e5b4646b3c95bbfd4bf6f9dd3c9f6b
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '880'
 ht-degree: 0%
 
 ---
@@ -115,7 +115,7 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 
 **要删除生成的变体**：
 
-1. 生成一组变体后，单击变体上方的名称。
+1. 生成一组变体后，单击变体上方的选项图标（三个圆点）。
 
    变体将加亮显示，并出现快捷菜单。
 
@@ -128,3 +128,27 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 使用&#x200B;_[!UICONTROL 品牌准则检查]_&#x200B;和&#x200B;_[!UICONTROL 品牌验证面板]_&#x200B;来保持一致的品牌标识和变体一致性。
 
 请参阅[品牌验证](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment)。
+
+## 生成反馈
+
+可以提交关于生成的品牌一致资产质量的反馈以改进内容生成过程。 指示结果质量是高还是低有助于提高GenStudio for Performance Marketing的整体内容质量和用户安全。
+
+生成反馈适用于单个变体，不适用于收集的变体集。
+
+**要提交生成反馈**：
+
+1. 生成一组变体后，单击变体上方的选项图标（三个圆点）。
+
+   变体将加亮显示，并出现快捷菜单。
+
+1. 选择&#x200B;**[!UICONTROL 良好的输出]**&#x200B;或&#x200B;**[!UICONTROL 较差的输出]**。
+
+   将出现一个反馈弹出窗口，用于收集更多信息。 生成的内容和提示信息包含在您的反馈中。
+
+1. 在反馈弹出窗口中添加以下信息：
+   1. 选择&#x200B;_[!UICONTROL Also include your reference content and layer data]_（也包含您的参考内容和层数据）”选项以在收集到的反馈中包含该额外的参考信息。
+   1. 在&#x200B;_[!UICONTROL 中，哪些功能运行良好？]_&#x200B;或&#x200B;_[!UICONTROL 发生什么错误？]_&#x200B;部分中，选择描述哪些内容生成质量较高或较差的选项。
+   1. 在&#x200B;_[!UICONTROL 注释]_&#x200B;字段中添加任何其他有用或相关信息。
+1. 单击&#x200B;**[!UICONTROL “提交”。]**
+
+   此时会显示一个横幅，用于确认您提交了反馈。
