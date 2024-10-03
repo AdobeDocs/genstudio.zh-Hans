@@ -2,9 +2,9 @@
 title: 管理变体
 description: 根据您的数字营销需求，自定义和增强生成的变体和资产。
 feature: Content, Assets, Experiences
-source-git-commit: 8ca3cf0706e5b4646b3c95bbfd4bf6f9dd3c9f6b
+source-git-commit: c1cc90b4c80b6b754b34ac609e8e94b799386fad
 workflow-type: tm+mt
-source-wordcount: '880'
+source-wordcount: '995'
 ht-degree: 0%
 
 ---
@@ -97,9 +97,28 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 
 1. 单击&#x200B;**[!UICONTROL 复制并调整大小]**。
 
-[!DNL Create]根据新的选定纵横比构建每个变体的副本。 所有变体（包括初始长宽比中的变体）都会显示在画布中。
+   [!DNL Create]根据新的选定纵横比构建每个变体的副本。 所有变体（包括初始长宽比中的变体）都会显示在画布中。
 
-例如，如果您最初以1:1的长宽比生成四个变体，然后将长宽比更改为4:5，则画布上现在提供了&#x200B;_8_&#x200B;个总变体。
+   例如，如果您最初以1:1的长宽比生成四个变体，然后将长宽比更改为4:5，则画布上现在提供了&#x200B;_8_&#x200B;个总变体。
+
+## 交换图像
+
+可直接从“画布”在生成的变体中添加或交换图像。
+
+**在变体中添加或交换图像**：
+
+1. 生成一组变体后，单击图像资源。
+
+   如果变体当前没有放置的图像资源，请单击图像资源区域。
+
+1. 要选择已发布到[!DNL Content]的图像资产，请执行以下操作：
+   1. 单击&#x200B;**[!UICONTROL 从内容中选择]**。 使用筛选器进一步缩小搜索结果的范围。
+   1. 单击&#x200B;**[!UICONTROL 使用]**
+1. 要上传图像资产，请执行以下操作：
+   1. 单击&#x200B;**[!UICONTROL 上传新图像]**&#x200B;浏览您的文件并选择要使用的资源。 在浏览设备的同时，您还可以从Microsoft OneDrive或Dropbox导入。
+   1. 单击&#x200B;**[!UICONTROL 添加Assets]**。
+
+   将图像添加或交换到适用的变量中。
 
 ## 设备预览
 
@@ -119,7 +138,7 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 
    变体将加亮显示，并出现快捷菜单。
 
-1. 从可用菜单选项中选择&#x200B;**[!UICONTROL 删除]**。
+1. 从可用选项中选择&#x200B;**[!UICONTROL 删除]**。
 
    已删除变体。
 
