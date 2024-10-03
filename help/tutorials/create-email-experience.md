@@ -7,16 +7,16 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 06c8884a8e1ac4d02b73931fdc4be3625565c70a
+source-git-commit: c16d9f611348d0eaf3a1d4af4948196d3a06b0a1
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: '885'
 ht-degree: 0%
 
 ---
 
 # 创建电子邮件体验
 
-本教程将演示如何使用GenStudio为Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md)生成品牌电子邮件体验（左侧导航区域中的画笔图标）。
+本教程演示如何使用GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md)生成品牌[电子邮件体验](/help/user-guide/create/email-experiences.md)（左侧导航区域中的画笔图标）。
 
 若要创建有效的电子邮件体验，建议您[向GenStudio添加准则以进行性能营销](/help/user-guide/guidelines/add-guidelines.md)，并在开始之前[复习构建提示的基础知识](/help/user-guide/effective-prompts.md)。
 
@@ -44,8 +44,11 @@ ht-degree: 0%
    如果这些菜单中没有可用的品牌、角色或产品，请[将准则添加到您的GenStudio以进行性能营销](/help/user-guide/guidelines/add-guidelines.md)。
 
 1. 单击&#x200B;**[!UICONTROL 选择内容]**&#x200B;可添加要在体验&#x200B;*中使用的内容，单击*&#x200B;可影响内容生成。
-   * 单击&#x200B;**[!UICONTROL 从内容中选择]**&#x200B;以选择已发布到[!DNL Content]的资源（图像）。 使用筛选器进一步缩小搜索结果的范围。
-   * 单击&#x200B;**[!UICONTROL 上传]**&#x200B;浏览您的文件并选择要使用的资源。 在浏览设备的同时，您还可以从Microsoft OneDrive或Dropbox导入。
+   * 要从[!DNL Content]存储库中选择资源（图像），请单击&#x200B;**[!UICONTROL 从内容中选择]**。 筛选并选择一个或多个图像。
+
+     若要使用已连接[!DNL AEM Assets Content Hub]存储库中的资源，请从&#x200B;_位置_&#x200B;下拉菜单中选择一个存储库。 筛选并选择一个或多个图像。
+
+   * 要上传一个或多个新资源，请单击&#x200B;**[!UICONTROL 上传]**，浏览您的文件，然后选择要使用的资源。 在浏览设备的同时，您还可以从Microsoft OneDrive或Dropbox导入。 单击以选择所需的图像。
    * 将资产拖放到&#x200B;_Content_&#x200B;部分中。
 1. 单击&#x200B;**[!UICONTROL 使用]**。
 
@@ -68,6 +71,8 @@ ht-degree: 0%
 
 默认情况下，将生成四个变体（全部由提示、指南和您添加的内容提供），并显示在画布中。
 
+生成的内容以渐进方式加载 — 在生成电子邮件体验的每个部分时，这些部分都会显示在画布中。 请参阅[电子邮件体验](/help/user-guide/create/meta-experiences.md#progressive-loading)，了解如何在画布中加载这些更改。
+
 ## 修订生成的电子邮件
 
 在选择要发送哪些内容以供审批或发布到[!DNL Content]之前，您可以编辑电子邮件部分或从生成的电子邮件集中删除变体。
@@ -81,9 +86,7 @@ ht-degree: 0%
 
 ## 设备预览
 
-在修订和准备电子邮件体验时，您可以在桌面视图和移动设备视图的预览之间切换，以确保草稿变体的一致性和视觉吸引力。
-
-**要预览桌面和移动设备的变体**，请在右侧菜单栏（计算机和电话图标）中切换设备预览选项（在&#x200B;**桌面**&#x200B;和&#x200B;**移动设备**&#x200B;之间）以预览变体的显示方式。
+在修订和准备电子邮件体验时，您可以[在桌面视图和移动设备视图的预览之间切换](/help/user-guide/create/manage-variants.md#preview-for-device)，以确保草稿变体的一致性和视觉吸引力。
 
 ## 验证品牌一致性
 

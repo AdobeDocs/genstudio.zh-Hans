@@ -2,9 +2,9 @@
 title: 管理变体
 description: 根据您的数字营销需求，自定义和增强生成的变体和资产。
 feature: Content, Assets, Experiences
-source-git-commit: e99fadb7c440adbfa52759d6b392e08d0ee6d155
+source-git-commit: 67a3fe86facf0fef12f1fd63d8cf79132b0f42b0
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '694'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 管理变体
 
-绩效营销[!DNL Create]Adobe GenStudio允许您自定义和增强生成的变体（电子邮件、元广告等），以用于数字营销计划。
+Adobe GenStudio for Performance Marketing [!DNL Create]允许您自定义和增强生成的变体 — [电子邮件](/help/user-guide/create/email-experiences.md)、[元广告](/help/user-guide/create/meta-experiences.md)等 — 以用于数字营销计划。
 
 在[创建体验](/help/tutorials/tutorials.md)时，您可以单独或批量修改生成的变体的内容和资产。 通过在单个微观级别管理变体，您可以明确管理生成的每段内容。
 
@@ -53,20 +53,20 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 1. If you want to regenerate results, click the regenerate icon adjacent to _Results_.
 1. From the _Results_ that appear, select the desired option and click **[!UICONTROL Replace]**.
 
-   The variant is updated with the revised text.
+   The variant is updated with the revised text. -->
 
-## Crop assets
+## 裁切资源
 
-You can manually crop and reposition image assets in individual generated variants.
+您可以在单个生成的变量中手动裁切和重新定位图像资源。
 
-**To crop and reposition images in variants**:
+**若要裁切和重新定位变量中的图像**：
 
-1. After generating a set of variants, hover over an image within a variant.
-1. Click **[!UICONTROL Apply Crop]**.
-1. Zoom in and out and drag the image into the desired position.
-1. Click **[!UICONTROL Apply]**.
+1. 生成一组变体后，将鼠标悬停在变体中的图像上。
+1. 单击图像左角显示的裁切图标。
+1. 调整图像边界框并将图像拖到所需位置。
+1. 单击&#x200B;**[!UICONTROL 应用]**&#x200B;可将裁切应用于单个图像，或单击&#x200B;**[!UICONTROL 应用于所有图像]**&#x200B;可应用于变体中的所有图像。
 
-   The cropped image is automatically saved and visible for the variant. -->
+   裁剪的图像将保存并对变体可见。
 
 ## 更改宽高比
 
@@ -100,6 +100,12 @@ You can manually crop and reposition image assets in individual generated varian
 [!DNL Create]根据新的选定纵横比构建每个变体的副本。 所有变体（包括初始长宽比中的变体）都会显示在画布中。
 
 例如，如果您最初以1:1的长宽比生成四个变体，然后将长宽比更改为4:5，则画布上现在提供了&#x200B;_8_&#x200B;个总变体。
+
+## 设备预览
+
+在修订和准备电子邮件体验时，您可以在桌面视图和移动设备视图的预览之间切换，以确保草稿变体的一致性和视觉吸引力。
+
+**要预览桌面和移动设备的变体**，请在右侧菜单栏（计算机和电话图标）中切换设备预览选项（在&#x200B;**桌面**&#x200B;和&#x200B;**移动设备**&#x200B;之间）以预览变体的显示方式。
 
 ## 删除变体
 

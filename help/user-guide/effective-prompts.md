@@ -3,7 +3,7 @@ title: 编写有效提示
 description: 了解如何为Adobe GenStudio for Performance Marketing编写有效的提示。
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
-source-git-commit: 6a90b2b2615dbb0c2104195ff5ed2204cac72241
+source-git-commit: c16d9f611348d0eaf3a1d4af4948196d3a06b0a1
 workflow-type: tm+mt
 source-wordcount: '758'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 在GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md)中，您可以在提示区域使用&#x200B;**[!UICONTROL 提示条件]** （[_参数_](/help/user-guide/create/overview.md#parameters)&#x200B;和提示）通过选择添加详细信息以改进AI解释。
 
-对于[电子邮件](/help/tutorials/create-email-experience.md)，提示条件可能包括在&#x200B;_参数_&#x200B;中添加[准则](/help/user-guide/guidelines/overview.md)、上传要在电子邮件变体中使用的资源以及说明性提示。 对于[元广告](/help/tutorials/create-meta-ad.md)，提示条件可能包括&#x200B;_参数_&#x200B;中的品牌指南、选择或上传现有资产、与图像或资产相关的设置（如长宽比）以及提示。 实际功率以[配置准则](/help/user-guide/guidelines/add-guidelines.md)开始。
+对于[电子邮件](/help/user-guide/create/email-experiences.md)，提示条件可能包括在&#x200B;_参数_&#x200B;中添加[准则](/help/user-guide/guidelines/overview.md)、上传要在电子邮件变体中使用的资源以及说明性提示。 对于[元广告](/help/tutorials/create-meta-ad.md)，提示条件可能包括&#x200B;_参数_&#x200B;中的品牌指南、选择或上传现有资产、与图像或资产相关的设置（如长宽比）以及提示。 实际功率以[配置准则](/help/user-guide/guidelines/add-guidelines.md)开始。
 
 >[!NOTE]
 >
@@ -57,7 +57,7 @@ GenStudio for Performance Marketing指南帮助创作AI个性化您的资源组�
 
 ### 结构化提示
 
-对于多节电子邮件，您可以构建提示以提供特定于节的说明，以便为电子邮件中的每个节生成各种内容。 结构化提示应直接引用电子邮件模板](/help/user-guide/content/email-template.md#multi-section-emails)中的[节名称，以便生成的内容可以插入到相应的内容占位符中。
+对于多节电子邮件，您可以构造提示以提供特定节的说明，以为[电子邮件](/help/user-guide/create/email-experiences.md)中的每个节生成各种内容。 结构化提示应直接引用电子邮件模板](/help/user-guide/content/email-template.md#multi-section-emails)中的[节名称，以便生成的内容可以插入到相应的内容占位符中。
 
 例如，您可以指示GenStudio for Performance Marketing在电子邮件的第一部分中生成推广新产品的内容，并在电子邮件的第二部分中生成详细说明该产品节省成本优势的内容。
 
