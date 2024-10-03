@@ -3,9 +3,9 @@ title: Adobe GenStudio for Performance Marketing [!DNL Content]概述
 description: 了解如何在一个直观的门户中查找、编辑、重用和共享品牌批准的资源。
 feature: Attributes, Content, Templates
 exl-id: e44e9c2d-33ee-4621-93a2-27f49478a8c9
-source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
+source-git-commit: 378e2b2d1b7242e8193b5e376c1e328272b11fa5
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '309'
 ht-degree: 1%
 
 ---
@@ -55,6 +55,16 @@ GenStudio for Performance Marketing [!DNL Content]提供了一个中心位置，
       <p>
          <a href="../content/use-templates.md#upload-a-template">
          <strong>上载模板</strong>
+         </a>
+      </p>
+   </td>
+   <td align="center" valign="top" width="100">
+      <a href="../content/asset-details.md#edit-in-express">
+         <img alt="在Adobe Express中编辑" src="../../assets/icons/icon-editExpress.png">
+      </a>
+      <p>
+         <a href="../content/asset-details.md#edit-in-express">
+         <strong>在Adobe Express中编辑资源</strong>
          </a>
       </p>
    </td>
