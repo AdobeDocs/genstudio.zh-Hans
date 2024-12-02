@@ -1,5 +1,5 @@
 ---
-title: “连接到 [!DNL AEM Assets Content Hub] 存储库”
+title: 连接到 [!DNL AEM Assets Content Hub] 存储库
 description: 了解如何将Adobe GenStudio for Performance Marketing连接到Adobe Experience Manager (AEM) [!DNL Content Hub] 存储库并利用现有的已批准内容。
 level: Experienced
 feature: Assets, Content
