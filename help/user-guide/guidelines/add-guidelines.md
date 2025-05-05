@@ -24,7 +24,7 @@ ht-degree: 0%
 
 要添加品牌，[上载品牌指南](#upload-a-brand)或[通过选择指南并输入品牌详细信息手动创建品牌](#manually-add-brand)。 [将品牌](#publish-brand)Publish到[!DNL Content]以使其可用于未来生成内容。
 
-在左侧导航区域中，单击&#x200B;**[!DNL Brands]**。 在&#x200B;_[!DNL Brands]_面板中，选择&#x200B;**添加品牌**。
+在左侧导航区域中，单击&#x200B;**[!DNL Brands]**。 在&#x200B;_[!DNL Brands]_&#x200B;面板中，选择&#x200B;**添加品牌**。
 
 >[!TIP]
 >每个品牌独立运作，没有层级关系。 要在父品牌下创建子品牌，请在创建过程中包含父品牌的信息。
@@ -67,7 +67,7 @@ GenStudio for Performance Marketing使用Adobe的创作AI技术，从您上传�
 
 1. 单击&#x200B;_新品牌_&#x200B;标题并输入描述性品牌名称。
 
-要查看您创建的[!DNL Brands]，请单击&#x200B;_Brand_&#x200B;面板顶部附近的向后箭头以导航回&#x200B;_[!DNL Brands]_主页。
+要查看您创建的[!DNL Brands]，请单击&#x200B;_Brand_&#x200B;面板顶部附近的向后箭头以导航回&#x200B;_[!DNL Brands]_&#x200B;主页。
 
 您无需[发布](#publish-brand)您的品牌即可访问信息。 任何手动添加的信息在添加后立即可用。 对于组织中的其他人要在GenStudio for Performance Marketing中使用品牌信息，您必须发布该品牌信息。
 
@@ -85,11 +85,11 @@ GenStudio for Performance Marketing使用Adobe的创作AI技术，从您上传�
 
 发布品牌后，将显示一条横幅，确认您的品牌已准备就绪：“*品牌已发布并可使用*”。
 
-已发布的品牌现在可在&#x200B;_[!DNL Create]_或_[!DNL Content]_&#x200B;中使用。
+已发布的品牌现在可在&#x200B;_[!DNL Create]_&#x200B;或_[!DNL Content]_&#x200B;中使用。
 
 ### 管理[!DNL Brands]
 
-在&#x200B;_[!DNL Brands]_主页中，您可以单击以&#x200B;**打开已创建的品牌**进行编辑或审阅，或者从[!DNL Brands]操作菜单的列表中&#x200B;**重命名**或&#x200B;**删除品牌**：
+在&#x200B;_[!DNL Brands]_&#x200B;主页中，您可以单击以&#x200B;**打开已创建的品牌**&#x200B;进行编辑或审阅，或者从[!DNL Brands]操作菜单的列表中&#x200B;**重命名**&#x200B;或&#x200B;**删除品牌**：
 
 * 单击品牌图块以打开品牌。
 * 从[!DNL Brands]操作菜单中选择&#x200B;**[!UICONTROL 重命名]**&#x200B;以重命名现有角色。
@@ -99,7 +99,7 @@ GenStudio for Performance Marketing使用Adobe的创作AI技术，从您上传�
 
 要添加产品，请[上传产品指南](#upload-a-product)或[通过选择指南并输入产品详细信息来手动创建产品](#manually-add-product)。
 
-在左侧导航区域中，单击&#x200B;**[!DNL Products]**。 在&#x200B;_[!DNL Products]_面板中，选择&#x200B;**添加产品**。
+在左侧导航区域中，单击&#x200B;**[!DNL Products]**。 在&#x200B;_[!DNL Products]_&#x200B;面板中，选择&#x200B;**添加产品**。
 
 您可以在GenStudio for Performance Marketing中添加[!DNL Products]，以在创建内容时指定各个产品焦点区域。<!-- Add Rename, display, reposition functionality -->
 
@@ -153,24 +153,24 @@ GenStudio for Performance Marketing使用Adobe的创作AI技术，从您上传�
 1. 要编辑封面图像，请将鼠标悬停在封面上，然后从“封面操作”菜单中选择“**[!UICONTROL 编辑封面]**”。
    1. 在&#x200B;_上传_&#x200B;选项卡中上传新图像或删除现有已上传图像。
    1. 从&#x200B;_图库_&#x200B;选项卡中的图库中选择图像，然后单击&#x200B;**[!UICONTROL 使用图像]**。
-   1. 若要重新定位封面图像，请单击“重新定位”****，将图像拖到所需位置，然后单击“保存”****。
+   1. 若要重新定位封面图像，请单击“重新定位”**&#x200B;**，将图像拖到所需位置，然后单击“保存”**&#x200B;**。
 
-   要查看您创建的[!DNL products]，请单击&#x200B;_产品_&#x200B;视图顶部附近的向后箭头，以导航回&#x200B;_[!DNL Products]_主页。
+   要查看您创建的[!DNL products]，请单击&#x200B;_产品_&#x200B;视图顶部附近的向后箭头，以导航回&#x200B;_[!DNL Products]_&#x200B;主页。
 
 ### 管理[!DNL Products]
 
-在&#x200B;_[!DNL Products]_主页中，您可以&#x200B;**打开已创建的[!DNL Product]**以进行编辑或审阅，或者&#x200B;**从列表中**删除产品：
+在&#x200B;_[!DNL Products]_&#x200B;主页中，您可以&#x200B;**打开已创建的[!DNL Product]**&#x200B;以进行编辑或审阅，或者&#x200B;**从列表中**&#x200B;删除产品：
 
 * 从[!DNL Products]操作菜单中选择&#x200B;**[!UICONTROL 打开]**&#x200B;以修订和审阅现有产品。
 * 从[!DNL Products]操作菜单中选择&#x200B;**[!UICONTROL 删除]**&#x200B;以&#x200B;**删除**&#x200B;产品。
-* 
+* &#x200B;
    * 从[!DNL Products]操作菜单中选择&#x200B;**[!UICONTROL 重命名]**&#x200B;以&#x200B;**重命名**&#x200B;产品。
 
 ## 添加[!DNL Personas]
 
 要添加角色，请[上传角色指南](#upload-a-persona)或[通过选择指南并输入角色详细信息来手动创建角色](#manually-add-persona)。
 
-在左侧导航区域中，单击&#x200B;**[!DNL Personas]**。 在&#x200B;_[!DNL Personas]_面板中，选择&#x200B;**添加角色**。
+在左侧导航区域中，单击&#x200B;**[!DNL Personas]**。 在&#x200B;_[!DNL Personas]_&#x200B;面板中，选择&#x200B;**添加角色**。
 
 您可以在GenStudio for Performance Marketing中添加[!DNL Persona]，以帮助将您创建的内容定位到您的理想受众。
 
@@ -224,13 +224,13 @@ GenStudio for Performance Marketing使用Adobe的创作AI技术，从您上传�
 1. 要编辑封面图像，请将鼠标悬停在封面上，然后从“封面操作”菜单中选择“**[!UICONTROL 编辑封面]**”。
    1. 在&#x200B;_上传_&#x200B;选项卡中上传新图像或删除现有已上传图像。
    1. 从&#x200B;_图库_&#x200B;选项卡中的图库中选择图像，然后单击&#x200B;**[!UICONTROL 使用图像]**。
-   1. 若要重新定位封面图像，请单击“重新定位”****，将图像拖到所需位置，然后单击“保存”****。
+   1. 若要重新定位封面图像，请单击“重新定位”**&#x200B;**，将图像拖到所需位置，然后单击“保存”**&#x200B;**。
 
-   要查看您创建的[!DNL Personas]，请单击&#x200B;_角色_&#x200B;视图顶部附近的向后箭头，以导航回&#x200B;_[!DNL Personas]_主页。
+   要查看您创建的[!DNL Personas]，请单击&#x200B;_角色_&#x200B;视图顶部附近的向后箭头，以导航回&#x200B;_[!DNL Personas]_&#x200B;主页。
 
 ### 管理[!DNL Personas]
 
-在&#x200B;_[!DNL Personas]_主页中，您可以&#x200B;**打开已创建的[!DNL Persona]**以进行编辑或审阅，或者&#x200B;**从列表中**删除角色：
+在&#x200B;_[!DNL Personas]_&#x200B;主页中，您可以&#x200B;**打开已创建的[!DNL Persona]**&#x200B;以进行编辑或审阅，或者&#x200B;**从列表中**&#x200B;删除角色：
 
 * 从[!DNL Personas]操作菜单中选择&#x200B;**[!UICONTROL 打开]**&#x200B;以修订和审阅现有角色。
 * 从[!DNL Personas]操作菜单中选择&#x200B;**[!UICONTROL 删除]**&#x200B;以&#x200B;**删除**&#x200B;角色。

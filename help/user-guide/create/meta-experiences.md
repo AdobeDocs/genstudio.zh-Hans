@@ -16,7 +16,7 @@ ht-degree: 0%
 
 借助Adobe GenStudio for Performance Marketing，您可以使用创作AI来简化[创建高影响力的元体验](/help/tutorials/create-meta-ad.md)。
 
-[!DNL Create]使内容创建者能够使用[指南](/help/user-guide/guidelines/overview.md)、图像资源和精心编制的提示[来快速[创建元广告体验](/help/tutorials/create-meta-ad.md)。](/help/user-guide/effective-prompts.md)
+[!DNL Create]使内容创建者能够使用[指南](/help/user-guide/guidelines/overview.md)、图像资源和精心编制的提示[&#128279;](/help/user-guide/effective-prompts.md)来快速[创建元广告体验](/help/tutorials/create-meta-ad.md)。
 
 电子邮件体验的可编辑部分包括：
 

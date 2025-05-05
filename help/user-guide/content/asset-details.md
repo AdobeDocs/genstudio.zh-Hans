@@ -18,7 +18,7 @@ Adobe GenStudio for Performance Marketing使用丰富的元数据存储经批准
 
 **要查看资源详细信息**：
 
-1. 在&#x200B;_[!DNL Content]_中，选择资产、体验或模板。 单击资产可打开资产的集中视图。
+1. 在&#x200B;_[!DNL Content]_&#x200B;中，选择资产、体验或模板。 单击资产可打开资产的集中视图。
 
 1. 在资源视图中，查看右侧的&#x200B;_[!UICONTROL 详细信息]_&#x200B;部分。
 
@@ -36,7 +36,7 @@ Adobe GenStudio for Performance Marketing使用丰富的元数据存储经批准
 
 您可以使用Adobe Express直接在GenStudio for Performance Marketing中编辑图像资源(JPG或PNG)。 _[!UICONTROL Powered byAdobe Express]_&#x200B;画布提供了方便的功能，无需离开GenStudio应用程序即可增强图像。 可以轻松删除背景、应用创成填充、调整效果和裁切图像。
 
-1. 在&#x200B;_[!DNL Content]_中，选择一个图像资源。 单击资产可打开资产的集中视图。
+1. 在&#x200B;_[!DNL Content]_&#x200B;中，选择一个图像资源。 单击资产可打开资产的集中视图。
 
 1. 在资源视图中，单击右上角的&#x200B;**[!UICONTROL 在Adobe Express中编辑]**&#x200B;图标。
 

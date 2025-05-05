@@ -44,7 +44,7 @@ AEM存储库是只读的，这意味着您不能将草稿、新资源或元数�
 
 **要添加一个或多个资源**：
 
-1. 在&#x200B;_[!DNL Content]_中，单击&#x200B;**[!UICONTROL 添加资源]**。
+1. 在&#x200B;_[!DNL Content]_&#x200B;中，单击&#x200B;**[!UICONTROL 添加资源]**。
 
 1. 在&#x200B;_添加批准的资产_&#x200B;视图中，将一个或多个文件拖放到放置空间中。 或者，您可以使用&#x200B;**[!UICONTROL 浏览]**&#x200B;从本地文件中选择，或者从Dropbox或Microsoft OneDrive导入文件。
 
@@ -78,7 +78,7 @@ In the future, need guidance on template upload errors. For now, the UI just say
 
 **要搜索要重复使用的内容，请执行以下操作：**
 
-1. 在&#x200B;_[!DNL Content]_中，选择&#x200B;**[!UICONTROL Assets]**部分。
+1. 在&#x200B;_[!DNL Content]_&#x200B;中，选择&#x200B;**[!UICONTROL Assets]**&#x200B;部分。
 
 1. 从&#x200B;**[!UICONTROL 位置]**&#x200B;列表中选择一个资源存储库，或验证您所查看的资源存储库是否正确。 `GenStudio assets`是默认存储库。
 

@@ -93,7 +93,7 @@ GenStudio for Performance Marketing使内容创建者能够使用&#x200B;_模板
 
 **添加模板**：
 
-1. 在&#x200B;_[!DNL Content]_中，选择&#x200B;**[!UICONTROL 模板]**部分。
+1. 在&#x200B;_[!DNL Content]_&#x200B;中，选择&#x200B;**[!UICONTROL 模板]**&#x200B;部分。
 
 1. 单击&#x200B;**[!UICONTROL 添加模板]**。
 
@@ -107,7 +107,7 @@ GenStudio for Performance Marketing使内容创建者能够使用&#x200B;_模板
 
    >[!TIP]
    >
-   >如果模板不正确，请单击“上一步”****&#x200B;并返回上一步。 上载更正后的模板文件。
+   >如果模板不正确，请单击“上一步”**&#x200B;**&#x200B;并返回上一步。 上载更正后的模板文件。
 
 1. 在&#x200B;_[!UICONTROL 提供模板详细信息和上传]_&#x200B;窗格中，命名您的模板并选择&#x200B;**[!UICONTROL 渠道]**&#x200B;类型。
 
@@ -126,7 +126,7 @@ GenStudio for Performance Marketing使内容创建者能够使用&#x200B;_模板
 
 **要使用模板创建体验**：
 
-1. 在&#x200B;_[!DNL Content]_中，选择&#x200B;**[!UICONTROL 模板]**部分。
+1. 在&#x200B;_[!DNL Content]_&#x200B;中，选择&#x200B;**[!UICONTROL 模板]**&#x200B;部分。
 
    ![内容模板列表](../../assets/content-templates.png){width="650" zoomable="yes"}
 

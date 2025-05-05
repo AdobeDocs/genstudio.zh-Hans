@@ -57,7 +57,7 @@ GenStudio for Performance Marketing指南帮助创作AI个性化您的资源组�
 
 ### 结构化提示
 
-对于多节电子邮件，您可以构造提示以提供特定节的说明，以为[电子邮件](/help/user-guide/create/email-experiences.md)中的每个节生成各种内容。 结构化提示应直接引用电子邮件模板](/help/user-guide/content/email-template.md#multi-section-emails)中的[节名称，以便生成的内容可以插入到相应的内容占位符中。
+对于多节电子邮件，您可以构造提示以提供特定节的说明，以为[电子邮件](/help/user-guide/create/email-experiences.md)中的每个节生成各种内容。 结构化提示应直接引用电子邮件模板[&#128279;](/help/user-guide/content/email-template.md#multi-section-emails)中的节名称，以便生成的内容可以插入到相应的内容占位符中。
 
 例如，您可以指示GenStudio for Performance Marketing在电子邮件的第一部分中生成推广新产品的内容，并在电子邮件的第二部分中生成详细说明该产品节省成本优势的内容。
 
@@ -72,7 +72,7 @@ GenStudio for Performance Marketing指南帮助创作AI个性化您的资源组�
   例如，如果您的模板使用`moduleA`或`Group-3`作为节名称，则您可以在提示中引用这些节名称。
 
 - 遵循建议的规则/结构。 如果提示结构不符合提供的格式，则该提示将应用于&#x200B;*所有*&#x200B;电子邮件节，并且仍然有助于内容生成。
-- 使用在电子邮件模板](/help/user-guide/content/email-template.md#code-an-email-template)中定义的[节名称。 提示引用必须与电子邮件模板中编码的部分名称匹配。
+- 使用在电子邮件模板[&#128279;](/help/user-guide/content/email-template.md#code-an-email-template)中定义的节名称。 提示引用必须与电子邮件模板中编码的部分名称匹配。
 - 不区分大小写。 例如，您可以在电子邮件模板和结构化提示中使用`Pod`或`pod`。
 - 首先引用常规用户提示，然后引用特定于部分的指令。
 - 使用冒号、连字符、逗号或其他分隔(`,:;#$!~|@=-%&*^_`)作为节名引用和指令之间的分隔。 例如，您可以使用以下内容作为特定节的提示指令： `Pod1; Describe how to easily edit text and swap images.`

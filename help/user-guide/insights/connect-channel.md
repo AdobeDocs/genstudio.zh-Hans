@@ -38,7 +38,7 @@ GenStudio for Performance Marketing会将渠道数据保留13个月。 这包括
 
 **在GenStudio for Performance Marketing中连接元广告帐户**：
 
-1. 在&#x200B;_[!DNL Insights]_中，单击&#x200B;**[!UICONTROL 连接渠道帐户]**。
+1. 在&#x200B;_[!DNL Insights]_&#x200B;中，单击&#x200B;**[!UICONTROL 连接渠道帐户]**。
 
    >[!INFO]
    >
