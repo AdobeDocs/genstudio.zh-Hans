@@ -85,7 +85,7 @@ GenStudio for Performance Marketing使用Adobe的创作AI技术，从您上传�
 
 发布品牌后，将显示一条横幅，确认您的品牌已准备就绪：“*品牌已发布并可使用*”。
 
-已发布的品牌现在可在&#x200B;_[!DNL Create]_&#x200B;或_[!DNL Content]_&#x200B;中使用。
+已发布的品牌现在可在&#x200B;_[!DNL Create]_&#x200B;或&#x200B;_[!DNL Content]_&#x200B;中使用。
 
 ### 管理[!DNL Brands]
 
